@@ -11,6 +11,6 @@
 ### WHOTS-16 Cruise
 ### WHOTS-17 Cruise
 
-## subsection Shipboard ADCP
+## Shipboard ADCP
 ### WHOTS-16 Deployment Cruise
 ### WHOTS-17 Deployment Cruise

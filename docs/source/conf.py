@@ -90,21 +90,12 @@ html_theme_options = {
     "repository_url": "https://github.com/hot-dogs/whots16-data-report",
     "use_repository_button": True,
     "use_issues_button": True,
-    "use_edit_page_button": True,
-    "path_to_docs": "../docs/source",
-    "repository_branch": "main",
     "home_page_in_toc": False,
-    "icon_links": [
-            {
-                "name": "HOT",
-                "url": "https://hahana.soest.hawaii.edu/hot",
-                "icon": "_static/_images/logo_HOT.png",
-                "type": "local",
-            },
-        ],
 }
 
 # -- Options for LaTeX output ---------------------------------------------
+latex_engine = 'pdflatex'
+
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     'papersize': 'a4paper',
