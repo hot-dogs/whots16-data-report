@@ -103,9 +103,9 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-    ('index', 'whots-16.tex',
+    ('index', 'whots16-data-report.tex',
      u'WHOTS-16: Data Report',
-     u'Fernando Carvalho Pacheco', 'manual'),
+     u'Fernando Carvalho Pacheco', 'article'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
