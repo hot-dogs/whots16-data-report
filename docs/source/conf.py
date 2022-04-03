@@ -74,11 +74,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.env']
 #
 html_theme = "sphinx_book_theme"
 html_logo = "_static/_images/logo_HOT.png"
-html_theme_options = {
-    'html_logo_height': '50px',
-    'html_logo_width': '50px',
-    'html_logo_margin': '0px',
-}
 html_title = "WHOTS-16"
 
 # Add any paths that contain custom static files (such as style sheets) here,
