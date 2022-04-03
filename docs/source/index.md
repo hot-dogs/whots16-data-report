@@ -1,8 +1,9 @@
 # WHOTS-16  
 
 ```{toctree} 
-:maxdepth: 2
+:maxdepth: 3
 :numbered:
+:caption: Table of Contents
 
 1_section
 2_section

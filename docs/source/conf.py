@@ -60,12 +60,16 @@ autosectionlabel_maxdepth = 3
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 source_suffix = '.md'
-master_doc = 'index'
+#master_doc = 'index'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.env']
+exclude_patterns = ['_build', 'build', 'Thumbs.db', '.DS_Store', '.env']
+
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -81,11 +85,23 @@ html_title = "WHOTS-16"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+
 html_theme_options = {
-    "repository_url": "https://github.com/hot-dogs/whots-annual-report",
+    "repository_url": "https://github.com/hot-dogs/whots16-data-report",
     "use_repository_button": True,
     "use_issues_button": True,
+    "use_edit_page_button": True,
+    "path_to_docs": "../docs/source",
+    "repository_branch": "main",
     "home_page_in_toc": False,
+    "icon_links": [
+            {
+                "name": "HOT",
+                "url": "https://hahana.soest.hawaii.edu/hot",
+                "icon": "_static/_images/logo_HOT.png",
+                "type": "local",
+            },
+        ],
 }
 
 # -- Options for LaTeX output ---------------------------------------------
