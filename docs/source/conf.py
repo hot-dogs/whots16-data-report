@@ -96,9 +96,9 @@ html_theme_options = {
 latex_engine = 'pdflatex'
 
 latex_additional_files = [
-    'latex_templates/maketitle.tex.txt',
-    'latex_templates/mystyle.tex.txt',
     'figures/logos/all_whots_report.png',
+    'latex_templates/maketitle.sty',
+    'latex_templates/mystyle.sty',
 ]
 
 latex_elements = {
@@ -111,11 +111,11 @@ latex_elements = {
 
     # ===================== PREAMBLE ======================================
     'preamble': r'''
-        \input{mystyle.tex.txt}
+        \input{mystyle.sty}
     ''',
     # ============== COVER PAGE + TABLE OF CONTENTS  ======================
     'maketitle': r''' 
-        \input{maketitle.tex.txt}
+        \input{maketitle.sty}
     ''',
     # Latex figure (float) alignment
     # 'figure_align': 'htbp',
