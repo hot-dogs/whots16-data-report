@@ -9,8 +9,9 @@ version: 2
 sphinx:
    configuration: docs/source/conf.py
 
-# Include PDF and ePub
-formats: all
+# Include PDF
+formats:
+  - pdf
 
 conda:
   environment: docs/environment.yml
