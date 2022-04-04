@@ -151,7 +151,7 @@ latex_domain_indices = True
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'whots16-data-report.text'
+epub_title = u'WHOTS-16 Data Report'
 epub_author = u'Fernando Carvalho Pacheco'
 epub_publisher = u'Fernando Carvalho Pacheco'
 epub_copyright = f'2022-04-02-{datetime.now().year}, Fernando Carvalho Pacheco'
