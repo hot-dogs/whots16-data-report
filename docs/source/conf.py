@@ -96,9 +96,9 @@ html_theme_options = {
 latex_engine = 'pdflatex'
 
 latex_additional_files = [
-    "latex_templates/mystyle.tex.txt"
-    "latex_tempates/maketitle.tex.txt",
-    "figures/logos/all_whot_report.png",
+    'latex_templates/maketitle.tex.txt',
+    'latex_templates/mystyle.tex.txt',
+    'figures/logos/all_whots_report.png',
 ]
 
 latex_elements = {
@@ -109,78 +109,15 @@ latex_elements = {
     'figure_align': 'htbp',
     'pointsize': '10pt',
 
-    # Additional stuff for the LaTeX preamble.
+    # ===================== PREAMBLE ======================================
     'preamble': r'''
         \input{mystyle.tex.txt}
     ''',
+    # ============== COVER PAGE + TABLE OF CONTENTS  ======================
     'maketitle': r''' 
         \input{maketitle.tex.txt}
-%       \pagenumbering{Roman} %%% to avoid page 1 conflict with actual page 1
-
-%       \begin{titlepage}
-%           \centering
-
-%           %\vspace*{2mm} %%% * is used to give space from top
-%           {\scshape\Huge \textbf{University of Hawaii at Manoa} \par}
-%           
-%           \rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} 
-%           \rule{\textwidth}{1.6pt}
-%           
-%           \vspace{1mm}
-%           
-%           \hbox{\hspace{0em}\includegraphics[width=18cm]{all_whot_report.png}}
-%           \rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick 
-%           \rule{\textwidth}{0.4pt} % Thin horizontal rule
-%           
-%           {\Huge \textbf{Hydrographic Observations At the Woods Hole Oceanographic 
-%           Institution Hawaii Ocean Time-series Site: 2019 - 2020} \par}
-%           
-%           {\Large {by}\par}
-%           
-%           {\Large 
-%           Fernando Carvalho Pacheco\footnote{The University of Hawaii at Manoa}, 
-%           Fernando Santiago-Mandujano\footnotemark[\value{footnote}], 
-%           Albert Plueddemann\footnote{Woods Hole Oceanographic Institution},
-%           Robert Weller\footnotemark[\value{footnote}],
-%           James Potemra\footnotemark[1],
-%           Daniel Fitzgerald\footnotemark[1] 
-%           and Nan Galbraith\footnotemark[2] \par}
-%           
-%           \vspace{0.50cm}
-%           {\normalsize \Large \today\par} 
-%           
-%           \vspace{1cm}
-%           {\Huge\bfseries Data Report - 16 \par}
-%           
-%           \vspace{1cm}
-%           
-%           {\normalsize \ Approved for public release; distribution unlimited. \par}
-%           
-%           % Bottom of the page
-%           \vspace{1.5cm} 
-
-%           {\normalsize \ The University of Hawaii at Manoa \\
-%           School of Ocean and Earth Science and Technology \\
-%           1000 Pope Road, Honolulu, Hawaii 96822\par}
-%           \vspace{1cm}
-%           
-%           {\large\ SOEST Publication no. xXxXxXxXxXxXxX \par} 
-%           
-%           \vspace{0.25cm}
-
-%       \end{titlepage}
-
-%       \clearpage
-%       \pagenumbering{roman}
-%       \tableofcontents
-%       \listoffigures
-%       \listoftables
-%       \clearpage
-%       \pagenumbering{arabic}
-
-        ''',
+    ''',
     # Latex figure (float) alignment
-    #
     # 'figure_align': 'htbp',
     'sphinxsetup': \
         'hmargin={0.7in,0.7in}, vmargin={1in,1in}, \

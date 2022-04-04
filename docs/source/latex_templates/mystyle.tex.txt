@@ -1,10 +1,11 @@
-%%%%%%%%%%%%%%%%%%%% Meher %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% add number to subsubsection 2=subsection, 3=subsubsection
-%%% below subsubsection is not good idea.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%============= TOC, FIGURES, & TABLES===================================
 \setcounter{secnumdepth}{3}
-%
-%%%% Table of content upto 2=subsection, 3=subsubsection
+
+%=======================================================================
+% Table of content
+%   2 = subsection,
+%   3 = subsubsection
+%=======================================================================
 \setcounter{tocdepth}{3}
 
 \usepackage{amsmath,amsfonts,amssymb,amsthm}
@@ -14,6 +15,7 @@
 
 %%% Reduce spaces for Table of contents, figures and tables
 %%% It is used "\addtocontents{toc}{\vskip -1.2cm}" etc. in the document
+\addtocontents{toc}{\vskip -2.5cm}
 \usepackage[notlot,nottoc,notlof]{}
 
 \usepackage{color}
