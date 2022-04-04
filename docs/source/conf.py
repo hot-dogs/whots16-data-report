@@ -142,9 +142,6 @@ latex_documents = [
      u'Fernando Carvalho Pacheco', 'manual'),
 ]
 
-# Documents to append as an appendix to all manuals.
-# latex_appendices = []
-
 # If false, no module index is generated.
 latex_domain_indices = True
 
