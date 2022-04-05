@@ -95,10 +95,13 @@ html_theme_options = {
 # -- Options for LaTeX output ---------------------------------------------
 latex_engine = 'pdflatex'
 
+# The name of an image file (relative to this directory) to place at the top of
+# the title page.
+latex_logo = "_static/_images/all_whots_report.png"
+
 latex_additional_files = [
-    'figures/logos/all_whots_report.png',
-    'latex_templates/maketitle.sty',
-    'latex_templates/mystyle.sty',
+    "latex_templates/maketitle.sty",
+    "latex_templates/mystyle.sty",
 ]
 
 latex_elements = {
@@ -129,10 +132,6 @@ latex_elements = {
     'tableofcontents': ' ',
 
 }
-
-# The name of an image file (relative to this directory) to place at the top of
-# the title page.
-latex_logo = "_static/_images/all_whots_report.png"
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
