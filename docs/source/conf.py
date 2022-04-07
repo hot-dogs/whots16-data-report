@@ -97,7 +97,7 @@ latex_engine = 'pdflatex'
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = "_static/_images/all_whots_report.png"
+latex_logo = "_static/_images/all_whots_report.pdf"
 
 latex_additional_files = [
     "latex_templates/maketitle.sty",
