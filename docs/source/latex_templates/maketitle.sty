@@ -22,13 +22,14 @@
     {\Large {by}\par}
 
     {\Large
-    Fernando Carvalho Pacheco\footnote{The University of Hawaii at Manoa},
-    Fernando Santiago-Mandujano\footnotemark[\value{footnote}],
-    Albert Plueddemann\footnote{Woods Hole Oceanographic Institution},
-    Robert Weller\footnotemark[\value{footnote}],
-    James Potemra\footnotemark[1],
-    Daniel Fitzgerald\footnotemark[1]
-    and Nan Galbraith\footnotemark[2] \par}
+    Fernando Carvalho Pacheco\footnote{The University of Hawaii at Manoa\label{uhmanoa}},
+    Fernando Santiago-Mandujano\footref{uhmanoa},
+    Albert Plueddemann\footnote{Woods Hole Oceanographic Institution\label{woodshole}},
+    Robert Weller\footref{woodshole},
+    James Potemra\footref{uhmanoa},
+    Daniel Fitzgerald\footref{uhmanoa},
+    and Nan Galbraith\footref{woodshole}
+    \par}
 
     \vspace{0.50cm}
     {\normalsize \Large \today\par}
@@ -53,63 +54,68 @@
     \vspace{0.25cm}
 
 \end{titlepage}
+%======================================= END =========================================
 
+
+%=============================== SECOND TITLE PAGE ===================================
 \begin{titlepage}
     \centering
 
-    %\vspace*{2mm} %%% * is used to give space from top
-    {\scshape\Huge \textbf{University of Hawaii at Manoa} \par}
-
-    \rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt}
-    \rule{\textwidth}{1.6pt}
-
-    \vspace{1mm}
-
-    \hbox{\hspace{0em}\includegraphics[width=18cm]{all_whots_report.png}}
-    \rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick
-    \rule{\textwidth}{0.4pt} % Thin horizontal rule
-
-    {\Huge \textbf{Hydrographic Observations At the Woods Hole Oceanographic
+    %\vspace*{10mm} %%% * is used to give space from top
+    {\scshape\large\bfseries\textbf{Hydrographic Observations At the Woods Hole Oceanographic
     Institution Hawaii Ocean Time-series Site: 2019 - 2020} \par}
 
-    {\Large {by}\par}
-
-    {\Large
-    Fernando Carvalho Pacheco\footnote{The University of Hawaii at Manoa},
-    Fernando Santiago-Mandujano\footnotemark[\value{footnote}],
-    Albert Plueddemann\footnote{Woods Hole Oceanographic Institution},
-    Robert Weller\footnotemark[\value{footnote}],
-    James Potemra\footnotemark[1],
-    Daniel Fitzgerald\footnotemark[1]
-    and Nan Galbraith\footnotemark[2] \par}
-
-    \vspace{0.50cm}
-    {\normalsize \Large \today\par}
-
     \vspace{1cm}
-    {\Huge\bfseries Data Report - 16 \par}
+    {\large {by}\par}
+    \vspace{1cm}
+
+    {\large
+    Fernando Carvalho Pacheco\footref{uhmanoa},
+    Fernando Santiago-Mandujano\footref{uhmanoa},
+    Albert Plueddemann\footref{woodshole},
+    Robert Weller\footref{woodshole},
+    James Potemra\footref{uhmanoa},
+    Daniel Fitzgerald\footref{uhmanoa},
+    and Nan Galbraith\footref{woodshole}
+    \par}
 
     \vspace{1cm}
 
-    {\normalsize \ Approved for public release; distribution unlimited. \par}
+    {\large \ The University of Hawaii at Manoa \\
+    School of Ocean and Earth Science and Technology \\
+    1000 Pope Road \\
+    Honolulu, Hawaii 96822\\
+    U.S.A\par}
+
+    \vspace{1cm}
+
+    {\large \today\par}
+
+    \vspace{2cm}
+    {\large\bfseries Data Report - 16 \par}
+
+    \vspace{2cm}
+
+    \centering
+    {\large Reproduction in whole or in part is permitted for any purpose of the United States Government.
+    This report should be cited as Pacheco F.C., et al., 2021, Hydrographic observations at the Woods Hole
+    Oceanographic Institution Hawaii Ocean Time-Series Site: 2019-2020, Data Report 16, School of Ocean Science and
+    Technology publication xxxxx, University of Hawaii at Manoa, xxx pp.\url{(http://www.soest.hawaii.edu/whots/WHOTS-15_datareport.pdf)} \par}
 
     % Bottom of the page
-    \vspace{1.5cm}
+    \vspace{4cm}
 
-    {\normalsize \ The University of Hawaii at Manoa \\
-    School of Ocean and Earth Science and Technology \\
-    1000 Pope Road, Honolulu, Hawaii 96822\par}
+    {\large\ Approved for public release; distribution unlimited. \par}
+
     \vspace{1cm}
-
-    {\large\ SOEST Publication no. xXxXxXxXxXxXxX \par}
-
-    \vspace{0.25cm}
 
 \end{titlepage}
 
+%======================================= END =========================================
 
+%==============================  ACKNOWLEDGMENTS   ===================================
 \chapter*{Acknowledgments}
-Many people participated in the WHOTS mooring deployment/recovery cruises. They are listed in Table II-1 and Table II-4.
+{\large Many people participated in the WHOTS mooring deployment/recovery cruises. They are listed in Table II-1 and Table II-4.
 We gratefully acknowledge their contributions and support. Thanks are due to all the personnel of the Upper Ocean
 Processes Group (UOP) at WHOI who prepared the WHOTS buoy’s instrumentation and mooring; to Kelsey Maloney, Tully Rohrer,
 Svetlana Natarov, Noah Howins, Ryan Tabata, and Garret Hebert, for their technical assistance with the moored and shipboard
@@ -119,8 +125,9 @@ Ship Hi’ialakai, Ship Oscar Sette, and the University of Hawaii (UH) Marine Ce
 The WHOTS mooring work is funded in part by the Ocean Observing and Monitoring Division, Climate Program Office
 (FundRef number 100007298), National Oceanic and Atmospheric Administration, U.S. Department of Commerce, under grant
 NA14OAR4320158 to the Woods Hole Oceanographic Institution. This work was also supported by the National Science
-Foundation grant OCE12-60164.
+Foundation grant OCE12-60164.\par}
 
+%======================================= END =========================================
 
 \clearpage
 \pagenumbering{roman}
@@ -130,3 +137,6 @@ Foundation grant OCE12-60164.
 \clearpage
 \pagenumbering{arabic}
 
+\section*{References}
+\addcontentsline{toc}{section}{References}
+\printbibliography

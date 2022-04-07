@@ -69,7 +69,6 @@
 %=======================================================================
 \fancyfoot[R]{\ifthenelse{\isodd{\value{page}}}{{\tiny WHOTS-16} }{\href{https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/}{\tiny  WHOTS-16}}}
 
-
 %=======================================================================
 % Alternating Footer for two side
 %\fancyfoot[RO, RE]{\scriptsize Meher Krishna Patel (mekrip@gmail.com)}
@@ -114,3 +113,15 @@
     		 urlcolor=cyan,
 		     citecolor=blue,
 		     pdfnewwindow=true}
+
+%======================================================================
+% Add Footnote cross reference
+%======================================================================
+\usepackage{footmisc}
+
+%======================================================================
+% Allow Citations and Appendix to document
+%======================================================================
+\usepackage[backend=biber, style=authoryear]{biblatex}
+\addbibresource{whots15.bib}
+\usepackage{appendix} % Add Appendix to document
