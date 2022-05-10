@@ -39,6 +39,7 @@ extensions = [
 ]
 
 bibtex_bibfiles = ['refs.bib']
+bibtex_reference_style = ['author_year']
 
 intersphinx_mapping = {
     "cchdo-website": ("https://exchange-format.readthedocs.io/en/latest/", None),
