@@ -15,7 +15,7 @@ meteorological and oceanographic measurements at a site near Station ALOHA by su
 These observations are being used to investigate air-sea interaction processes related to climate variability and change.
 
 The original mooring system is described in the mooring deployment/recovery cruise reports
-{cite}`Plueddemann2006, Whelan2007a`. Bri, a Surlyn foam surface buoy is equipped with meteorological 
+{cite}`Plueddemann2006, Whelan2007`. Bri, a Surlyn foam surface buoy is equipped with meteorological 
 instrumentation including two complete Air-Sea Interaction Meteorological (ASIMET) systems 
 \parencite{Hosom1995, Colbo2009} , measuring air and sea surface temperatures, relative humidity, barometric pressure, 
 wind speed and direction, incoming shortwave and longwave radiation, and precipitation. Complete surface meteorological 
