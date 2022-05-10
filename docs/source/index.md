@@ -11,5 +11,4 @@
 4_section
 5_section
 6_section
-references
 ```
