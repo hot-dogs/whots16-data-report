@@ -35,7 +35,10 @@ extensions = [
     "nbsphinx",
     "sphinx.ext.intersphinx",
     "sphinx.ext.autosectionlabel",
+    "sphinxcontrib.bibtex",
 ]
+
+bibtex_bibfiles = ['refs.bib']
 
 intersphinx_mapping = {
     "cchdo-website": ("https://exchange-format.readthedocs.io/en/latest/", None),
