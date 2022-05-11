@@ -17,6 +17,8 @@
 % FIX LATEX DOUBLE BIBLIOGRAPHY OUTPUT
 %======================================================================
 \usepackage{etoolbox}
+\AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 
 
 %=======================================================================

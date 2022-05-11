@@ -120,9 +120,6 @@ latex_elements = {
     # ===================== PREAMBLE ======================================
     'preamble': r'''
         \input{mystyle.sty}
-        \\usepackage{etoolbox}
-        \\AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
-        \\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
     ''',
     # ============== COVER PAGE + TABLE OF CONTENTS  ======================
     'maketitle': r''' 
