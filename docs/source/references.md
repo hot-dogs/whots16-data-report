@@ -1,9 +1,7 @@
 ```{eval-rst}
 .. only:: html 
 
-.. _refs:
+    .. rubric:: References
 
-References
-==========
 .. bibliography::
 ```
