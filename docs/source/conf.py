@@ -142,6 +142,7 @@ latex_elements = {
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
+
 latex_documents = [
     ('index', 'whots16-data-report.tex',
      u'WHOTS-16: Data Report',
