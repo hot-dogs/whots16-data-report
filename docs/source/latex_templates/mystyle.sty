@@ -13,13 +13,6 @@
 % Include Images
 \usepackage{graphicx}
 
-%======================================================================
-% FIX LATEX DOUBLE BIBLIOGRAPHY OUTPUT
-%======================================================================
-\usepackage{etoolbox}
-\AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
-\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
-
 
 %=======================================================================
 % Reduce spaces for Table of contents, figures and tables
@@ -128,5 +121,10 @@
 %======================================================================
 \usepackage{footmisc}
 
-
-
+%======================================================================
+% FIX LATEX DOUBLE BIBLIOGRAPHY OUTPUT
+%======================================================================
+\usepackage{etoolbox}
+%\AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
+%\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+\makeatletter\patchcmd{\thebibliography}{\chapter*{\bibname}\@mkboth{\MakeUppercase\bibname}{\MakeUppercase\bibname}}{}{}{}\makeatother
