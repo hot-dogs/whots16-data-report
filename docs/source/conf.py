@@ -80,7 +80,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
+
 html_theme = "sphinx_book_theme"
 html_logo = "_static/_images/logo_HOT.png"
 html_title = "WHOTS-16"
@@ -91,6 +91,7 @@ html_title = "WHOTS-16"
 html_static_path = ['_static']
 
 html_theme_options = {
+    "announcement": "IN DEVELOPMENT!",
     "repository_url": "https://github.com/hot-dogs/whots16-data-report",
     "use_repository_button": True,
     "use_issues_button": True,
