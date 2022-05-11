@@ -34,4 +34,13 @@ diagram in the  \ref{fig:whots_digram}.
 	\end{center}
 \end{figure}        
 
-The subsurface instrumentation is located vertically to resolve the temporal variations of shear and stratification in the upper pycnocline to support the study of mixed layer entrainment. Experience with moored profiler measurements near Hawaii suggests that Richardson's number estimates over 10 m scales are adequate. Salinity is crucial to water mass stratification, as salt-stratified barrier layers are observed at HOT and in the region (Kara et al., 2000). Thus Sea-Bird MicroCATs with vertical separation ranging from 5-20 m were used to measure temperature and salinity. A Teledyne RD Instruments (TRDI) ADCP obtains current profiles across the entrainment zone and another in the mixed layer. Both ADCPs are in an upward-looking configuration, one is at 125 m, using 4 m bins, and the other is at 47.5 m using 2 m bins. To provide near-surface velocity (where the ADCP estimates are less reliable), we deploy two VMCMs. The simple mooring design is a balance between resolving extremes versus the typical annual cycling of the mixed layer (see  Plueddemann et al., 2006; Santiago-Mandujano et al., 2007)
+The subsurface instrumentation is located vertically to resolve the temporal variations of shear and stratification in
+the upper pycnocline to support the study of mixed layer entrainment. Experience with moored profiler measurements near
+Hawaii suggests that Richardson's number estimates over 10 m scales are adequate. Salinity is crucial to water mass 
+stratification, as salt-stratified barrier layers are observed at HOT and in the region (Kara et al., 2000). 
+Thus Sea-Bird MicroCATs with vertical separation ranging from 5-20 m were used to measure temperature and salinity. 
+A Teledyne RD Instruments (TRDI) ADCP obtains current profiles across the entrainment zone and another in the mixed layer.
+Both ADCPs are in an upward-looking configuration, one is at 125 m, using 4 m bins, and the other is at 47.5 m using 2 m 
+bins. To provide near-surface velocity (where the ADCP estimates are less reliable), we deploy two VMCMs. 
+The simple mooring design is a balance between resolving extremes versus the typical annual cycling of the mixed layer 
+(see {cite}`Plueddemann2006`; Santiago-Mandujano et al., 2007)
