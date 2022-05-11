@@ -122,3 +122,7 @@
 
 
 %======================================================================
+% FIX LATEX DOUBLE BIBLIOGRAPHY OUTPUT
+%======================================================================
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
