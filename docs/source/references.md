@@ -1,7 +1,15 @@
 ```{eval-rst}
-.. only:: html 
+.. raw:: latex
 
-    .. rubric:: References
+   \cleardoublepage
+   \begingroup
+   \renewcommand\chapter[1]{\endgroup}
+   \phantomsection
+
+.. _refs:
+
+References
+==========
 
 .. bibliography::
 ```
