@@ -13,6 +13,13 @@
 % Include Images
 \usepackage{graphicx}
 
+%======================================================================
+% FIX LATEX DOUBLE BIBLIOGRAPHY OUTPUT
+%======================================================================
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+
+
 %=======================================================================
 % Reduce spaces for Table of contents, figures and tables
 % It is used "\addtocontents{toc}{\vskip -1.2cm}" etc. in the document
@@ -121,10 +128,4 @@
 \usepackage{footmisc}
 
 
-%======================================================================
-% FIX LATEX DOUBLE BIBLIOGRAPHY OUTPUT
-%======================================================================
-%\usepackage{etoolbox}
-%\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 
-\addto\captionsenglish{\renewcommand{\bibname}{References}}
