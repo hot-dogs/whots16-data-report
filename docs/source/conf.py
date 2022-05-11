@@ -107,7 +107,6 @@ latex_logo = "_static/_images/all_whots_report.pdf"
 latex_additional_files = [
     "latex_templates/maketitle.sty",
     "latex_templates/mystyle.sty",
-    "latex_templates/refs.bib",
 ]
 
 latex_elements = {
