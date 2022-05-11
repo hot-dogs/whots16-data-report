@@ -38,7 +38,7 @@ extensions = [
     "sphinxcontrib.bibtex",
 ]
 
-bibtex_bibfiles = ['refs.bib']
+bibtex_bibfiles = ['latex_templates/refs.bib']
 bibtex_default_style = 'plain'
 bibtex_reference_style = 'author_year'
 
@@ -91,7 +91,6 @@ html_title = "WHOTS-16"
 html_static_path = ['_static']
 
 html_theme_options = {
-    "announcement": "IN DEVELOPMENT!",
     "repository_url": "https://github.com/hot-dogs/whots16-data-report",
     "use_repository_button": True,
     "use_issues_button": True,
@@ -108,6 +107,7 @@ latex_logo = "_static/_images/all_whots_report.pdf"
 latex_additional_files = [
     "latex_templates/maketitle.sty",
     "latex_templates/mystyle.sty",
+    "latex_templates/refs.bib",
 ]
 
 latex_elements = {
@@ -135,7 +135,8 @@ latex_elements = {
         HeaderFamily=\\rmfamily\\bfseries, \
         InnerLinkColor={rgb}{0,0,1}, \
         OuterLinkColor={rgb}{0,0,1}',
-    'tableofcontents': ' ',
+
+    #'tableofcontents': ' ',
 
 }
 
