@@ -39,6 +39,7 @@ The simple mooring design is a balance between resolving extremes versus the typ
 
 
 ```{figure} figures/diagram/whots16_diagram.png
+:height: 1000px
 :align: center
 :name: whots16_diagram
 
