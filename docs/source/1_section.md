@@ -11,15 +11,14 @@ Office of Climate Observation.
 
 With support from NOAA and the National Science Foundation (NSF), the WHOI HOT
 Site (WHOTS) surface mooring has been maintained at Station ALOHA since August
-
 2004. This project aims to provide long-term, high-quality air-sea fluxes as a
-      coordinated part of the HOT program and contribute to the goals of
-      observing heat, freshwater, and chemical fluxes at a site representative
-      of the oligotrophic North Pacific Ocean. The approach maintains a surface
-      mooring outfitted for meteorological and oceanographic measurements at a
-      site near Station ALOHA by successive mooring turnarounds. These
-      observations are being used to investigate air-sea interaction processes
-      related to climate variability and change.
+coordinated part of the HOT program and contribute to the goals of observing
+heat, freshwater, and chemical fluxes at a site representative of the
+oligotrophic North Pacific Ocean. The approach maintains a surface mooring
+outfitted for meteorological and oceanographic measurements at a site near
+Station ALOHA by successive mooring turnarounds. These observations are being
+used to investigate air-sea interaction processes related to climate
+variability and change.
 
 The original mooring system is described in the mooring deployment/recovery
 cruise reports {cite}`Plueddemann2006, Whelan2007`. Briefly, a Surlyn foam
@@ -61,7 +60,6 @@ typical annual cycling of the mixed layer
 
 WHOTS-16 mooring design
 ```
-
 
 ```{admonition} OLD TEXT!
 :class: warning 
