@@ -50,8 +50,7 @@ Both ADCPs are in an upward-looking configuration, one is at 125 m, using 4 m
 bins, and the other is at 47.5 m using 2 m bins. To provide near-surface
 velocity (where the ADCP estimates are less reliable), we deploy two VMCMs. The
 simple mooring design is a balance between resolving extremes versus the
-typical annual cycling of the mixed layer
-{cite}`Plueddemann2006, Santiago-Mandujano2007`.
+typical annual cycling of the mixed layer {cite}`Plueddemann2006, Santiago-Mandujano2007`.
 
 ```{figure} figures/diagram/whots16_diagram.png
 :height: 1000px
@@ -61,7 +60,7 @@ typical annual cycling of the mixed layer
 WHOTS-16 mooring design
 ```
 
-```{admonition} OLD TEXT!
+````{admonition} OLD TEXT!
 :class: warning 
 
 The fifteenth WHOTS mooring was deployed on September 23rd, 2018, during an
@@ -80,5 +79,4 @@ described in Section IV. Section V includes the processing procedures for the
 data collected by the moored instruments: SeaCATs, MicroCATs, VMCMs, and moored
 ADCPs. Plots of the resulting data and preliminary analysis are presented in
 Section VI.
-
-```
+````
