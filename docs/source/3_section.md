@@ -1,6 +1,5 @@
 # Description of WHOTS-16 Mooring
 
-
 ````{admonition} OLD TEXT!
 :class: warning
 
