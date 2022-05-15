@@ -185,10 +185,33 @@ Upper panels] Same as in Figure VI 1, but for station 52, cast
 4. [Lower panels] Same as in Figure VI 1, but for station 52, cast 5.
 ```
 
-
-
-
 ## Thermosalinograph Data
+
+````{admonition} OLD TEXT!
+:class: warning
+Underway measurements of near-surface temperature and salinity from the
+thermosalinograph (TSG) system onboard the R/V Hi’ialakai cruise are presented
+in Figure VI 12 and navigational data is shown in Figure VI 13 for the WHOTS-15
+cruise. TSG and navigational data during the WHOTS-16 cruise, onboard the R/V
+Oscar Sette, are presented in Figure VI 14 and Figure VI 15, respectively. The
+WHOTS-16 underway seawater system that feeds the TSG failed on October 11th,
+2019, due to air going into the plumbing, causing the pumps to stop working
+during deteriorated weather conditions.
+````
+
+```{figure} figures/thermosal/ac38thsl_final.
+:height: 1000px
+:align: center
+:name: figure6.7
+
+Final processed temperature (upper panel), salinity (middle panel), and
+potential density (σθ) (lower panel) data from the continuous underway system
+onboard the R/V Hi’ialakai during the WHOTS-15 cruise. Temperature and salinity
+taken from 6-dbar CTD data (circles) and salinity bottle sample data (crosses)
+are superimposed. The dashed vertical red line indicates the period of
+occupation of Station ALOHA and the WHOTS site.
+```
+
 
 ## MicoCAT Data
 
