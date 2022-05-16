@@ -176,7 +176,6 @@ Upper panels] Same as in Figure VI 1, but for station 52, cast 4.[Lower
 panels] Same as in Figure VI 1, but for station 52, cast 5.
 ```
 
-
 ```{figure} figures/ctd/2.whots_17/s2c1_s20c1.png
 :height: 1000px
 :align: center
@@ -201,7 +200,6 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 1.[Lower panels] Same as in Figure 6.6, but for station 50, cast 2.
 ```
 
-
 ```{figure} figures/ctd/2.whots_17/s50c3_s50c4.png
 :height: 1000px
 :align: center
@@ -210,7 +208,6 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 3.[Lower panels] Same as in Figure 6.6, but for station 50, cast 4.
 ```
-
 
 ```{figure} figures/ctd/2.whots_17/s50c5_s50c6.png
 :height: 1000px
@@ -221,7 +218,6 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 5.[Lower panels] Same as in Figure 6.6, but for station 50, cast 6.
 ```
 
-
 ```{figure} figures/ctd/2.whots_17/s52c1_s52c2.png
 :height: 1000px
 :align: center
@@ -230,7 +226,6 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 52, cast
 1.[Lower panels] Same as in Figure 6.6, but for station 52, cast 2.
 ```
-
 
 ## Thermosalinograph Data
 
@@ -249,7 +244,7 @@ during deteriorated weather conditions.
 ```{figure} figures/thermosal/ac38thsl_final.*
 :height: 600px
 :align: center
-:name: figure6.6
+:name: figure6.11
 
 Final processed temperature (upper panel), salinity (middle panel), and
 potential density (σθ) (lower panel) data from the continuous underway system
@@ -259,8 +254,36 @@ are superimposed. The dashed vertical red line indicates the period of
 occupation of Station ALOHA and the WHOTS site.
 ```
 
+```{figure} figures/thermosal/ac38nav_final.*
+:height: 600px
+:align: center
+:name: figure6.12
 
+Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
+speed (lower panel) during the WHOTS-15 cruise.
+```
 
+```{figure} figures/thermosal/ac39thsl_final1.png
+:height: 600px
+:align: center
+:name: figure6.13
+
+Final processed temperature (upper panel), salinity (middle panel), and
+potential density (σθ) (lower panel) data from the continuous underway system
+onboard the R/V Oscar Sette during the WHOTS-16 cruise. Temperature and
+salinity were taken from 6-dbar CTD data (circles), and salinity bottle sample
+data (crosses) are superimposed. The dashed vertical red line indicates the
+period of occupation of Station ALOHA and the WHOTS site.
+```
+
+```{figure} figures/thermosal/ac39nav_final.png
+:height: 600px
+:align: center
+:name: figure6.12
+
+Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
+speed (lower panel) during the WHOTS-15 cruise.
+```
 
 ## MicoCAT Data
 
