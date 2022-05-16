@@ -199,8 +199,8 @@ WHOTS-16 underway seawater system that feeds the TSG failed on October 11th,
 during deteriorated weather conditions.
 ````
 
-```{figure} figures/thermosal/ac38thsl_final.
-:height: 1000px
+```{figure} figures/thermosal/ac38thsl_final.*
+:height: 600px
 :align: center
 :name: figure6.7
 
