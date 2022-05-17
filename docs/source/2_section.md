@@ -99,8 +99,7 @@ add Table II 4.Scientific personnel on Ship Oscar Sette during the WHOTS-16 crui
 
 The UH group conducted the shipboard oceanographic observations during the
 cruise. A complete description of these operations is available in the WHOTS-16
-cruise report (
-see http://www.soest.hawaii.edu/whots/proc_reports/WHOTS-16_CruiseRpt.pdf) .
+cruise report [http://www.soest.hawaii.edu/whots/proc_reports/WHOTS-16_CruiseRpt.pdf].
 
 A Sea-Bird CTD system was used to measure T, S, and O2 profiles during CTD
 casts. The time, location, and maximum CTD pressure for each profile are listed

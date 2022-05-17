@@ -35,7 +35,7 @@ series of upper ocean temperatures, salinities, and velocities with the surface
 forcing record. This mooring includes conductivity, salinity and temperature
 recorders, two Vector Measuring Current Meters (VMCMs), and two Acoustic
 Doppler current profilers (ADCPs). See the WHOTS-16 mooring diagram in the
-{numref}`whots16-diagram`.
+{numref}`diagram`.
 
 The subsurface instrumentation is located vertically to resolve the temporal
 variations of shear and stratification in the upper pycnocline to support the
@@ -55,7 +55,7 @@ typical annual cycling of the mixed layer {cite}`Plueddemann2006, Santiago-Mandu
 ```{figure} figures/diagram/whots16-diagram.png
 :height: 1000px
 :align: center
-:name: whots16-diagram
+:name: diagram
 
 WHOTS-16 mooring design
 ```

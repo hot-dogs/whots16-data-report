@@ -76,7 +76,7 @@ commonly contaminate upcast data.
 
 Temperature is reported on the ITS-90 scale. Salinity and all derived units
 were calculated using the UNESCO (1981) routines; salinity is reported in the
-Practical Salinity(SA) scale (PSS-78). Oxygen is reported in mol kg-1.
+Practical Salinity(SA) scale (PSS-78). Oxygen is reported in umol kg-1.
 ````
 
 ### CTD Sensor Calibration and Corrections
