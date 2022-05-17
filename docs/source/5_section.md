@@ -301,7 +301,7 @@ NEED TO ADD THE FOLLOWING Figure 5.7
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
-:name: figure5.8
+:name: figure5.7
 
 Temperature differences (top panel) and salinity differences (bottom panel)
 between MicroCATs #12246 and #12246 during WHOTS-15. The blue (red) lines are
