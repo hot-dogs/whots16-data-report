@@ -279,7 +279,7 @@ period of occupation of Station ALOHA and the WHOTS site.
 ```{figure} figures/thermosal/ac39nav_final.png
 :height: 600px
 :align: center
-:name: figure6.12
+:name: figure6.14
 
 Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
 speed (lower panel) during the WHOTS-15 cruise.
@@ -287,12 +287,515 @@ speed (lower panel) during the WHOTS-15 cruise.
 
 ## MicoCAT Data
 
+````{admonition} OLD TEXT!
+:class: warning
+The temperatures measured by MicroCATs during the mooring deployment for
+WHOTS-15 are presented in Figure VI 16 through Figure VI 20 for each of the
+depths where the instruments were located. The salinities are plotted in Figure
+VI 21 through Figure VI 25. The potential densities (σθ) are plotted in Figure
+VI 26 through Figure VI 30.
+
+Contoured plots of temperature and salinity as a function of depth for the
+deployments WHOTS-1 through -15 are presented in Figure VI 31, and contoured
+plots of potential density (σθ) as a function of depth, and of salinity as a
+function of σθ are in Figure VI 32.
+
+The potential temperature and salinity measured by the deep MicroCATs during
+the mooring deployment are shown in Figure VI 33. Also shown in the plot are
+the potential temperature and salinity data obtained with a MicroCAT (SBE-37)
+installed in the ALOHA Cabled Observatory, about six nautical miles west from
+the WHOTS-15 anchor. The instrument is located 2 m above the bottom.
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.15  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.15
+Temperatures from MicroCATs during WHOTS-15 deployment at 1.5, 7, 15, and 25 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.16 
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.16
+Same as in Figure VI 16, but at 35, 40, 45, and 50 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.17 
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.17
+Same as in Figure VI 16, but at 95, 105, 120, and 135 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.18  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.18
+Same as in Figure VI 16, but at 55, 65, 75, and 85 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.19  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.19
+Salinities from MicroCATs during WHOTS-15 deployment at 1.5, 7, 15, and 25 m
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.20  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.20
+Same as in Figure 6.19, but at 35, 40, 45, and 50 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.21  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.21
+Same as in Figure 6.19, but at 35, 40, 45, and 50 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.22 
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.22
+Same as in Figure 6.19, but at 55, 65, 75, and 85 m
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.23  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.23
+Same as in Figure 6.19, but at 95, 105, 120, and 135 m. 
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.24  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.24
+Same as in Figure 6.19, but at 155 m. 
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.25  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.25
+Potential densities (σθ) from MicroCATs during WHOTS-15 deployment at 1.5, 7,
+15, and 25 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.26  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.26
+Same as in Figure 6.25, but at 35, 40, 45, and 50 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.27 
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.27
+Same as in Figure 6.25, but at 55, 65, 75, and 85 m.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.28  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.28
+Same as in Figure 6.25, but at 95, 105, 120, and 135 m. 
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.29  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.29
+Same as in Figure 6.25, but at 155 m. 
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.30  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.30
+
+Contour plots of temperature (upper panel) and salinity (lower panel) versus
+depth from SeaCATs/ MicroCATs during WHOTS-1 through WHOTS-15 deployments. The
+shaded areas indicate missing data. The diamonds along the right axis indicate
+the depths of the instrument.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.31  
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.31
+
+Contour plots of potential density (σθ, upper panel), versus depth, and of
+salinity versus σθ (lower panel) from SeaCATs/MicroCATs during WHOTS-1 through
+WHOTS-15 deployments. The shaded areas indicate missing data. The diamonds
+along the right axis in the upper figure indicate the depths of the instrument.
+```
+````
+
+````{warning}
+NEED TO ADD THE FOLLOWING Figure 6.32 
+
+```{figure} figures/microcats/xxxxxxxx.png
+:height: 1000px
+:align: center
+:name: figure6.32
+
+Potential temperature (upper panel) and salinity (lower panel) time-series from
+the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-15 MicroCATs 12247 and
+12246.
+```
+````
+
 ## Moored ADCP Data
+
+````{admonition} OLD TEXT!
+:class: warning
+
+Contoured plots of smoothed horizontal (east and north component) and vertical
+velocity as a function of depth during the mooring deployments 1 through 15 are
+presented in Figure VI 34 through Figure VI 36. A staggered time-series of
+smoothed horizontal and vertical velocities are shown in Figure VI 37 through
+Figure VI 39. Smoothing was performed by applying a daily running mean to the
+data and then interpolating it on an hourly grid.
+
+Contours of east and north velocity components from the Ship Oscar Sette Ocean
+Surveyor broadband 75 kHz shipboard ADCP, and the moored 300 kHz ADCP from the
+WHOTS-15 deployment as a function of time and depth, during the WHOTS-15
+cruise, are shown in Figure VI 40 and Figure VI 41.
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh1_15_adcp_u_cont.png
+:width: 1000px
+:align: center
+:name: figure6.33
+
+Contour plot of east velocity component (m s-1) versus depth and time from the
+moored ADCPs from the WHOTS-1 through -15 deployments.
+```
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh1_15_adcp_v_cont.png
+:width: 1000px
+:align: center
+:name: figure6.34
+
+Contour plot of north velocity component (m s-1) versus depth and time from the
+moored ADCPs from the WHOTS-1 through -15 deployments.
+```
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh1_15_adcp_W.png
+:width: 1000px
+:align: center
+:name: figure6.35
+
+Contour plot of vertical velocity component (m s-1) versus depth and time from
+the moored ADCPs from the WHOTS-1 through -15 deployments.
+```
+````
+
+````{warning}
+```{figure} figures/adcp_moored/WHOTS-15_u_subplot.png
+:width: 1000px
+:align: center
+:name: figure6.36
+
+Staggered time-series of east velocity component (m s-1) for each bin of the
+600 kHz (upper panel) and 300 kHz (lower panel) moored ADCPs during WHOTS-15.
+The time-series are offset upwards by 0.5 m s-1; each bin's depth is on the
+right.
+```
+````
+
+````{warning}
+```{figure} figures/adcp_moored/WHOTS-15_v_subplot.png
+:width: 1000px
+:align: center
+:name: figure6.37
+
+Same as Figure 6.36 but for north velocity component
+```
+````
+
+````{warning}
+```{figure} figures/adcp_moored/WHOTS-15_w_subplot.png
+:width: 1000px
+:align: center
+:name: figure6.38
+
+Same as Figure 6.36 but for north velocity component but for vertical velocity 
+component.
+```
+````
 
 ## Moored and Shipboard ADCP comparisons
 
+````{admonition} OLD TEXT!
+:class: warning
+
+Contours of zonal and meridional current components from the Ship Hi’ialakai’s
+and Oscar Sette’s Ocean Surveyor broadband 75 kHz shipboard ADCP, and the
+moored 300 kHz ADCP from the WHOTS-15 deployment as a function of time and
+depth, during the WHOTS-15 cruise, are shown in Figure VI 40 and Figure VI 41.
+Similar comparisons during the WHOTS-16 cruise are in Figure VI 42 and Figure
+VI 43.
+````
+
+````{warning}
+```{figure} figures/shipboard_adcp/whots15deploy_adcp_contour1.png
+:width: 1000px
+:align: center
+:name: figure6.39
+
+The contour of zonal currents (m s-1) from the Ship Hi’ialakai’s Ocean Surveyor
+narrowband 75 kHz shipboard ADCP (upper panel), and the moored 300 kHz ADCP
+from the WHOTS-15 mooring (bottom panel) as a function of time and depth,
+during the WHOTS-15cruise. Times when the CTD rosette was in the water are
+identified between solid and dashed black lines.
+```
+````
+
+````{warning}
+```{figure} figures/shipboard_adcp/whots15deploy_adcp_contour2.png
+:width: 1000px
+:align: center
+:name: figure6.40
+
+The contour of meridional currents (m s-1) from the Ship Hi’ialakai’s Ocean
+Surveyor narrowband 75 kHz shipboard ADCP (upper panel), and the moored 300 kHz
+ADCP from the WHOTS-15 mooring (bottom panel) as a function of time and depth,
+during the WHOTS-15 cruise. Times when the CTD rosette was in the water are
+identified between solid and dashed black lines.
+
+```
+````
+
+````{warning}
+```{figure} figures/shipboard_adcp/whots15recover_adcp_contour1.png
+:width: 1000px
+:align: center
+:name: figure6.41
+
+The contour of zonal currents (m s-1) from the Ship Oscar Sette Ocean Surveyor
+narrowband 75 kHz shipboard ADCP (upper panel), and the moored 300 kHz ADCP
+from the WHOTS-15 mooring (bottom panel) as a function of time and depth,
+during the WHOTS-16 cruise. Times when the CTD rosette was in the water are
+identified between solid and dashed black lines.
+
+```
+````
+
+````{warning}
+```{figure} figures/shipboard_adcp/whots15recover_adcp_contour2.png
+:width: 1000px
+:align: center
+:name: figure6.42
+
+Contours of meridional currents (m s-1) from the Ship Oscar Sette Ocean
+Surveyor narrowband 75 kHz shipboard ADCP (upper panel), and the moored 300 kHz
+ADCP from the WHOTS-15 mooring (lower panel) as a function of time and depth,
+during the WHOTS-16 cruise. Times when the CTD/rosette was in the water are
+identified between the solid and dashed black lines.
+```
+````
+
+````{admonition} OLD TEXT!
+:class: warning
+
+Comparisons between quality-controlled moored ADCPs during the WHOTS-15
+deployment and available shipboard ADCP obtained during regular HOT cruises 306
+to 315, and during the mooring deployment (WHOTS-15) and recovery (WHOTS-16)
+cruises are shown in Figure VI 44 for the 300 kHz ADCP, and Figure VI 45 for
+the 600 kHz ADCP. Median and mean velocity profiles were computed when HOT CTD
+casts were being conducted near the WHOTS mooring specifically intended to
+calibrate moored instrumentation (see Conductivity Calibration section). The
+HOT shipboard profiles were taken when the ship was stationary, within 1 km of
+the mooring, and within 4 hours before the start and 4 hours after the end of
+the CTD cast conducted near the WHOTS mooring.
+
+HOT cruises conducted on the R/V Kilo Moana (HOT-306 to HOT-315) used data from
+a TRDI Workhorse 300 kHz ADCP (wh300) with 2 m bin size, reaching 100 m, and
+averaging ensembles every 2 minutes, except for HOT-306 with 5-minute
+ensembles; and from a TRDI Ocean Surveyor 38 kHz operating in broadband mode (
+os38bb) with 12 m bin size, reaching 1200 m, with 5-minute ensemble
+interpolated to the profile resolution of the shipboard ADCP, and ensemble
+mean, and median profiles were obtained for each data set to compute
+differences and correlation coefficients between them. Bins with less than 50%
+of data were excluded.
+
+Comparisons between the 300 kHz and the shipboard ADCP were available for
+HOT-306, HOT-309 to HOT-315; data from all other HOT cruises were excluded due
+to a lack of comparable data. Comparison between the moored 600 kHz and the
+shipboard ADCP was only available for HOT-306 due to a mechanical issue with
+600 kHz ADCP in November 2018.
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh15_moor_ship_ADCP_comp_1.png
+:width: 1000px
+:align: center
+:name: figure6.43
+
+Mean current profiles during shipboard ADCP (cyan: zonal, magenta: meridional)
+versus moored 300 kHz ADCP (blue: zonal, red: meridional) intercomparisons from
+HOT-306 through HOT-315 and from WHOTS-15 and WHOTS-16 cruises. Moored minus
+shipboard ADCP differences shown in dotted lines (blue: zonal, red: meridional)
+```
+````
+
 ## Next Generation Vector Measuring Current Meter Data (VMCM)
+
+````{admonition} OLD TEXT!
+:class: warning
+Time-series of daily mean horizontal velocity components for the VMCM current
+meters deployed during WHOTS-15 at 10 m and 30 m are presented in Figure VI 46.
+````
+
+````{warning}
+```{figure} figures/vmcm/whots15vmcm_plot.png
+:width: 1000px
+:align: center
+:name: figure6.44
+
+Horizontal velocity data (m/s) during WHOTS-15 from the VMCMs at 10 m depth (
+first and second panel) and at 30 m depth (third and fourth panel)
+```
+````
 
 ## GPS Data
 
+````{admonition} OLD TEXT!
+:class: warning
+Time-series of latitude and longitude of the WHOTS-15 buoy from GPS data are
+presented in Figure VI 47, and spectra of the time-series are shown in Figure
+VI 48.
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh15xeos_pos.png
+:width: 1000px
+:align: center
+:name: figure6.45
+
+GPS Latitude (upper panel) and longitude (lower panel) time series from the
+WHOTS-15 deployment.
+```
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh15gps_spec_dpng.png
+:width: 1000px
+:align: center
+:name: figure6.46
+
+The power spectrum of latitude (upper panel) and longitude (lower panel) for
+the WHOTS-15. The variables f, K1, and K2 represent the inertial period,
+solar-diurnal and solar-semidiurnal constituents.
+```
+````
+
 ## Mooring Motion
+
+````{admonition} OLD TEXT!
+:class: warning
+The position of the mooring with respect to its anchor was determined from the
+GPS positions. Additional information on the mooring motion was provided by the
+ADCP data of pitch, roll, and heading, shown in this section.
+
+Figure VI 49 shows the ADCP data of the instrument’s tilt (a combination of the
+pitch and roll), plotted against the buoy’s distance from its anchor (derived
+from GPS positions), for both WHOTS-15 ADCP’s. The plot's red line is a
+quadratic fit to the median tilt calculated every 0.2 km distance bins. The
+figure shows that during both deployments, the ADCP tilt increased as the
+anchor's distance increased. This tilting was caused by the mooring line's
+deviation from its vertical position as the anchor pulled it. The tilting of
+the line also caused the rising of the instruments attached to the line. The
+600 kHz ADCP failed in November 2018.
+````
+
+````{warning}
+```{figure} figures/adcp_moored/wh15_adcp_tilt.png
+:width: 1000px
+:align: center
+:name: figure6.47
+
+Scatter plots of ADCP tilt and distance of the buoy to its anchor for the 300
+kHz (left panel) and the 600 kHz ADCP deployments (right panel, blue circles).
+The red line is a quadratic fit to the median tilt calculated every 0.2 km
+distance bins.
+```
+````
