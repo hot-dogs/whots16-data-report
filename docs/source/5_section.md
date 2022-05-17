@@ -64,6 +64,9 @@ add Table V 2. Pressure bias of MicroCATs with pressure sensors. The instrument 
 ```
 
 
+````{admonition} OLD TEXT!
+:class: warning
+
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -75,6 +78,8 @@ pressure, based on deployed depth. The text on the left (right) side of the
 figure indicates the mean (standard deviation) of the difference between each
 instrument’s pressure and nominal pressure.
 ```
+
+````
 
 ### Temperature Sensor Stability
 
@@ -99,6 +104,9 @@ measurements.
 ```
 
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -109,6 +117,8 @@ temperature sensors SN 6150 (top panel), 6239 (second panel), 6410 (third
 panel), and 6412 (bottom panel), during the WHOTS-15 deployment. The light blue
 line is a 24-hour running mean of the differences.
 ```
+````
+
 
 ```{admonition} OLD TEXT!
 :class: warning
@@ -154,6 +164,10 @@ quality is given in the upper panel plot, which shows temperatures fluctuating
 closely around zero.
 ```
 
+
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -164,8 +178,11 @@ pane)l; between the 15-m MicroCAT and the 10-m VMCM (middle panel); and between
 the 7-m and the 15-m MicroCATs (lower panel ) during the WHOTS-15 deployment.
 The light blue line is a 24-hour running mean of the differences.
 ```
+````
 
 
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -176,7 +193,11 @@ panel); between the 35-m MicroCAT and the 30-m VMCM (middle panel); and between
 the 25-m and the 35-m MicroCATs (lower panel) during the WHOTS-15 deployment.
 The light blue line is a 24-hour running mean of the differences.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -188,8 +209,12 @@ MicroCAT and the 47.5-m ADCP (middle panel); and between the 45-m and the 50-m
 MicroCATs (lower panel) during the WHOTS-15 deployment. The light blue line is
 a 24-hour running mean of the differences.
 ```
+````
 
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -200,6 +225,7 @@ panel); between the 135-m MicroCAT and the 125-m ADCP (middle panel); and
 between the 120-m and the 135-m MicroCATs (lower panel) during the WHOTS-15
 deployment. The light blue line is a 24-hour running mean of the differences.
 ```
+````
 
 ### Conductivity Calibration
 
@@ -281,6 +307,8 @@ recovery, and the post-recovery inspection at Sea-Bird revealed that the
 instrument had a non-replaceable faulty board.
 ```
 
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -292,8 +320,11 @@ between MicroCATs #12246 and #12246 during WHOTS-15. The blue (red) lines are
 the differences before (after) correcting the data following the text's
 procedures.
 ```
+````
 
 
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -302,8 +333,11 @@ procedures.
 Conductivity sensor corrections for MicroCATs from 2 to 15 meters during
 WHOTS-15.
 ```
+````
 
 
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -312,7 +346,11 @@ WHOTS-15.
 Conductivity sensor corrections for MicroCATs from 25 to 40 meters during
 WHOTS-15
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -321,8 +359,11 @@ WHOTS-15
 Conductivity sensor corrections for MicroCATs from 45 to 55 meters during
 WHOTS-15
 ```
+````
 
 
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -331,8 +372,10 @@ WHOTS-15
 Conductivity sensor corrections for MicroCATs from 65 to 85 meters during
 WHOTS-15.
 ```
+````
 
-
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -341,6 +384,11 @@ WHOTS-15.
 Conductivity sensor corrections for MicroCATs from 95 to 120 meters during
 WHOTS-15.
 ```
+````
+
+
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -350,7 +398,10 @@ WHOTS-15.
 Conductivity sensor corrections for MicroCATs from 134 to 136 meters during
 WHOTS-15
 ```
+````
 
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -360,7 +411,10 @@ WHOTS-15
 Conductivity sensor corrections for MicroCATs at 154, 155 and 4658 meters
 during WHOTS-15.
 ```
+````
 
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -369,6 +423,7 @@ during WHOTS-15.
 
 Conductivity sensor correction for MicroCAT at 4658 meters during WHOTS-15
 ```
+````
 
 ## Acoustic Doppler Current Profiler
 
@@ -442,6 +497,10 @@ add Table V 6.  Results from the WHOTS-15 post-deployment 300kHz ADCP compass fi
 add Table V 7.   Results from the WHOTS-15 post-deployment 600kHz ADCP compass field calibration procedure.
 ```
 
+
+````{admonition} OLD TEXT!
+:class: warning
+
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -450,6 +509,11 @@ add Table V 7.   Results from the WHOTS-15 post-deployment 600kHz ADCP compass f
 Results of the post-cruise compass calibration, conducted October 29th, 2019,
 on ADCP SN 7637 at the University of Hawai’i at Manoa.
 ```
+````
+
+
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -459,6 +523,7 @@ on ADCP SN 7637 at the University of Hawai’i at Manoa.
 Results of the post-cruise compass calibration, conducted October 29th, 2019,
 on ADCP SN 13917 at the University of Hawai’i at Manoa.
 ```
+````
 
 ### ADCP Configurations
 
@@ -567,6 +632,9 @@ mean sound speed variability at 47.5 and 125 dbar is about 10 m s-1 and 8 m
 s-1, respectively.
 ```
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -578,6 +646,11 @@ vertical line representing the in-water time during deployment and out-of-water
 recovery time. The red line represents the anchor release and acoustic release
 trigger for deployment and recovery, respectively.
 ```
+````
+
+
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -586,7 +659,11 @@ trigger for deployment and recovery, respectively.
 
 Same as Figure V 18, but for the 600 kHz ADCP.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -602,6 +679,7 @@ line. The lower right panels show the temperature and salinity at each ADCP
 depth for the time series, with the mean temperatures indicated with blue lines
 and mean salinity indicated with green lines.
 ```
+````
 
 #### Quality Control
 
@@ -629,6 +707,8 @@ procedures were applied to the WHOTS-15 deployment of ADCP data.
 ```
 
 
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -639,6 +719,7 @@ Eastward velocity component for the 300 kHz (top panel) and the 600 kHz (bottom
 panel) ADCPs are showing the incoherence between depth bins 1 (red), 2 (green),
 and 3 (blue).
 ```
+````
 
 ```{admonition} OLD TEXT!
 :class: warning
@@ -698,6 +779,10 @@ and 3 (blue).
    velocity greater than 0.3 m s-1 were flagged.
 ```
 
+
+````{admonition} OLD TEXT!
+:class: warning
+
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -707,6 +792,11 @@ Histogram of the vertical velocity of the 300 kHz ADCP for raw data (top panel)
 and enlarged for clarity (upper middle panel), and partial quality controlled
 data (lower middle panel) and enlarged for clarity (bottom).
 ```
+````
+
+
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
@@ -715,6 +805,7 @@ data (lower middle panel) and enlarged for clarity (bottom).
 
 Same as Figure V 22, but for 600kHz ADCP.
 ```
+````
 
 ```{admonition} OLD TEXT!
 :class: warning
@@ -783,6 +874,10 @@ but a decrease in VMCM velocity magnitude than ADCP velocity magnitude with
 time is not observed.
 ````
 
+
+````{admonition} OLD TEXT!
+:class: warning
+
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -794,7 +889,11 @@ U velocity from the nearest depth bin to 30 m (30.22 m). The middle panel shows
 the U velocity difference, and the bottom panel shows the percentage of ADCP
 data within the moving average not flagged by quality control methods.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -802,7 +901,11 @@ data within the moving average not flagged by quality control methods.
 
 Same as in Figure V 24 but for the meridional (V) velocity component.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -810,7 +913,11 @@ Same as in Figure V 24 but for the meridional (V) velocity component.
 
 Same as in Figure V 24 but for the 10 m VMCM.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/xxxx/xxxxxxxx.png
 :height: 1000px
 :align: center
@@ -818,6 +925,7 @@ Same as in Figure V 24 but for the 10 m VMCM.
 
 Same as Figure V 26, but for the meridional (V) velocity component.
 ```
+````
 
 ## Global Positioning System Receiver
 
