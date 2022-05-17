@@ -125,6 +125,9 @@ salinity. Figure VI 7 through Figure VI 9 shows the results of the CTD profiles
 during the WHOTS-16 cruise.
 ````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/1.whots_16/s20c1_s50c1.png
 :height: 1000px
 :align: center
@@ -139,7 +142,11 @@ station 20 cast 1 during the WHOTS-15 cruise. [Lower left panel] Same as in the
 upper left panel, but for station 50 cast 1. [Lower right panel] Same as in the
 upper right panel, but station 50 cast 1.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/1.whots_16/s50c2_s50c3.png
 :height: 1000px
 :align: center
@@ -148,7 +155,11 @@ upper right panel, but station 50 cast 1.
 [Upper panels] Same as in Figure VI 1, but for station 50, cast
 2. [Lower panels] Same as Figure VI 1, but for station 50, cast 3.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/1.whots_16/s50c4_s50c5.png
 :height: 1000px
 :align: center
@@ -157,7 +168,11 @@ upper right panel, but station 50 cast 1.
 [Upper panels] Same as in Figure VI 1, but for station 50, cast
 4. [Lower panels] Same as in Figure VI 1, but for station 50 cast 5.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/1.whots_16/s52c1_s52c2.png
 :height: 1000px
 :align: center
@@ -166,7 +181,11 @@ upper right panel, but station 50 cast 1.
 [Upper panels] Same as in Figure VI 1, but for station 52, cast 1. [Lower 
 panels] Same as in Figure VI 1, but for station 52, cast 2.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/1.whots_16/s52c3_s52c4.png
 :height: 1000px
 :align: center
@@ -175,7 +194,11 @@ panels] Same as in Figure VI 1, but for station 52, cast 2.
 Upper panels] Same as in Figure VI 1, but for station 52, cast 4.[Lower 
 panels] Same as in Figure VI 1, but for station 52, cast 5.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/2.whots_17/s2c1_s20c1.png
 :height: 1000px
 :align: center
@@ -190,7 +213,11 @@ station 2 cast 1 during the WHOTS-17 cruise. [Lower left panel] Same as in the
 upper left panel, but for station 20 cast 1. [Lower right panel] Same as in the
 upper right panel, but station 20 cast 1.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/2.whots_17/s50c1_s50c2.png
 :height: 1000px
 :align: center
@@ -199,7 +226,11 @@ upper right panel, but station 20 cast 1.
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 1.[Lower panels] Same as in Figure 6.6, but for station 50, cast 2.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/2.whots_17/s50c3_s50c4.png
 :height: 1000px
 :align: center
@@ -208,7 +239,11 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 3.[Lower panels] Same as in Figure 6.6, but for station 50, cast 4.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/2.whots_17/s50c5_s50c6.png
 :height: 1000px
 :align: center
@@ -217,7 +252,11 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 5.[Lower panels] Same as in Figure 6.6, but for station 50, cast 6.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/ctd/2.whots_17/s52c1_s52c2.png
 :height: 1000px
 :align: center
@@ -226,6 +265,7 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 52, cast
 1.[Lower panels] Same as in Figure 6.6, but for station 52, cast 2.
 ```
+````
 
 ## Thermosalinograph Data
 
@@ -241,6 +281,9 @@ WHOTS-16 underway seawater system that feeds the TSG failed on October 11th,
 during deteriorated weather conditions.
 ````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/thermosal/ac38thsl_final.*
 :height: 600px
 :align: center
@@ -253,7 +296,10 @@ taken from 6-dbar CTD data (circles) and salinity bottle sample data (crosses)
 are superimposed. The dashed vertical red line indicates the period of
 occupation of Station ALOHA and the WHOTS site.
 ```
+````
 
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/thermosal/ac38nav_final.*
 :height: 600px
 :align: center
@@ -262,6 +308,10 @@ occupation of Station ALOHA and the WHOTS site.
 Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
 speed (lower panel) during the WHOTS-15 cruise.
 ```
+````
+
+````{admonition} OLD TEXT!
+:class: warning
 
 ```{figure} figures/thermosal/ac39thsl_final1.png
 :height: 600px
@@ -275,7 +325,11 @@ salinity were taken from 6-dbar CTD data (circles), and salinity bottle sample
 data (crosses) are superimposed. The dashed vertical red line indicates the
 period of occupation of Station ALOHA and the WHOTS site.
 ```
+````
 
+
+````{admonition} OLD TEXT!
+:class: warning
 ```{figure} figures/thermosal/ac39nav_final.png
 :height: 600px
 :align: center
@@ -284,6 +338,7 @@ period of occupation of Station ALOHA and the WHOTS site.
 Timeseries of latitude (upper panel), longitude (middle panel), and ship’s
 speed (lower panel) during the WHOTS-15 cruise.
 ```
+````
 
 ## MicoCAT Data
 
