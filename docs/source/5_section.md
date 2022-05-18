@@ -65,7 +65,7 @@ pressure, based on deployed depth. The text on the left (right) side of the
 figure indicates the mean (standard deviation) of the difference between each
 instrument’s pressure and nominal pressure.
 
-````
+```
 
 ### Temperature Sensor Stability
 
@@ -116,31 +116,30 @@ conducted to evaluate the temperatures from those sensors.
 
 #### Comparisons with VMCM and ADCP temperature sensors
 
-```{admonition} OLD TEXT!
-:class: warning
-The upper panel of Figure V 3 shows the difference between the 10-m VMCM and
-the 7-m MicroCAT temperatures during WHOTS-15, after adding a 0.0316 °C offset
+The upper panel of Figure 5.3 shows the difference between the 10-m VMCM and
+the 7-m MicroCAT temperatures during WHOTS-16, after adding a 0.0259 °C offset
 correction to the VMCM. The offset was the mean difference between the
 uncorrected VMCM and the 7-m MicroCAT data. Also shown for comparison in the
-middle panel of the figure are the differences between MicroCAT temperatures at
-15 m. The lower panel shows the temperature fluctuations in the differences
+middle panel of the figure are the corrected VMCM temperature differences from 
+the 15 m MicroCAT. The VMCM temperatures had a 0.04 °C offset in April 2020. 
+The lower panel shows the temperature fluctuations in the differences
 between the 7 and 15-m MicroCATs, which seem to be around zero.
 
 Temperature differences between the 30-m VMCM and the temperatures from
-adjacent MicroCATs at 25 and 35-m during WHOTS-15 are shown in Figure V 4,
-after adding a 0.0126°C offset correction to the VMCM. The offset was the mean
+adjacent MicroCATs at 25 and 35-m during WHOTS-16 are shown in Figure 5.4,
+after adding a 0.0147°C offset correction to the VMCM. The offset was the mean
 difference between the uncorrected VMCM and the 25-m MicroCAT data. For
 comparison, the differences between the MicroCATs temperatures are also shown
 in the lower panel.
 
 Temperature differences between the 47.5-m ADCP and the temperatures from
-adjacent MicroCATs at 45 and 50-m during WHOTS-15 are shown in Figure V 5. The
-ADCP stopped collecting data on 2018/11/2 for unknown reasons. For comparison,
+adjacent MicroCATs at 45 and 50-m during WHOTS-16 are shown in Figure 5.5. The
+ADCP failed and stopped collecting data on 2020/1/21 (see Sect. ??). For comparison,
 the differences between the MicroCATs temperatures are also shown in the lower
 panel.
 
 Temperature differences between the 125-m ADCP and the temperatures from
-adjacent MicroCATs at 120 and 135-m during WHOTS-15 are shown in Figure V 6.
+adjacent MicroCATs at 120 and 135-m during WHOTS-16 are shown in Figure 5.6.
 For comparison, the differences between the MicroCATs temperatures are also
 shown in the lower panel. It is difficult to assess the quality of the ADCP
 temperature from these comparisons. These sensors were located at the top of
@@ -148,60 +147,49 @@ the thermocline, where we expect to find substantial temperature differences
 between adjacent sensors. However, an indication of the ADCP temperatures'
 quality is given in the upper panel plot, which shows temperatures fluctuating
 closely around zero.
-```
 
 
-
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16tcompare_22.png
 :height: 1000px
 :align: center
 :name: figure5.3
 
 The temperature difference between the 7-m MicroCAT and the 10-m VMCM (upper
 pane)l; between the 15-m MicroCAT and the 10-m VMCM (middle panel); and between
-the 7-m and the 15-m MicroCATs (lower panel ) during the WHOTS-15 deployment.
+the 7-m and the 15-m MicroCATs (lower panel ) during the WHOTS-16 deployment.
 The light blue line is a 24-hour running mean of the differences.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16tcompare_33.png
 :height: 1000px
 :align: center
 :name: figure5.4
 
 The temperature difference between the 25-m MicroCAT and the 30-m VMCM (upper
 panel); between the 35-m MicroCAT and the 30-m VMCM (middle panel); and between
-the 25-m and the 35-m MicroCATs (lower panel) during the WHOTS-15 deployment.
+the 25-m and the 35-m MicroCATs (lower panel) during the WHOTS-16 deployment.
 The light blue line is a 24-hour running mean of the differences.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16tcompare_4.png
 :height: 1000px
 :align: center
 :name: figure5.5
 
 The temperature difference between the 45-m MicroCAT and the 47.5-m ADCP (upper
-panel). (The ADCP stopped collecting data on 2018/11/2); between the 50-m
+panel). (The ADCP stopped collecting data on 2020/1/21); between the 50-m
 MicroCAT and the 47.5-m ADCP (middle panel); and between the 45-m and the 50-m
-MicroCATs (lower panel) during the WHOTS-15 deployment. The light blue line is
+MicroCATs (lower panel) during the WHOTS-16 deployment. The light blue line is
 a 24-hour running mean of the differences.
 ```
-````
 
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16tcompare_5.png
 :height: 1000px
 :align: center
 :name: figure5.6
@@ -211,7 +199,6 @@ panel); between the 135-m MicroCAT and the 125-m ADCP (middle panel); and
 between the 120-m and the 135-m MicroCATs (lower panel) during the WHOTS-15
 deployment. The light blue line is a 24-hour running mean of the differences.
 ```
-````
 
 ### Conductivity Calibration
 
