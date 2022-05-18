@@ -85,30 +85,24 @@ et al., 2021).
 
 #### Temperature/Conductivity
 
-````{admonition} OLD TEXT!
-:class: warning 
 Sea-Bird SBE-3-Plus temperature and SBE 4C conductivity transducers were used
-during WHOTS-15 and -16 cruises. These sensors' history and performance have
+during WHOTS-16 and -17 cruises. These sensors' history and performance have
 been monitored during HOT cruises, and calibrations and drift corrections
-applied during WHOTS cruises are thoroughly documented in the HOT-2018 data
-report (Fukieki et al., 2020).
-````
+applied during WHOTS cruises are thoroughly documented in the HOT-2019 data
+report (Fukieki et al., 2021).
 
 #### Dissolved Oxygen
 
-````{admonition} OLD TEXT!
-:class: warning 
-Sea-Bird SBE-43 oxygen sensors were used during the WHOTS-15 and -16 cruises.
-The WHOTS-15 oxygen data were calibrated using calibration coefficients
-obtained during the HOT-305 cruise conducted on 9-13 September 2018, before the
-WHOTS-15 cruise, which used the same oxygen sensors. The CTD empirical
+Sea-Bird SBE-43 oxygen sensors were used during the WHOTS-16 and -17 cruises.
+The WHOTS-16 oxygen data were calibrated using calibration coefficients
+obtained during the HOT-315 cruise conducted on 3-7 September 2019, before the
+WHOTS-16 cruise, which used the same oxygen sensors. The CTD empirical
 calibration was performed using oxygen water samples and the procedure from
 Owens and Millard Jr (1985). See Tupas et al. (1996) for details on these
-calibrations procedures. Similarly, the oxygen data from WHOTS-16 were
-calibrated using calibration coefficients obtained during the HOT-315 cruise
-conducted on 3-7 September 2019, before the WHOTS-16 cruise, which used the
+calibrations procedures. The oxygen data from WHOTS-17 were
+calibrated using calibration coefficients obtained during the HOT-327 cruise
+conducted on 15-19 February 2021, before the WHOTS-17 cruise, which used the
 same oxygen sensors.
-````
 
 ## Water Sampling and Analysis
 
@@ -117,7 +111,7 @@ same oxygen sensors.
 ````{admonition} OLD TEXT!
 :class: warning 
 Salinity samples were collected by a rosette sampler during CTD casts at
-selected depths during WHOTS-15 and -16, and then sub-sampled in 250 ml glass
+selected depths during WHOTS-16 and -17, and then sub-sampled in 250 ml glass
 bottles. The top of each bottle and thimble were thoroughly dried before being
 tightly capped to prevent water from being trapped between the cap or thimble
 and the bottle’s mouth. It has been observed that residual water trapped in
