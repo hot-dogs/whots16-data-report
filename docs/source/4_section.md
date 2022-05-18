@@ -1,4 +1,4 @@
-# WHOTS (16-15) Cruise Shipboard Observations
+# WHOTS (16-17) Cruise Shipboard Observations
 
 ````{admonition} OLD TEXT!
 :class: warning
