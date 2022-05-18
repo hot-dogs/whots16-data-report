@@ -134,7 +134,7 @@ in the lower panel.
 
 Temperature differences between the 47.5-m ADCP and the temperatures from
 adjacent MicroCATs at 45 and 50-m during WHOTS-16 are shown in Figure 5.5. The
-ADCP failed and stopped collecting data on 2020/1/21 (see Sect. ??). For comparison,
+ADCP failed and stopped collecting data on 2020/1/21 (see Sect. 3). For comparison,
 the differences between the MicroCATs temperatures are also shown in the lower
 panel.
 
@@ -202,9 +202,6 @@ deployment. The light blue line is a 24-hour running mean of the differences.
 
 ### Conductivity Calibration
 
-```{admonition} OLD TEXT!
-:class: warning
-
 The results of the Sea-Bird post-recovery conductivity calibrations indicated
 that some of the MicroCAT conductivity sensors experienced relatively large
 offsets from their pre-deployment calibration. These were qualitatively
@@ -213,8 +210,8 @@ between 200 m and 5 km from the mooring during HOT cruises. The conductivity
 offsets are not apparent, and there may have been multiple causes (see Freitag
 et al. (1999) for a similar experience with conductivity cells during COARE).
 For some instruments, the offset was negative, caused perhaps by biofouling of
-the conductivity cell. In contrast, for others, the offset was positive, caused
-by scouring the inside of the conductivity cell (possibly by the instrument's
+the conductivity cell. In contrast, for others, the offset was positive, possibly caused
+by scouring the inside of the conductivity cell (by the instrument's
 continuous up and down motion in an abundant field of diatoms). A visual
 inspection of the instruments after recovery did not show any apparent signs of
 biofouling. There were no cell scourings reported in the post-recovery reviews
@@ -229,7 +226,7 @@ from the mooring were not used. Given that the CTD casts are conducted at least
 200 m from the mooring, CTD and MicroCAT data's alignment was done in density
 rather than in-depth. For cases where the alignment in density was not possible
 due to large conductivity offsets (causing unrealistic mooring density values),
-alignment in temperature space was done. A cubic least-squares fit (LSF) to the
+the alignment was done in temperature space. A cubic least-squares fit (LSF) to the
 CTD-MicroCAT differences against time was applied as a first approximation, and
 the corresponding correction was applied.
 
@@ -247,7 +244,7 @@ and C could indicate the beginning of an offset for sensor B.
 Given that the most in-depth instruments on the mooring are less likely to be
 affected by biofouling and consequent sudden conductivity drift, the deep
 instruments served as an excellent reference to find any possible malfunction
-in the shallower ones. Therefore the most profound instruments’ conductivity
+in the shallower ones. Therefore the conductivity from the deepest instruments
 was corrected first, and the correction was continued sequentially upwards
 toward the shallower ones.
 
@@ -256,29 +253,24 @@ between neighboring instruments was calculated using finite differences. Over-
 or under-corrected conductivities yielded instabilities in the water column (
 negative buoyancy frequency) that were easy to detect and were not real when
 lasting for several days. Based on this, the conductivity correction of the
-corresponding sensors was revised. Corrections of the in-depth MicroCATs
-conductivity data were conducted following similar procedures for the shallow
-instruments by comparing them against CTD data from near-bottom profiles
-conducted during HOT cruises (Figure V 7, bottom panel). After correction, the
+corresponding sensors was revised. 
+
+Correction of the near-bottom MicroCATs'
+conductivities were done following similar procedures than for the shallow
+instruments, by comparing them against CTD data from near-bottom profiles
+conducted during HOT cruises (Figure 5.7, bottom panel). After correction, the
 salinity differences between both instruments were in the ±0.001 range.
 
 Another characteristic of the offsets in the conductivity sensors is that their
 development is not always linear in time. Their behavior can be highly
 variable (see WHOTS Data Report 1, Santiago-Mandujano et al., 2007). The
-corrections applied to each of the conductivity sensors during WHOTS-15 can be
-seen in Figure V 8 to 15. Most of the instruments had a drift of less than
-0.025 Siemens/m for the duration of the deployment, corrected with a linear or
-cubic least-squares fit. Most of the instruments deployed above 85 m showed a
-negative drift starting a few months before the end of the deployment,
-apparently due to the anti-foulant expiration. The instrument at 15 m showed a
-large conductivity offset in April 2019. After this time, the data could not be
-corrected, and it was flagged as bad (the instrument was recovered with a bend
-in its conductivity guard). Similarly, the instrument at 105 m had a large
-conductivity offset in May 2019, and the data after this time was flagged as
-bad. The instrument at 135 m (SN 2965) stopped recording data one month before
-recovery, and the post-recovery inspection at Sea-Bird revealed that the
-instrument had a non-replaceable faulty board.
-```
+corrections applied to each of the conductivity sensors during WHOTS-16 are shown
+in Figures 5.8 through 5.15. Most of the instruments had a drift of less than
+0.04 Siemens/m for the duration of the deployment (except for the near-surface 
+instrument SN 1834 which had a 0.08 S/m drift), corrected with a linear or
+cubic least-squares fit. Many of the instruments deployed above 120 m showed a
+negative drift starting a few months before the end of their record,
+apparently due to the anti-foulant expiration. 
 
 ````{admonition} OLD TEXT!
 :class: warning
@@ -296,107 +288,89 @@ procedures.
 ````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr1.jpg
 :height: 1000px
 :align: center
 :name: figure5.8
 
-Conductivity sensor corrections for MicroCATs from 2 to 15 meters during
-WHOTS-15.
+Conductivity sensor corrections for MicroCATs from 1 to 7 meters during
+WHOTS-16.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr2.jpg
 :height: 1000px
 :align: center
 :name: figure5.9
 
-Conductivity sensor corrections for MicroCATs from 25 to 40 meters during
-WHOTS-15
+Conductivity sensor corrections for MicroCATs from 15 to 35 meters during
+WHOTS-16
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr3.jpg
 :height: 1000px
 :align: center
 :name: figure5.10
 
-Conductivity sensor corrections for MicroCATs from 45 to 55 meters during
-WHOTS-15
+Conductivity sensor corrections for MicroCATs from 40 to 50 meters during
+WHOTS-16
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr4.jpg
 :height: 1000px
 :align: center
 :name: figure5.11
 
-Conductivity sensor corrections for MicroCATs from 65 to 85 meters during
-WHOTS-15.
+Conductivity sensor corrections for MicroCATs from 55 to 75 meters during
+WHOTS-16.
 ```
-````
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr5.jpg
 :height: 1000px
 :align: center
 :name: figure5.12
 
-Conductivity sensor corrections for MicroCATs from 95 to 120 meters during
-WHOTS-15.
+Conductivity sensor corrections for MicroCATs from 85 to 105 meters during
+WHOTS-16.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
 
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16mic_corr6.jpg
 :height: 1000px
 :align: center
 :name: figure5.13
 
-Conductivity sensor corrections for MicroCATs from 134 to 136 meters during
-WHOTS-15
+Conductivity sensor corrections for MicroCATs from 120 to 155 meters during
+WHOTS-16
 ```
-````
 
-````{admonition} OLD TEXT!
-:class: warning
-
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16mic_corr7.jpg
 :height: 1000px
 :align: center
 :name: figure5.14
 
-Conductivity sensor corrections for MicroCATs at 154, 155 and 4658 meters
-during WHOTS-15.
+Conductivity sensor corrections for MicroCATs at 1875 and 4713 meters
+during WHOTS-16.
 ```
-````
 
-````{admonition} OLD TEXT!
-:class: warning
 
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/xxxx/microcats/w16mic_corr8.jpg
 :height: 1000px
 :align: center
 :name: figure5.15
 
-Conductivity sensor correction for MicroCAT at 4658 meters during WHOTS-15
+Conductivity sensor correction for MicroCAT at 4713 meters during WHOTS-16
 ```
-````
+
 
 ## Acoustic Doppler Current Profiler
 
