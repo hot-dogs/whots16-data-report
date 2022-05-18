@@ -1,9 +1,7 @@
 # Moored Instrument Observations
 
-## MicroCAT-SeaCAT Data Processing Procedures
+## MicroCAT Data Processing Procedures
 
-```{admonition} OLD TEXT!
-:class: warning
 Each moored MicroCAT temperature, conductivity, and pressure (when installed)
 was calibrated at Sea-Bird before their deployment and after their recovery on
 the dates shown in Table V 1. The internally-recorded data from each instrument
@@ -14,7 +12,6 @@ external event times, pressure sensor drifts correction, temperature sensor
 stability, and conductivity calibration against CTD data from casts conducted
 near the mooring during HOT and WHOTS cruises. The detailed processing
 procedures are described in this section.
-```
 
 ```{warning}
 add Table V 1. WHOTS-15 MicroCAT temperature sensor calibration dates and sensor drift during deployments.
@@ -22,9 +19,7 @@ add Table V 1. WHOTS-15 MicroCAT temperature sensor calibration dates and sensor
 
 ### Internal Clock Check and Missing Samples
 
-```{admonition} OLD TEXT!
-:class: warning
-Before the WHOTS-15 mooring deployment and after its recovery (before the data
+Before the WHOTS-16 mooring deployment and after its recovery (before the data
 logging was stopped), the MicroCATs temperature sensors were placed in contact
 with an ice pack to create a spike in the data, to check for any problems with
 their internal clocks, and for possible missing samples (Table III 4). The cold
@@ -32,12 +27,8 @@ spike was detected by a sudden decrease in temperature. For all the
 instruments, the clock time of this event matched the time of the spike (within
 the sampling interval of each instrument) correctly. No missing samples were
 detected for any of the devices.
-```
 
 ### Pressure Drift Correction and Pressure Variability
-
-```{admonition} OLD TEXT!
-:class: warning
 
 Some of the MicroCATs used in the moorings were outfitted with pressure
 sensors (Table III 1). Biases were detected in the pressure sensors by
@@ -46,38 +37,33 @@ atmospheric pressure at sea level of 1029 mbar) before deployment and recovery.
 Table V 2 shows the magnitude of the bias for each of the sensors before and
 after deployment. To correct this offset, a linear fit between the initial and
 final on-deck pressure offset as a function of time was obtained and subtracted
-from each sensor. Figure V 1 shows the linearly corrected pressures measured by
-the MicroCATs located above 200 m during the WHOTS-15 deployment. For all these
+from each sensor. Figure 5.1 shows the linearly corrected pressures measured by
+the MicroCATs located above 200 m during the WHOTS-16 deployment. For all these
 sensors, the mean difference from the nominal instrument pressure (based on the
-deployed depth) was less than 1 dbar. The standard deviation of the pressure
-for the duration of the record was also less than 1 dbar for all sensors, with
+deployed depth) was less than 1.2 dbar. The standard deviation of the pressure
+for the duration of the record was less than 1 dbar for all sensors, with
 the deeper sensors showing a slightly larger standard deviation. The range of
 variability for all sensors was about ± 3 dbar. The causes of pressure
 variability can be several, including density variations in the water column
 above the instrument; horizontal dynamic pressure (not only due to the currents
 but also due to the motion of the mooring); mooring position (see WHOTS Data
 Report 1, Santiago-Mandujano et al., 2007).
-```
 
 ```{warning}
 add Table V 2. Pressure bias of MicroCATs with pressure sensors. The instrument at 135 m stopped recording data before it was recovered.
 ```
 
 
-````{admonition} OLD TEXT!
-:class: warning
-
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16pbias_a.png
 :height: 1000px
 :align: center
 :name: figure5.1
 
 Linearly corrected pressures from MicroCATs between 7 and 155 m during
-WHOTS-15 deployment. The horizontal dashed line is the sensor’s nominal
+WHOTS-16 deployment. The horizontal dashed line is the sensor’s nominal
 pressure, based on deployed depth. The text on the left (right) side of the
 figure indicates the mean (standard deviation) of the difference between each
 instrument’s pressure and nominal pressure.
-```
 
 ````
 
