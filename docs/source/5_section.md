@@ -187,8 +187,6 @@ a 24-hour running mean of the differences.
 ```
 
 
-
-
 ```{figure} figures/microcats/w16tcompare_5.png
 :height: 1000px
 :align: center
