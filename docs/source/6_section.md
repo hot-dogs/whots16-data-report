@@ -147,7 +147,7 @@ upper right panel, but station 50 cast 1.
 :name: figure6.2
 
 [Upper panels] Same as in Figure 6.1, but for station 50, cast
-2. [Lower panels] Same as Figure 6.1, but for station 50, cast 3.
+2. [Lower panels] Same as Figure 6.1, but for station 50, cast 3.
 ```
 
 
