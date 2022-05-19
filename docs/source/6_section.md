@@ -116,17 +116,15 @@ from the anchor.
 
 ## CTD Profiling Data
 
-````{admonition} OLD TEXT!
 :class: warning
 Profiles of temperature, salinity, and potential density (σθ) from the casts
-obtained during the WHOTS-15 deployment cruise are presented in Figure VI 1
-through Figure VI 6, together with the results of bottle determination of
-salinity. Figure VI 7 through Figure VI 9 shows the results of the CTD profiles
-during the WHOTS-16 cruise.
-````
+obtained during the WHOTS-16 deployment cruise are presented in Figure 6.1
+through Figure 6.5, together with the results of bottle determination of
+salinity. Figure 6.6 through Figure 6.10 shows the results of the CTD profiles
+during the WHOTS-17 cruise.
 
 
-````{admonition} OLD TEXT!
+
 :class: warning
 ```{figure} figures/ctd/1.whots_16/s20c1_s50c1.png
 :height: 1000px
@@ -138,11 +136,10 @@ density (σθ) as a function of pressure, including discrete bottle salinity
 samples (when available) for station 20 cast 1 during the WHOTS-16
 cruise. [Upper right panel] Profiles of CTD salinity as a function of potential
 temperature, including discrete bottle salinity samples (when available) for
-station 20 cast 1 during the WHOTS-15 cruise. [Lower left panel] Same as in the
+station 20 cast 1 during the WHOTS-16 cruise. [Lower left panel] Same as in the
 upper left panel, but for station 50 cast 1. [Lower right panel] Same as in the
 upper right panel, but station 50 cast 1.
 ```
-````
 
 
 ````{admonition} OLD TEXT!
