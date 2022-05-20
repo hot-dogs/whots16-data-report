@@ -494,8 +494,7 @@ along the right axis in the upper figure indicate the depths of the instrument.
 
 Contour plots of 
 salinity versus σθ from SeaCATs/MicroCATs during WHOTS-1 through
-WHOTS-16 deployments. The shaded areas indicate missing data. The diamonds
-along the right axis in the upper figure indicate the depths of the instrument.
+WHOTS-16 deployments. 
 ```
 
 
