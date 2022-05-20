@@ -50,24 +50,26 @@ A temperature decrease in October-November 2019 was evident
 in the instruments below 65 m. The salinity records (Figure 6.21 through
 Figure 6.26 do not show an apparent seasonal cycle, but a salinity
 increase was recorded during October-November 2019, by the instruments
-between 40 to 85 m, coinciding with the temperature decrease.
+between 40 to 85 m, coinciding with the temperature decrease. This increase
+was followed by a period of low salinity (less than 35 on average above 120 m) 
+throughout 2020-2021, with extreme values (nearly 34.4) above 120 m in 
+November-December 2019, and above 75 m in July-September 2020.
 
-Figure 6.33 through Figure 6.36 show contours of the WHOTS-16 MicroCAT data in
+Figure 6.33 through Figure 6.35 show contours of the WHOTS-16 MicroCAT data in
 context with data from the previous 15 deployments. The seasonal cycle is
 evident in the temperature record, with record temperatures (higher than 26 °C)
-in the summer of 2004, and again in 2014, 2015, 2017, and 2019. Salinities in
+in the summer of 2004, and again in 2014, 2015, 2017, 2019, and 2020. Salinities in
 the subsurface salinity maximum were relatively low during the first 6 years of
 the record, only to increase drastically after 2008 through 2015, with some
 lower salinity episodes in mid-2011 and early 2012. The salinity maximum
 extended to near the surface in early 2010, 2011, late 2012-early 2013, and
 February-March 2013. Salinities in the salinity minimum decreased after 2015,
 showing low salinities above 100 m in 2016, 2017, 2018, and reaching record low
-values (34.4) in July-August 2019. The low salinities observed in 2019 in the
-MicroCAT time-series plots (Figure VI 21 through Figure VI 25) are apparent in
-Figure VI-32 and Figure VI-33. When plotted in σθ coordinates (Figure VI-33),
+values (34.4) in July-August 2019 and July-September 2020. 
+When plotted in σθ coordinates (Figure 6.35),
 the salinity maximum seems to be centered roughly between 24 and 24.5 σθ.
 
-Records from the WHOTS-15 MicroCATs (Figure VI 33) deployed near the bottom of
+Records from the WHOTS-16 MicroCATs (Figure 6.36) deployed near the bottom of
 the mooring (4658 m) detected temperature and salinity changes related to
 episodic ‘cold events’ apparently caused by bottom water moving between abyssal
 basins (Lukas et al., 2001). These events are being monitored by instruments at
