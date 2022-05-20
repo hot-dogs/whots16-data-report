@@ -70,16 +70,16 @@ When plotted in σθ coordinates (Figure 6.35),
 the salinity maximum seems to be centered roughly between 24 and 24.5 σθ.
 
 Records from the WHOTS-16 MicroCATs (Figure 6.36) deployed near the bottom of
-the mooring (4658 m) detected temperature and salinity changes related to
+the mooring (4713 m) detected temperature and salinity changes related to
 episodic ‘cold events’ apparently caused by bottom water moving between abyssal
 basins (Lukas et al., 2001). These events are being monitored by instruments at
 the ALOHA Cabled Observatory (ACO, Howe et al., 2011), a deep water observatory
-located at the bottom of Station ALOHA (about 6 nautical miles west from the
-WHOTS-15 anchor), since June 2011. Figure VI 33 shows temperature and salinity
-records from the WHOTS-15 MicroCATs superimposed on the ACO data. The MicroCAT
+located at the bottom of Station ALOHA (about 6 nautical miles north from the
+WHOTS-16 anchor), since June 2011. Figure 6.36 shows temperature and salinity
+records from the WHOTS-16 MicroCATs superimposed on the ACO data. The MicroCAT
 data agreed with the temperature decrease and the salinity variability
-registered by ACO instruments during two cold events in December 2018 and June
-2019, and a minor event in September 2019.
+registered by ACO instruments during cold events in January, March and December
+2020, and a minor events in August 2020 and September 2021.
 
 Figure VI 37 through Figure VI 39 shows the time series of the zonal,
 meridional, and vertical currents recorded with the moored ADCPs during the
