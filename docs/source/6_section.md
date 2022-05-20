@@ -2,43 +2,19 @@
 
 ````{admonition} OLD TEXT!
 :class: warning
-During the WHOTS-15 cruise (WHOTS-15 mooring deployment, September 21-29, 2018)
-, weather conditions on September 22-23 were favorable, with light
-east-southeast winds of about 5 kt increasing to up to 16 kt by the end of the
-deployment, and 1.5m waves from the east, with a strong surface current toward
-the east-northeast.
 
-CTD casts conducted near the mooring site (Station 50 – Near the WHOTS-15 buoy)
-after the deployment (Figure VI 1 through Figure VI 4) displayed a subsurface
-salinity maximum at 150 dbar and a mixed layer nearly 50 m deep. Near-surface
-currents were about 1 kt North-eastward during transit to Station ALOHA,
-turning Northward and Eastward upon arrival to Station ALOHA, and remained so
-for approximately five days. There was a nearly stationary cyclonic eddy east
-of ALOHA, suggesting a possible increasing geostrophic flow towards the East,
-North-East. A combination of internal semidiurnal and diurnal tides and
-near-inertial oscillations was noticeable, especially in vertical shear.
-
-During the WHOTS-16 cruise (WHOTS-15 mooring recovery, October 4-12, 2019), a
+During the WHOTS-16 cruise (WHOTS-16 mooring deployment, October 4-12, 2019), a
 weakening front north of the Hawaiian Islands acted to weaken trades across the
 region. This ridge to the north was eroding due to a weakening cold front north
 of the ridge, which led to a downward trend in winds. The front continued to
 weaken and sink southward through the weekend, keeping the winds light and
-variable. Regular trades returned by mid-week. There was no measurable
-precipitation during the deployment or recovery times of the WHOTS-16 and -15
-moorings, respectively. On Thursday, October 10th, winds in the morning
+variable. Regular trades returned by mid-week. 
+On Thursday, October 10th, winds in the morning
 increased to 25 kt gusting to 35 kt, and there was a brief rain event in the
-morning. Distant lightning caused a short delay (30 minutes) to the first CTD
-yo-yo cast. Waves during the week were also low, with a small swell from the
+morning. Waves during the week were also low, with a small swell from the
 north arriving mid-week.
 
-Conditions during the WHOTS-16 deployment on October 5th were favorable, with
-light NNE winds of ~ 5 kt increasing to up to 10 kt by the end of the
-deployment. There were clear skies and no precipitation in the region, and 1.0
-to 1.5 m waves from the east, with a strong surface current towards ENE.
-
-CTD casts conducted near the mooring site (Station 50) before the recovery (
-Figure VI 7 through Figure VI 9)displayed a subsurface salinity maximum at 70
-dbar and a mixed layer nearly 60 dbar deep. Near-surface currents were almost 1
+Near-surface currents were almost 1
 kt northward during transit to Station ALOHA, turning southward upon arrival to
 Station ALOHA. Eventually, the current shifted due north again, became somewhat
 weaker (about 0.5 kt), and remained for approximately five days. There was a
@@ -47,16 +23,37 @@ formed eddy; it was reflected by northward flow to the east and southward flow
 to the west. A combination of internal semidiurnal and diurnal tides and
 near-inertial oscillations was noticeable, especially in vertical shear.
 
-The temperature MicroCAT records during the WHOTS-15 deployment (Figure VI 16
-through Figure VI 20) show noticeable seasonal variability in the upper 100 m
-and a sudden increase during January 2019. A decrease in June 2019 was evident
-in the instruments below 55 m. The salinity records (Figure VI 21 through
-Figure VI 25 do not show an apparent seasonal cycle, but instances of salinity
-decrease were recorded during March, especially in July-August 2019, and to a
-minor extent in May 2019 by the instruments located above 120 m.
+Conditions during the WHOTS-16 deployment on October 5th were favorable, with
+light NNE winds of ~ 5 kt increasing to up to 10 kt by the end of the
+deployment. There were clear skies and no precipitation in the region, and 1.0
+to 1.5 m waves from the east, with a strong surface current towards ENE.
 
-Figure VI 31 and Figure VI 32 show contours of the WHOTS-15 MicroCAT data in
-context with data from the previous 14 deployments. The seasonal cycle is
+CTD casts conducted near the WHOTS-16 buoy (Station 52) after deployment (
+Figures 6.4 and 6.5) displayed a subsurface salinity maximum between 70 to 80
+dbar and a mixed layer 40 to 60 dbar deep. 
+
+During the WHOTS-17 cruise (WHOTS-16 mooring recovery, August 24 - September 1, 2021),
+a high-pressure ridge far north of the Hawaiian Islands maintained a tight 
+enough pressure gradient down across the region to produce moderate to 
+locally strong trades. As this high slowly moved northeast away from the 
+area and subtly weakened the gradient, trades gradually weakened. 
+There was no measurable precipitation during the recovery of the mooring,
+and surface currents were less than 1 kt.
+
+CTD casts conducted near the WHOTS-16 buoy (Station 52) before recovery (
+Figure 6.10) displayed a subsurface salinity maximum between 150 to 170
+dbar and a mixed layer 60 dbar deep. 
+
+The temperature MicroCAT records during the WHOTS-16 deployment (Figure 6.15
+through Figure 6.20) show noticeable seasonal variability in the upper 100 m.
+A temperature decrease in October-November 2019 was evident
+in the instruments below 65 m. The salinity records (Figure 6.21 through
+Figure 6.26 do not show an apparent seasonal cycle, but a salinity
+increase was recorded during October-November 2019, by the instruments
+between 40 to 85 m, coinciding with the temperature decrease.
+
+Figure 6.33 through Figure 6.36 show contours of the WHOTS-16 MicroCAT data in
+context with data from the previous 15 deployments. The seasonal cycle is
 evident in the temperature record, with record temperatures (higher than 26 °C)
 in the summer of 2004, and again in 2014, 2015, 2017, and 2019. Salinities in
 the subsurface salinity maximum were relatively low during the first 6 years of
