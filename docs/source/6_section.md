@@ -318,235 +318,197 @@ speed (lower panel) during the WHOTS-15 cruise.
 
 ## MicoCAT Data
 
-````{admonition} OLD TEXT!
-:class: warning
+
 The temperatures measured by MicroCATs during the mooring deployment for
-WHOTS-15 are presented in Figure VI 16 through Figure VI 20 for each of the
+WHOTS-16 are presented in Figure 6.15 through Figure 6.20 for each of the
 depths where the instruments were located. The salinities are plotted in Figure
-VI 21 through Figure VI 25. The potential densities (σθ) are plotted in Figure
-VI 26 through Figure VI 30.
+6.21 through Figure 6.26. The potential densities (σθ) are plotted in Figure
+6.27 through Figure 6.32.
 
 Contoured plots of temperature and salinity as a function of depth for the
-deployments WHOTS-1 through -15 are presented in Figure VI 31, and contoured
-plots of potential density (σθ) as a function of depth, and of salinity as a
-function of σθ are in Figure VI 32.
+deployments WHOTS-1 through -16 are presented in Figure 6.33, and contoured
+plots of potential density (σθ) as a function of depth are in Figure
+6.34, and of salinity as a
+function of σθ are in Figure 6.35.
 
-The potential temperature and salinity measured by the deep MicroCATs during
-the mooring deployment are shown in Figure VI 33. Also shown in the plot are
-the potential temperature and salinity data obtained with a MicroCAT (SBE-37)
-installed in the ALOHA Cabled Observatory, about six nautical miles west from
-the WHOTS-15 anchor. The instrument is located 2 m above the bottom.
-````
+The potential temperature (θ) and salinity measured by the deep MicroCATs during
+the mooring deployment are shown in Figure 6.36. Also shown in the plot are
+the θ and salinity data obtained with a MicroCAT (SBE-37)
+installed in the ALOHA Cabled Observatory, about six nautical miles north from
+the WHOTS-16 anchor. The instrument is located 2 m above the bottom.
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.15  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_1_4.png
 :height: 1000px
 :align: center
 :name: figure6.15
-Temperatures from MicroCATs during WHOTS-15 deployment at 1.5, 7, 15, and 25 m.
+Temperatures from MicroCATs during WHOTS-16 deployment at 1.5, 7, 15, and 25 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.16 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_5_8.png
 :height: 1000px
 :align: center
 :name: figure6.16
-Same as in Figure VI 16, but at 35, 40, 45, and 50 m.
+Same as in Figure 6.15, but at 35, 40, 45, and 50 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.17 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_9_12.png
 :height: 1000px
 :align: center
 :name: figure6.17
-Same as in Figure VI 16, but at 95, 105, 120, and 135 m.
+Same as in Figure 6.15, but at 55, 65, 75, and 85 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.18  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_13_16.png
 :height: 1000px
 :align: center
 :name: figure6.18
-Same as in Figure VI 16, but at 55, 65, 75, and 85 m.
+Same as in Figure 6.15, but at 95, 105, 120, and 135 m.
 ```
-````
-
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.19  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_17_20.png
 :height: 1000px
 :align: center
 :name: figure6.19
-Salinities from MicroCATs during WHOTS-15 deployment at 1.5, 7, 15, and 25 m
+Same as in Figure 6.15, but at 155, 1875, and 4713 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.20  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_21.png
 :height: 1000px
 :align: center
 :name: figure6.20
-Same as in Figure 6.19, but at 35, 40, 45, and 50 m.
+Same as in Figure 6.15, but at 4713 m
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.21  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_1_4.png
 :height: 1000px
 :align: center
 :name: figure6.21
-Same as in Figure 6.19, but at 35, 40, 45, and 50 m.
+Salinities from MicroCATs during WHOTS-16 deployment at 1.5, 7, 15, and 25 m
 ```
-````
-
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.22 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_5_8.png
 :height: 1000px
 :align: center
 :name: figure6.22
-Same as in Figure 6.19, but at 55, 65, 75, and 85 m
+Same as in Figure 6.21, but at 35, 40, 45, and 50 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.23  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_9_12.png
 :height: 1000px
 :align: center
 :name: figure6.23
-Same as in Figure 6.19, but at 95, 105, 120, and 135 m. 
+Same as in Figure 6.21, but at 55, 65, 75, and 85 m
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.24  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_13_16.png
 :height: 1000px
 :align: center
 :name: figure6.24
-Same as in Figure 6.19, but at 155 m. 
+Same as in Figure 6.21, but at 95, 105, 120, and 135 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.25  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_17_20.png
 :height: 1000px
 :align: center
 :name: figure6.25
-Potential densities (σθ) from MicroCATs during WHOTS-15 deployment at 1.5, 7,
-15, and 25 m.
+Same as in Figure 6.21, but at 155, 1875, and 4713 m. 
 ```
-````
-
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.26  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_21.png
 :height: 1000px
 :align: center
 :name: figure6.26
-Same as in Figure 6.25, but at 35, 40, 45, and 50 m.
+Same as in Figure 6.21, but at 4713 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.27 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_1_4.png
 :height: 1000px
 :align: center
 :name: figure6.27
-Same as in Figure 6.25, but at 55, 65, 75, and 85 m.
+Potential densities (σθ) from MicroCATs during WHOTS-16 deployment at 1.5, 7,
+15, and 25 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.28  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_5_8.png
 :height: 1000px
 :align: center
 :name: figure6.28
-Same as in Figure 6.25, but at 95, 105, 120, and 135 m. 
+Same as in Figure 6.27, but at 35, 40, 45, and 50 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.29  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_9_12.png
 :height: 1000px
 :align: center
 :name: figure6.29
-Same as in Figure 6.25, but at 155 m. 
+Same as in Figure 6.27, but at 55, 65, 75, and 85 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.30  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_13_16.png
 :height: 1000px
 :align: center
 :name: figure6.30
-
-Contour plots of temperature (upper panel) and salinity (lower panel) versus
-depth from SeaCATs/ MicroCATs during WHOTS-1 through WHOTS-15 deployments. The
-shaded areas indicate missing data. The diamonds along the right axis indicate
-the depths of the instrument.
+Same as in Figure 6.27, but at 95, 105, 120, and 135 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.31  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_17_20.png
 :height: 1000px
 :align: center
 :name: figure6.31
-
-Contour plots of potential density (σθ, upper panel), versus depth, and of
-salinity versus σθ (lower panel) from SeaCATs/MicroCATs during WHOTS-1 through
-WHOTS-15 deployments. The shaded areas indicate missing data. The diamonds
-along the right axis in the upper figure indicate the depths of the instrument.
+Same as in Figure 6.27, but at 155, 1875, and 4713 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.32 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_21.png
 :height: 1000px
 :align: center
 :name: figure6.32
+Same as in Figure 6.27, but at 4713 m. 
+```
+
+
+```{figure} figures/microcats/w1_16_contTS.png
+:height: 1000px
+:align: center
+:name: figure6.33
+
+Contour plots of temperature (upper panel) and salinity (lower panel) versus
+depth from SeaCATs/MicroCATs during WHOTS-1 through WHOTS-16 deployments. The
+shaded areas indicate missing data. The diamonds along the right axis indicate
+the depths of the instrument.
+```
+
+```{figure} figures/microcats/w1_16_contSt.png
+:height: 1000px
+:align: center
+:name: figure6.34
+
+Contour plots of potential density (σθ), versus depth from SeaCATs/MicroCATs during WHOTS-1 through
+WHOTS-16 deployments. The shaded areas indicate missing data. The diamonds
+along the right axis in the upper figure indicate the depths of the instrument.
+```
+```{figure} figures/microcats/w1_16_contS.png
+:height: 1000px
+:align: center
+:name: figure6.35
+
+Contour plots of 
+salinity versus σθ from SeaCATs/MicroCATs during WHOTS-1 through
+WHOTS-16 deployments. The shaded areas indicate missing data. The diamonds
+along the right axis in the upper figure indicate the depths of the instrument.
+```
+
+
+
+```{figure} figures/microcats/plt_w16_aco_all.png
+:height: 1000px
+:align: center
+:name: figure6.36
 
 Potential temperature (upper panel) and salinity (lower panel) time-series from
-the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-15 MicroCATs 12247 and
-12246.
+the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-16 MicroCATs 11391 and
+12241.
 ```
-````
 
 ## Moored ADCP Data
 
