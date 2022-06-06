@@ -1,34 +1,28 @@
-# WHOTS (16-15) Cruise Shipboard Observations
-
-````{admonition} OLD TEXT!
-:class: warning
+# WHOTS (16-17) Cruise Shipboard Observations
 
 The hydrographic profile observations made during the WHOTS cruises were
 obtained with a Sea-Bird CTD package with dual temperature, salinity, and
 oxygen sensors. This CTD was installed on a rosette-sampler with 5 L Niskin
-sampling bottles for calibration water samples. Furthermore, the Hi’ialakai and
+sampling bottles for calibration water samples. Furthermore, the ship
 Oscar Sette came equipped with a thermosalinograph system that provided a
 continuous depiction of the near-surface layer's temperature and salinity.
 Horizontal currents over the depth range of 30-700 m were measured from the
 shipboard 75 kHz Ocean Surveyor
-(OS75) ADCP (narrowband) with a vertical resolution of 16m for the WHOTS-15 and
-WHOTS-16 cruises. Broadband mode for the OS75 provided additional current data
+(OS75) ADCP (narrowband) with a vertical resolution of 16m for the WHOTS-16 and
+WHOTS-17 cruises. Broadband mode for the OS75 provided additional current data
 over the range upper 200 m with a vertical resolution of 8m.
 
 Data gaps occurred when the system was shut down temporarily during
 communications with the acoustic releases used for the moorings during both
 cruises. Periods of missing data between 300 and 450 m in the broadband ADCP
 were apparent due to the lack of scattering material in the water.
-````
+
 
 ## Conductivity, Temperature, and Depth (CTD) Profiling
 
-```{admonition} OLD TEXT!
-:class: warning
-
 Continuous measurements of temperature, conductivity, dissolved oxygen, and
-pressure were made with the UH Sea-Bird SBE-9/11Plus CTD underwater unit #91361
-(BETA), deck unit 112060 during WHOTS-15 and WHOTS-16 cruises. The CTD was
+pressure were made with the UH Sea-Bird SBE-9/11Plus CTD underwater units #91361
+and #850 during WHOTS-16 and WHOTS-17 cruises respectively. The CTD was
 equipped with an internal Digiquartz pressure sensor and pairs of external
 temperature, conductivity, and oxygen sensors.
 
@@ -47,16 +41,13 @@ to begin the CTD cast. The time and position of each cast were obtained via a
 GPS connection to the CTD deck box. Four salinity samples were taken on each
 cast for calibration of the conductivity sensors.
 
-````
 
 ### Data Acquisition and Processing
 
-````{admonition} OLD TEXT!
-:class: warning 
-
 CTD data were acquired at the instrument's highest sampling rate of 24 samples
 per second. Digital data were stored on a laptop computer, and, for redundancy,
-the analog signal was recorded on VHS videotapes. Backups of CTD data were made
+the analog signal was recorded on a separate computer using a sound card and 
+Audacity (TM) software. Backups of CTD data were made
 onto USB storage cards.
 
 The raw CTD data were quality controlled and screened for spikes described in
@@ -77,52 +68,41 @@ commonly contaminate upcast data.
 Temperature is reported on the ITS-90 scale. Salinity and all derived units
 were calculated using the UNESCO (1981) routines; salinity is reported in the
 Practical Salinity(SA) scale (PSS-78). Oxygen is reported in umol kg-1.
-````
 
 ### CTD Sensor Calibration and Corrections
 
 #### Pressure
 
-````{admonition} OLD TEXT!
-:class: warning 
-
-The pressure calibration strategy for CTD pressure transducer SN 75434 used
-during WHOTS-15 and WHOTS-16 cruises employed a high-quality quartz pressure
+The pressure calibration strategy for CTD pressure transducers #75434 and #1430 used
+during WHOTS-16 and WHOTS-17 cruises respectively employed a high-quality quartz pressure
 transducer as a transfer standard. Periodic recalibrations of this lab standard
 were performed with a primary pressure standard. The only corrections applied
 to the CTD pressures were a constant offset determined when the CTD first
 enters the water on each cast. Also, a span correction determined from bench
 tests on the sensor against the transfer standard was applied. These procedures
-and corrections are thoroughly documented in the HOT-2018 data report (Fukieki
-et al., 2020).
-````
+and corrections are thoroughly documented in the HOT-2019 data report (Fukieki
+et al., 2021).
 
 #### Temperature/Conductivity
 
-````{admonition} OLD TEXT!
-:class: warning 
 Sea-Bird SBE-3-Plus temperature and SBE 4C conductivity transducers were used
-during WHOTS-15 and -16 cruises. These sensors' history and performance have
+during WHOTS-16 and -17 cruises. These sensors' history and performance have
 been monitored during HOT cruises, and calibrations and drift corrections
-applied during WHOTS cruises are thoroughly documented in the HOT-2018 data
-report (Fukieki et al., 2020).
-````
+applied during WHOTS cruises are thoroughly documented in the HOT-2019 data
+report (Fukieki et al., 2021).
 
 #### Dissolved Oxygen
 
-````{admonition} OLD TEXT!
-:class: warning 
-Sea-Bird SBE-43 oxygen sensors were used during the WHOTS-15 and -16 cruises.
-The WHOTS-15 oxygen data were calibrated using calibration coefficients
-obtained during the HOT-305 cruise conducted on 9-13 September 2018, before the
-WHOTS-15 cruise, which used the same oxygen sensors. The CTD empirical
+Sea-Bird SBE-43 oxygen sensors were used during the WHOTS-16 and -17 cruises.
+The WHOTS-16 oxygen data were calibrated using calibration coefficients
+obtained during the HOT-315 cruise conducted on 3-7 September 2019, before the
+WHOTS-16 cruise, which used the same oxygen sensors. The CTD empirical
 calibration was performed using oxygen water samples and the procedure from
 Owens and Millard Jr (1985). See Tupas et al. (1996) for details on these
-calibrations procedures. Similarly, the oxygen data from WHOTS-16 were
-calibrated using calibration coefficients obtained during the HOT-315 cruise
-conducted on 3-7 September 2019, before the WHOTS-16 cruise, which used the
+calibrations procedures. The oxygen data from WHOTS-17 were
+calibrated using calibration coefficients obtained during the HOT-327 cruise
+conducted on 15-19 February 2021, before the WHOTS-17 cruise, which used the
 same oxygen sensors.
-````
 
 ## Water Sampling and Analysis
 
@@ -131,7 +111,7 @@ same oxygen sensors.
 ````{admonition} OLD TEXT!
 :class: warning 
 Salinity samples were collected by a rosette sampler during CTD casts at
-selected depths during WHOTS-15 and -16, and then sub-sampled in 250 ml glass
+selected depths during WHOTS-16 and -17, and then sub-sampled in 250 ml glass
 bottles. The top of each bottle and thimble were thoroughly dried before being
 tightly capped to prevent water from being trapped between the cap or thimble
 and the bottle’s mouth. It has been observed that residual water trapped in

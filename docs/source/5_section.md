@@ -1,9 +1,7 @@
 # Moored Instrument Observations
 
-## MicroCAT-SeaCAT Data Processing Procedures
+## MicroCAT Data Processing Procedures
 
-```{admonition} OLD TEXT!
-:class: warning
 Each moored MicroCAT temperature, conductivity, and pressure (when installed)
 was calibrated at Sea-Bird before their deployment and after their recovery on
 the dates shown in Table V 1. The internally-recorded data from each instrument
@@ -14,7 +12,6 @@ external event times, pressure sensor drifts correction, temperature sensor
 stability, and conductivity calibration against CTD data from casts conducted
 near the mooring during HOT and WHOTS cruises. The detailed processing
 procedures are described in this section.
-```
 
 ```{warning}
 add Table V 1. WHOTS-15 MicroCAT temperature sensor calibration dates and sensor drift during deployments.
@@ -22,9 +19,7 @@ add Table V 1. WHOTS-15 MicroCAT temperature sensor calibration dates and sensor
 
 ### Internal Clock Check and Missing Samples
 
-```{admonition} OLD TEXT!
-:class: warning
-Before the WHOTS-15 mooring deployment and after its recovery (before the data
+Before the WHOTS-16 mooring deployment and after its recovery (before the data
 logging was stopped), the MicroCATs temperature sensors were placed in contact
 with an ice pack to create a spike in the data, to check for any problems with
 their internal clocks, and for possible missing samples (Table III 4). The cold
@@ -32,12 +27,8 @@ spike was detected by a sudden decrease in temperature. For all the
 instruments, the clock time of this event matched the time of the spike (within
 the sampling interval of each instrument) correctly. No missing samples were
 detected for any of the devices.
-```
 
 ### Pressure Drift Correction and Pressure Variability
-
-```{admonition} OLD TEXT!
-:class: warning
 
 Some of the MicroCATs used in the moorings were outfitted with pressure
 sensors (Table III 1). Biases were detected in the pressure sensors by
@@ -46,40 +37,35 @@ atmospheric pressure at sea level of 1029 mbar) before deployment and recovery.
 Table V 2 shows the magnitude of the bias for each of the sensors before and
 after deployment. To correct this offset, a linear fit between the initial and
 final on-deck pressure offset as a function of time was obtained and subtracted
-from each sensor. Figure V 1 shows the linearly corrected pressures measured by
-the MicroCATs located above 200 m during the WHOTS-15 deployment. For all these
+from each sensor. Figure 5.1 shows the linearly corrected pressures measured by
+the MicroCATs located above 200 m during the WHOTS-16 deployment. For all these
 sensors, the mean difference from the nominal instrument pressure (based on the
-deployed depth) was less than 1 dbar. The standard deviation of the pressure
-for the duration of the record was also less than 1 dbar for all sensors, with
+deployed depth) was less than 1.2 dbar. The standard deviation of the pressure
+for the duration of the record was less than 1 dbar for all sensors, with
 the deeper sensors showing a slightly larger standard deviation. The range of
 variability for all sensors was about ± 3 dbar. The causes of pressure
 variability can be several, including density variations in the water column
 above the instrument; horizontal dynamic pressure (not only due to the currents
 but also due to the motion of the mooring); mooring position (see WHOTS Data
 Report 1, Santiago-Mandujano et al., 2007).
-```
 
 ```{warning}
 add Table V 2. Pressure bias of MicroCATs with pressure sensors. The instrument at 135 m stopped recording data before it was recovered.
 ```
 
 
-````{admonition} OLD TEXT!
-:class: warning
-
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16pbias_a.png
 :height: 1000px
 :align: center
 :name: figure5.1
 
 Linearly corrected pressures from MicroCATs between 7 and 155 m during
-WHOTS-15 deployment. The horizontal dashed line is the sensor’s nominal
+WHOTS-16 deployment. The horizontal dashed line is the sensor’s nominal
 pressure, based on deployed depth. The text on the left (right) side of the
 figure indicates the mean (standard deviation) of the difference between each
 instrument’s pressure and nominal pressure.
-```
 
-````
+```
 
 ### Temperature Sensor Stability
 
@@ -130,31 +116,30 @@ conducted to evaluate the temperatures from those sensors.
 
 #### Comparisons with VMCM and ADCP temperature sensors
 
-```{admonition} OLD TEXT!
-:class: warning
-The upper panel of Figure V 3 shows the difference between the 10-m VMCM and
-the 7-m MicroCAT temperatures during WHOTS-15, after adding a 0.0316 °C offset
+The upper panel of Figure 5.3 shows the difference between the 10-m VMCM and
+the 7-m MicroCAT temperatures during WHOTS-16, after adding a 0.0259 °C offset
 correction to the VMCM. The offset was the mean difference between the
 uncorrected VMCM and the 7-m MicroCAT data. Also shown for comparison in the
-middle panel of the figure are the differences between MicroCAT temperatures at
-15 m. The lower panel shows the temperature fluctuations in the differences
+middle panel of the figure are the corrected VMCM temperature differences from 
+the 15 m MicroCAT. The VMCM temperatures had a 0.04 °C offset in April 2020. 
+The lower panel shows the temperature fluctuations in the differences
 between the 7 and 15-m MicroCATs, which seem to be around zero.
 
 Temperature differences between the 30-m VMCM and the temperatures from
-adjacent MicroCATs at 25 and 35-m during WHOTS-15 are shown in Figure V 4,
-after adding a 0.0126°C offset correction to the VMCM. The offset was the mean
+adjacent MicroCATs at 25 and 35-m during WHOTS-16 are shown in Figure 5.4,
+after adding a 0.0147°C offset correction to the VMCM. The offset was the mean
 difference between the uncorrected VMCM and the 25-m MicroCAT data. For
 comparison, the differences between the MicroCATs temperatures are also shown
 in the lower panel.
 
 Temperature differences between the 47.5-m ADCP and the temperatures from
-adjacent MicroCATs at 45 and 50-m during WHOTS-15 are shown in Figure V 5. The
-ADCP stopped collecting data on 2018/11/2 for unknown reasons. For comparison,
+adjacent MicroCATs at 45 and 50-m during WHOTS-16 are shown in Figure 5.5. The
+ADCP failed and stopped collecting data on 2020/1/21 (see Sect. 3). For comparison,
 the differences between the MicroCATs temperatures are also shown in the lower
 panel.
 
 Temperature differences between the 125-m ADCP and the temperatures from
-adjacent MicroCATs at 120 and 135-m during WHOTS-15 are shown in Figure V 6.
+adjacent MicroCATs at 120 and 135-m during WHOTS-16 are shown in Figure 5.6.
 For comparison, the differences between the MicroCATs temperatures are also
 shown in the lower panel. It is difficult to assess the quality of the ADCP
 temperature from these comparisons. These sensors were located at the top of
@@ -162,60 +147,47 @@ the thermocline, where we expect to find substantial temperature differences
 between adjacent sensors. However, an indication of the ADCP temperatures'
 quality is given in the upper panel plot, which shows temperatures fluctuating
 closely around zero.
-```
 
 
-
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16tcompare_22.png
 :height: 1000px
 :align: center
 :name: figure5.3
 
 The temperature difference between the 7-m MicroCAT and the 10-m VMCM (upper
 pane)l; between the 15-m MicroCAT and the 10-m VMCM (middle panel); and between
-the 7-m and the 15-m MicroCATs (lower panel ) during the WHOTS-15 deployment.
+the 7-m and the 15-m MicroCATs (lower panel ) during the WHOTS-16 deployment.
 The light blue line is a 24-hour running mean of the differences.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16tcompare_33.png
 :height: 1000px
 :align: center
 :name: figure5.4
 
 The temperature difference between the 25-m MicroCAT and the 30-m VMCM (upper
 panel); between the 35-m MicroCAT and the 30-m VMCM (middle panel); and between
-the 25-m and the 35-m MicroCATs (lower panel) during the WHOTS-15 deployment.
+the 25-m and the 35-m MicroCATs (lower panel) during the WHOTS-16 deployment.
 The light blue line is a 24-hour running mean of the differences.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16tcompare_4.png
 :height: 1000px
 :align: center
 :name: figure5.5
 
 The temperature difference between the 45-m MicroCAT and the 47.5-m ADCP (upper
-panel). (The ADCP stopped collecting data on 2018/11/2); between the 50-m
+panel). (The ADCP stopped collecting data on 2020/1/21); between the 50-m
 MicroCAT and the 47.5-m ADCP (middle panel); and between the 45-m and the 50-m
-MicroCATs (lower panel) during the WHOTS-15 deployment. The light blue line is
+MicroCATs (lower panel) during the WHOTS-16 deployment. The light blue line is
 a 24-hour running mean of the differences.
 ```
-````
 
 
-
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16tcompare_5.png
 :height: 1000px
 :align: center
 :name: figure5.6
@@ -225,12 +197,8 @@ panel); between the 135-m MicroCAT and the 125-m ADCP (middle panel); and
 between the 120-m and the 135-m MicroCATs (lower panel) during the WHOTS-15
 deployment. The light blue line is a 24-hour running mean of the differences.
 ```
-````
 
 ### Conductivity Calibration
-
-```{admonition} OLD TEXT!
-:class: warning
 
 The results of the Sea-Bird post-recovery conductivity calibrations indicated
 that some of the MicroCAT conductivity sensors experienced relatively large
@@ -240,8 +208,8 @@ between 200 m and 5 km from the mooring during HOT cruises. The conductivity
 offsets are not apparent, and there may have been multiple causes (see Freitag
 et al. (1999) for a similar experience with conductivity cells during COARE).
 For some instruments, the offset was negative, caused perhaps by biofouling of
-the conductivity cell. In contrast, for others, the offset was positive, caused
-by scouring the inside of the conductivity cell (possibly by the instrument's
+the conductivity cell. In contrast, for others, the offset was positive, possibly caused
+by scouring the inside of the conductivity cell (by the instrument's
 continuous up and down motion in an abundant field of diatoms). A visual
 inspection of the instruments after recovery did not show any apparent signs of
 biofouling. There were no cell scourings reported in the post-recovery reviews
@@ -256,7 +224,7 @@ from the mooring were not used. Given that the CTD casts are conducted at least
 200 m from the mooring, CTD and MicroCAT data's alignment was done in density
 rather than in-depth. For cases where the alignment in density was not possible
 due to large conductivity offsets (causing unrealistic mooring density values),
-alignment in temperature space was done. A cubic least-squares fit (LSF) to the
+the alignment was done in temperature space. A cubic least-squares fit (LSF) to the
 CTD-MicroCAT differences against time was applied as a first approximation, and
 the corresponding correction was applied.
 
@@ -274,7 +242,7 @@ and C could indicate the beginning of an offset for sensor B.
 Given that the most in-depth instruments on the mooring are less likely to be
 affected by biofouling and consequent sudden conductivity drift, the deep
 instruments served as an excellent reference to find any possible malfunction
-in the shallower ones. Therefore the most profound instruments’ conductivity
+in the shallower ones. Therefore the conductivity from the deepest instruments
 was corrected first, and the correction was continued sequentially upwards
 toward the shallower ones.
 
@@ -283,29 +251,24 @@ between neighboring instruments was calculated using finite differences. Over-
 or under-corrected conductivities yielded instabilities in the water column (
 negative buoyancy frequency) that were easy to detect and were not real when
 lasting for several days. Based on this, the conductivity correction of the
-corresponding sensors was revised. Corrections of the in-depth MicroCATs
-conductivity data were conducted following similar procedures for the shallow
-instruments by comparing them against CTD data from near-bottom profiles
-conducted during HOT cruises (Figure V 7, bottom panel). After correction, the
+corresponding sensors was revised. 
+
+Correction of the near-bottom MicroCATs'
+conductivities were done following similar procedures than for the shallow
+instruments, by comparing them against CTD data from near-bottom profiles
+conducted during HOT cruises (Figure 5.7, bottom panel). After correction, the
 salinity differences between both instruments were in the ±0.001 range.
 
 Another characteristic of the offsets in the conductivity sensors is that their
 development is not always linear in time. Their behavior can be highly
 variable (see WHOTS Data Report 1, Santiago-Mandujano et al., 2007). The
-corrections applied to each of the conductivity sensors during WHOTS-15 can be
-seen in Figure V 8 to 15. Most of the instruments had a drift of less than
-0.025 Siemens/m for the duration of the deployment, corrected with a linear or
-cubic least-squares fit. Most of the instruments deployed above 85 m showed a
-negative drift starting a few months before the end of the deployment,
-apparently due to the anti-foulant expiration. The instrument at 15 m showed a
-large conductivity offset in April 2019. After this time, the data could not be
-corrected, and it was flagged as bad (the instrument was recovered with a bend
-in its conductivity guard). Similarly, the instrument at 105 m had a large
-conductivity offset in May 2019, and the data after this time was flagged as
-bad. The instrument at 135 m (SN 2965) stopped recording data one month before
-recovery, and the post-recovery inspection at Sea-Bird revealed that the
-instrument had a non-replaceable faulty board.
-```
+corrections applied to each of the conductivity sensors during WHOTS-16 are shown
+in Figures 5.8 through 5.15. Most of the instruments had a drift of less than
+0.04 Siemens/m for the duration of the deployment (except for the near-surface 
+instrument SN 1834 which had a 0.08 S/m drift), corrected with a linear or
+cubic least-squares fit. Many of the instruments deployed above 120 m showed a
+negative drift starting a few months before the end of their record,
+apparently due to the anti-foulant expiration. 
 
 ````{admonition} OLD TEXT!
 :class: warning
@@ -323,107 +286,89 @@ procedures.
 ````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr1.jpg
 :height: 1000px
 :align: center
 :name: figure5.8
 
-Conductivity sensor corrections for MicroCATs from 2 to 15 meters during
-WHOTS-15.
+Conductivity sensor corrections for MicroCATs from 1 to 7 meters during
+WHOTS-16.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr2.jpg
 :height: 1000px
 :align: center
 :name: figure5.9
 
-Conductivity sensor corrections for MicroCATs from 25 to 40 meters during
-WHOTS-15
+Conductivity sensor corrections for MicroCATs from 15 to 35 meters during
+WHOTS-16
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr3.jpg
 :height: 1000px
 :align: center
 :name: figure5.10
 
-Conductivity sensor corrections for MicroCATs from 45 to 55 meters during
-WHOTS-15
+Conductivity sensor corrections for MicroCATs from 40 to 50 meters during
+WHOTS-16
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr4.jpg
 :height: 1000px
 :align: center
 :name: figure5.11
 
-Conductivity sensor corrections for MicroCATs from 65 to 85 meters during
-WHOTS-15.
+Conductivity sensor corrections for MicroCATs from 55 to 75 meters during
+WHOTS-16.
 ```
-````
 
-````{admonition} OLD TEXT!
-:class: warning
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/microcats/w16mic_corr5.jpg
 :height: 1000px
 :align: center
 :name: figure5.12
 
-Conductivity sensor corrections for MicroCATs from 95 to 120 meters during
-WHOTS-15.
+Conductivity sensor corrections for MicroCATs from 85 to 105 meters during
+WHOTS-16.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
 
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16mic_corr6.jpg
 :height: 1000px
 :align: center
 :name: figure5.13
 
-Conductivity sensor corrections for MicroCATs from 134 to 136 meters during
-WHOTS-15
+Conductivity sensor corrections for MicroCATs from 120 to 155 meters during
+WHOTS-16
 ```
-````
 
-````{admonition} OLD TEXT!
-:class: warning
-
-```{figure} figures/xxxx/xxxxxxxx.png
+```{figure} figures/microcats/w16mic_corr7.jpg
 :height: 1000px
 :align: center
 :name: figure5.14
 
-Conductivity sensor corrections for MicroCATs at 154, 155 and 4658 meters
-during WHOTS-15.
+Conductivity sensor corrections for MicroCATs at 1875 and 4713 meters
+during WHOTS-16.
 ```
-````
 
-````{admonition} OLD TEXT!
-:class: warning
 
-```{figure} figures/xxxx/xxxxxxxx.png
+
+```{figure} figures/xxxx/microcats/w16mic_corr8.jpg
 :height: 1000px
 :align: center
 :name: figure5.15
 
-Conductivity sensor correction for MicroCAT at 4658 meters during WHOTS-15
+Conductivity sensor correction for MicroCAT at 4713 meters during WHOTS-16
 ```
-````
+
 
 ## Acoustic Doppler Current Profiler
 

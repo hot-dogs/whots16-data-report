@@ -2,43 +2,19 @@
 
 ````{admonition} OLD TEXT!
 :class: warning
-During the WHOTS-15 cruise (WHOTS-15 mooring deployment, September 21-29, 2018)
-, weather conditions on September 22-23 were favorable, with light
-east-southeast winds of about 5 kt increasing to up to 16 kt by the end of the
-deployment, and 1.5m waves from the east, with a strong surface current toward
-the east-northeast.
 
-CTD casts conducted near the mooring site (Station 50 – Near the WHOTS-15 buoy)
-after the deployment (Figure VI 1 through Figure VI 4) displayed a subsurface
-salinity maximum at 150 dbar and a mixed layer nearly 50 m deep. Near-surface
-currents were about 1 kt North-eastward during transit to Station ALOHA,
-turning Northward and Eastward upon arrival to Station ALOHA, and remained so
-for approximately five days. There was a nearly stationary cyclonic eddy east
-of ALOHA, suggesting a possible increasing geostrophic flow towards the East,
-North-East. A combination of internal semidiurnal and diurnal tides and
-near-inertial oscillations was noticeable, especially in vertical shear.
-
-During the WHOTS-16 cruise (WHOTS-15 mooring recovery, October 4-12, 2019), a
+During the WHOTS-16 cruise (WHOTS-16 mooring deployment, October 4-12, 2019), a
 weakening front north of the Hawaiian Islands acted to weaken trades across the
 region. This ridge to the north was eroding due to a weakening cold front north
 of the ridge, which led to a downward trend in winds. The front continued to
 weaken and sink southward through the weekend, keeping the winds light and
-variable. Regular trades returned by mid-week. There was no measurable
-precipitation during the deployment or recovery times of the WHOTS-16 and -15
-moorings, respectively. On Thursday, October 10th, winds in the morning
+variable. Regular trades returned by mid-week. 
+On Thursday, October 10th, winds in the morning
 increased to 25 kt gusting to 35 kt, and there was a brief rain event in the
-morning. Distant lightning caused a short delay (30 minutes) to the first CTD
-yo-yo cast. Waves during the week were also low, with a small swell from the
+morning. Waves during the week were also low, with a small swell from the
 north arriving mid-week.
 
-Conditions during the WHOTS-16 deployment on October 5th were favorable, with
-light NNE winds of ~ 5 kt increasing to up to 10 kt by the end of the
-deployment. There were clear skies and no precipitation in the region, and 1.0
-to 1.5 m waves from the east, with a strong surface current towards ENE.
-
-CTD casts conducted near the mooring site (Station 50) before the recovery (
-Figure VI 7 through Figure VI 9)displayed a subsurface salinity maximum at 70
-dbar and a mixed layer nearly 60 dbar deep. Near-surface currents were almost 1
+Near-surface currents were almost 1
 kt northward during transit to Station ALOHA, turning southward upon arrival to
 Station ALOHA. Eventually, the current shifted due north again, became somewhat
 weaker (about 0.5 kt), and remained for approximately five days. There was a
@@ -47,40 +23,63 @@ formed eddy; it was reflected by northward flow to the east and southward flow
 to the west. A combination of internal semidiurnal and diurnal tides and
 near-inertial oscillations was noticeable, especially in vertical shear.
 
-The temperature MicroCAT records during the WHOTS-15 deployment (Figure VI 16
-through Figure VI 20) show noticeable seasonal variability in the upper 100 m
-and a sudden increase during January 2019. A decrease in June 2019 was evident
-in the instruments below 55 m. The salinity records (Figure VI 21 through
-Figure VI 25 do not show an apparent seasonal cycle, but instances of salinity
-decrease were recorded during March, especially in July-August 2019, and to a
-minor extent in May 2019 by the instruments located above 120 m.
+Conditions during the WHOTS-16 deployment on October 5th were favorable, with
+light NNE winds of ~ 5 kt increasing to up to 10 kt by the end of the
+deployment. There were clear skies and no precipitation in the region, and 1.0
+to 1.5 m waves from the east, with a strong surface current towards ENE.
 
-Figure VI 31 and Figure VI 32 show contours of the WHOTS-15 MicroCAT data in
-context with data from the previous 14 deployments. The seasonal cycle is
+CTD casts conducted near the WHOTS-16 buoy (Station 52) after deployment (
+Figures 6.4 and 6.5) displayed a subsurface salinity maximum between 70 to 80
+dbar and a mixed layer 40 to 60 dbar deep. 
+
+During the WHOTS-17 cruise (WHOTS-16 mooring recovery, August 24 - September 1, 2021),
+a high-pressure ridge far north of the Hawaiian Islands maintained a tight 
+enough pressure gradient down across the region to produce moderate to 
+locally strong trades. As this high slowly moved northeast away from the 
+area and subtly weakened the gradient, trades gradually weakened. 
+There was no measurable precipitation during the recovery of the mooring,
+and surface currents were less than 1 kt.
+
+CTD casts conducted near the WHOTS-16 buoy (Station 52) before recovery (
+Figure 6.10) displayed a subsurface salinity maximum between 150 to 170
+dbar and a mixed layer 60 dbar deep. 
+
+The temperature MicroCAT records during the WHOTS-16 deployment (Figure 6.15
+through Figure 6.20) show noticeable seasonal variability in the upper 100 m.
+A temperature decrease in October-November 2019 was evident
+in the instruments below 65 m. The salinity records (Figure 6.21 through
+Figure 6.26 do not show an apparent seasonal cycle, but a salinity
+increase was recorded during October-November 2019, by the instruments
+between 40 to 85 m, coinciding with the temperature decrease. This increase
+was followed by a period of low salinity (less than 35 on average above 120 m) 
+throughout 2020-2021, with extreme values (nearly 34.4) above 120 m in 
+November-December 2019, and above 75 m in July-September 2020.
+
+Figure 6.33 through Figure 6.35 show contours of the WHOTS-16 MicroCAT data in
+context with data from the previous 15 deployments. The seasonal cycle is
 evident in the temperature record, with record temperatures (higher than 26 °C)
-in the summer of 2004, and again in 2014, 2015, 2017, and 2019. Salinities in
+in the summer of 2004, and again in 2014, 2015, 2017, 2019, and 2020. Salinities in
 the subsurface salinity maximum were relatively low during the first 6 years of
 the record, only to increase drastically after 2008 through 2015, with some
 lower salinity episodes in mid-2011 and early 2012. The salinity maximum
 extended to near the surface in early 2010, 2011, late 2012-early 2013, and
 February-March 2013. Salinities in the salinity minimum decreased after 2015,
 showing low salinities above 100 m in 2016, 2017, 2018, and reaching record low
-values (34.4) in July-August 2019. The low salinities observed in 2019 in the
-MicroCAT time-series plots (Figure VI 21 through Figure VI 25) are apparent in
-Figure VI-32 and Figure VI-33. When plotted in σθ coordinates (Figure VI-33),
+values (34.4) in July-August 2019 and July-September 2020. 
+When plotted in σθ coordinates (Figure 6.35),
 the salinity maximum seems to be centered roughly between 24 and 24.5 σθ.
 
-Records from the WHOTS-15 MicroCATs (Figure VI 33) deployed near the bottom of
-the mooring (4658 m) detected temperature and salinity changes related to
+Records from the WHOTS-16 MicroCATs (Figure 6.36) deployed near the bottom of
+the mooring (4713 m) detected temperature and salinity changes related to
 episodic ‘cold events’ apparently caused by bottom water moving between abyssal
 basins (Lukas et al., 2001). These events are being monitored by instruments at
 the ALOHA Cabled Observatory (ACO, Howe et al., 2011), a deep water observatory
-located at the bottom of Station ALOHA (about 6 nautical miles west from the
-WHOTS-15 anchor), since June 2011. Figure VI 33 shows temperature and salinity
-records from the WHOTS-15 MicroCATs superimposed on the ACO data. The MicroCAT
+located at the bottom of Station ALOHA (about 6 nautical miles north from the
+WHOTS-16 anchor), since June 2011. Figure 6.36 shows temperature and salinity
+records from the WHOTS-16 MicroCATs superimposed on the ACO data. The MicroCAT
 data agreed with the temperature decrease and the salinity variability
-registered by ACO instruments during two cold events in December 2018 and June
-2019, and a minor event in September 2019.
+registered by ACO instruments during cold events in January, March and December
+2020, and a minor events in August 2020 and September 2021.
 
 Figure VI 37 through Figure VI 39 shows the time series of the zonal,
 meridional, and vertical currents recorded with the moored ADCPs during the
@@ -116,18 +115,14 @@ from the anchor.
 
 ## CTD Profiling Data
 
-````{admonition} OLD TEXT!
-:class: warning
+
 Profiles of temperature, salinity, and potential density (σθ) from the casts
-obtained during the WHOTS-15 deployment cruise are presented in Figure VI 1
-through Figure VI 6, together with the results of bottle determination of
-salinity. Figure VI 7 through Figure VI 9 shows the results of the CTD profiles
-during the WHOTS-16 cruise.
-````
+obtained during the WHOTS-16 deployment cruise are presented in Figure 6.1
+through Figure 6.5, together with the results of bottle determination of
+salinity. Figure 6.6 through Figure 6.10 shows the results of the CTD profiles
+during the WHOTS-17 cruise.
 
 
-````{admonition} OLD TEXT!
-:class: warning
 ```{figure} figures/ctd/1.whots_16/s20c1_s50c1.png
 :height: 1000px
 :align: center
@@ -138,67 +133,58 @@ density (σθ) as a function of pressure, including discrete bottle salinity
 samples (when available) for station 20 cast 1 during the WHOTS-16
 cruise. [Upper right panel] Profiles of CTD salinity as a function of potential
 temperature, including discrete bottle salinity samples (when available) for
-station 20 cast 1 during the WHOTS-15 cruise. [Lower left panel] Same as in the
+station 20 cast 1 during the WHOTS-16 cruise. [Lower left panel] Same as in the
 upper left panel, but for station 50 cast 1. [Lower right panel] Same as in the
 upper right panel, but station 50 cast 1.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
 ```{figure} figures/ctd/1.whots_16/s50c2_s50c3.png
 :height: 1000px
 :align: center
 :name: figure6.2
 
-[Upper panels] Same as in Figure VI 1, but for station 50, cast
-2. [Lower panels] Same as Figure VI 1, but for station 50, cast 3.
+[Upper panels] Same as in Figure 6.1, but for station 50, cast
+2. [Lower panels] Same as Figure 6.1, but for station 50, cast 3.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
 ```{figure} figures/ctd/1.whots_16/s50c4_s50c5.png
 :height: 1000px
 :align: center
 :name: figure6.3
 
-[Upper panels] Same as in Figure VI 1, but for station 50, cast
-4. [Lower panels] Same as in Figure VI 1, but for station 50 cast 5.
+[Upper panels] Same as in Figure 6.1, but for station 50, cast
+4. [Lower panels] Same as in Figure 6.1, but for station 50 cast 5.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
 ```{figure} figures/ctd/1.whots_16/s52c1_s52c2.png
 :height: 1000px
 :align: center
 :name: figure6.4
 
-[Upper panels] Same as in Figure VI 1, but for station 52, cast 1. [Lower 
-panels] Same as in Figure VI 1, but for station 52, cast 2.
+[Upper panels] Same as in Figure 6.1, but for station 52, cast 1. [Lower 
+panels] Same as in Figure 6.1, but for station 52, cast 2.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
 ```{figure} figures/ctd/1.whots_16/s52c3_s52c4.png
 :height: 1000px
 :align: center
 :name: figure6.5
 
-Upper panels] Same as in Figure VI 1, but for station 52, cast 4.[Lower 
-panels] Same as in Figure VI 1, but for station 52, cast 5.
+Upper panels] Same as in Figure 6.1, but for station 52, cast 3.[Lower 
+panels] Same as in Figure 6.1, but for station 52, cast 4.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
+
 ```{figure} figures/ctd/2.whots_17/s2c1_s20c1.png
 :height: 1000px
 :align: center
@@ -213,11 +199,9 @@ station 2 cast 1 during the WHOTS-17 cruise. [Lower left panel] Same as in the
 upper left panel, but for station 20 cast 1. [Lower right panel] Same as in the
 upper right panel, but station 20 cast 1.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
 ```{figure} figures/ctd/2.whots_17/s50c1_s50c2.png
 :height: 1000px
 :align: center
@@ -226,11 +210,8 @@ upper right panel, but station 20 cast 1.
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 1.[Lower panels] Same as in Figure 6.6, but for station 50, cast 2.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
 ```{figure} figures/ctd/2.whots_17/s50c3_s50c4.png
 :height: 1000px
 :align: center
@@ -239,11 +220,8 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 3.[Lower panels] Same as in Figure 6.6, but for station 50, cast 4.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
 ```{figure} figures/ctd/2.whots_17/s50c5_s50c6.png
 :height: 1000px
 :align: center
@@ -252,11 +230,9 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 50, cast
 5.[Lower panels] Same as in Figure 6.6, but for station 50, cast 6.
 ```
-````
 
 
-````{admonition} OLD TEXT!
-:class: warning
+
 ```{figure} figures/ctd/2.whots_17/s52c1_s52c2.png
 :height: 1000px
 :align: center
@@ -265,7 +241,6 @@ Upper panels] Same as in Figure 6.6, but for station 50, cast
 Upper panels] Same as in Figure 6.6, but for station 52, cast
 1.[Lower panels] Same as in Figure 6.6, but for station 52, cast 2.
 ```
-````
 
 ## Thermosalinograph Data
 
@@ -342,235 +317,196 @@ speed (lower panel) during the WHOTS-15 cruise.
 
 ## MicoCAT Data
 
-````{admonition} OLD TEXT!
-:class: warning
+
 The temperatures measured by MicroCATs during the mooring deployment for
-WHOTS-15 are presented in Figure VI 16 through Figure VI 20 for each of the
+WHOTS-16 are presented in Figure 6.15 through Figure 6.20 for each of the
 depths where the instruments were located. The salinities are plotted in Figure
-VI 21 through Figure VI 25. The potential densities (σθ) are plotted in Figure
-VI 26 through Figure VI 30.
+6.21 through Figure 6.26. The potential densities (σθ) are plotted in Figure
+6.27 through Figure 6.32.
 
 Contoured plots of temperature and salinity as a function of depth for the
-deployments WHOTS-1 through -15 are presented in Figure VI 31, and contoured
-plots of potential density (σθ) as a function of depth, and of salinity as a
-function of σθ are in Figure VI 32.
+deployments WHOTS-1 through -16 are presented in Figure 6.33, and contoured
+plots of potential density (σθ) as a function of depth are in Figure
+6.34, and of salinity as a
+function of σθ are in Figure 6.35.
 
-The potential temperature and salinity measured by the deep MicroCATs during
-the mooring deployment are shown in Figure VI 33. Also shown in the plot are
-the potential temperature and salinity data obtained with a MicroCAT (SBE-37)
-installed in the ALOHA Cabled Observatory, about six nautical miles west from
-the WHOTS-15 anchor. The instrument is located 2 m above the bottom.
-````
+The potential temperature (θ) and salinity measured by the deep MicroCATs during
+the mooring deployment are shown in Figure 6.36. Also shown in the plot are
+the θ and salinity data obtained with a MicroCAT (SBE-37)
+installed in the ALOHA Cabled Observatory, about six nautical miles north from
+the WHOTS-16 anchor. The instrument is located 2 m above the bottom.
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.15  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_1_4.png
 :height: 1000px
 :align: center
 :name: figure6.15
-Temperatures from MicroCATs during WHOTS-15 deployment at 1.5, 7, 15, and 25 m.
+Temperatures from MicroCATs during WHOTS-16 deployment at 1.5, 7, 15, and 25 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.16 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_5_8.png
 :height: 1000px
 :align: center
 :name: figure6.16
-Same as in Figure VI 16, but at 35, 40, 45, and 50 m.
+Same as in Figure 6.15, but at 35, 40, 45, and 50 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.17 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_9_12.png
 :height: 1000px
 :align: center
 :name: figure6.17
-Same as in Figure VI 16, but at 95, 105, 120, and 135 m.
+Same as in Figure 6.15, but at 55, 65, 75, and 85 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.18  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_13_16.png
 :height: 1000px
 :align: center
 :name: figure6.18
-Same as in Figure VI 16, but at 55, 65, 75, and 85 m.
+Same as in Figure 6.15, but at 95, 105, 120, and 135 m.
 ```
-````
-
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.19  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_17_20.png
 :height: 1000px
 :align: center
 :name: figure6.19
-Salinities from MicroCATs during WHOTS-15 deployment at 1.5, 7, 15, and 25 m
+Same as in Figure 6.15, but at 155, 1875, and 4713 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.20  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Temp_21.png
 :height: 1000px
 :align: center
 :name: figure6.20
-Same as in Figure 6.19, but at 35, 40, 45, and 50 m.
+Same as in Figure 6.15, but at 4713 m
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.21  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_1_4.png
 :height: 1000px
 :align: center
 :name: figure6.21
-Same as in Figure 6.19, but at 35, 40, 45, and 50 m.
+Salinities from MicroCATs during WHOTS-16 deployment at 1.5, 7, 15, and 25 m
 ```
-````
-
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.22 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_5_8.png
 :height: 1000px
 :align: center
 :name: figure6.22
-Same as in Figure 6.19, but at 55, 65, 75, and 85 m
+Same as in Figure 6.21, but at 35, 40, 45, and 50 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.23  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_9_12.png
 :height: 1000px
 :align: center
 :name: figure6.23
-Same as in Figure 6.19, but at 95, 105, 120, and 135 m. 
+Same as in Figure 6.21, but at 55, 65, 75, and 85 m
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.24  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_13_16.png
 :height: 1000px
 :align: center
 :name: figure6.24
-Same as in Figure 6.19, but at 155 m. 
+Same as in Figure 6.21, but at 95, 105, 120, and 135 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.25  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_17_20.png
 :height: 1000px
 :align: center
 :name: figure6.25
-Potential densities (σθ) from MicroCATs during WHOTS-15 deployment at 1.5, 7,
-15, and 25 m.
+Same as in Figure 6.21, but at 155, 1875, and 4713 m. 
 ```
-````
-
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.26  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sali_21.png
 :height: 1000px
 :align: center
 :name: figure6.26
-Same as in Figure 6.25, but at 35, 40, 45, and 50 m.
+Same as in Figure 6.21, but at 4713 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.27 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_1_4.png
 :height: 1000px
 :align: center
 :name: figure6.27
-Same as in Figure 6.25, but at 55, 65, 75, and 85 m.
+Potential densities (σθ) from MicroCATs during WHOTS-16 deployment at 1.5, 7,
+15, and 25 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.28  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_5_8.png
 :height: 1000px
 :align: center
 :name: figure6.28
-Same as in Figure 6.25, but at 95, 105, 120, and 135 m. 
+Same as in Figure 6.27, but at 35, 40, 45, and 50 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.29  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_9_12.png
 :height: 1000px
 :align: center
 :name: figure6.29
-Same as in Figure 6.25, but at 155 m. 
+Same as in Figure 6.27, but at 55, 65, 75, and 85 m.
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.30  
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_13_16.png
 :height: 1000px
 :align: center
 :name: figure6.30
-
-Contour plots of temperature (upper panel) and salinity (lower panel) versus
-depth from SeaCATs/ MicroCATs during WHOTS-1 through WHOTS-15 deployments. The
-shaded areas indicate missing data. The diamonds along the right axis indicate
-the depths of the instrument.
+Same as in Figure 6.27, but at 95, 105, 120, and 135 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.31  
 
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_17_20.png
 :height: 1000px
 :align: center
 :name: figure6.31
-
-Contour plots of potential density (σθ, upper panel), versus depth, and of
-salinity versus σθ (lower panel) from SeaCATs/MicroCATs during WHOTS-1 through
-WHOTS-15 deployments. The shaded areas indicate missing data. The diamonds
-along the right axis in the upper figure indicate the depths of the instrument.
+Same as in Figure 6.27, but at 155, 1875, and 4713 m. 
 ```
-````
 
-````{warning}
-NEED TO ADD THE FOLLOWING Figure 6.32 
-
-```{figure} figures/microcats/xxxxxxxx.png
+```{figure} figures/microcats/wh16_Sigma_21.png
 :height: 1000px
 :align: center
 :name: figure6.32
+Same as in Figure 6.27, but at 4713 m. 
+```
+
+
+```{figure} figures/microcats/w1_16_contTS.png
+:height: 1000px
+:align: center
+:name: figure6.33
+
+Contour plots of temperature (upper panel) and salinity (lower panel) versus
+depth from SeaCATs/MicroCATs during WHOTS-1 through WHOTS-16 deployments. The
+shaded areas indicate missing data. The diamonds along the right axis indicate
+the depths of the instrument.
+```
+
+```{figure} figures/microcats/w1_16_contSt.png
+:height: 1000px
+:align: center
+:name: figure6.34
+
+Contour plots of potential density (σθ), versus depth from SeaCATs/MicroCATs during WHOTS-1 through
+WHOTS-16 deployments. The shaded areas indicate missing data. The diamonds
+along the right axis in the upper figure indicate the depths of the instrument.
+```
+```{figure} figures/microcats/w1_16_contS.png
+:height: 1000px
+:align: center
+:name: figure6.35
+
+Contour plots of 
+salinity versus σθ from SeaCATs/MicroCATs during WHOTS-1 through
+WHOTS-16 deployments. 
+```
+
+
+
+```{figure} figures/microcats/plt_w16_aco_all.png
+:height: 1000px
+:align: center
+:name: figure6.36
 
 Potential temperature (upper panel) and salinity (lower panel) time-series from
-the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-15 MicroCATs 12247 and
-12246.
+the ALOHA Cabled Observatory (ACO) sensors and the WHOTS-16 MicroCATs 11391 and
+12241.
 ```
-````
 
 ## Moored ADCP Data
 
