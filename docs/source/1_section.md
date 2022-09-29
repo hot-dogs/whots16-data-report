@@ -50,7 +50,8 @@ Both ADCPs are in an upward-looking configuration, one is at 125 m, using 4 m
 bins, and the other is at 47.5 m using 2 m bins. To provide near-surface
 velocity (where the ADCP estimates are less reliable), we deploy two VMCMs. The
 simple mooring design is a balance between resolving extremes versus the
-typical annual cycling of the mixed layer {cite}`Plueddemann2006, Santiago-Mandujano2007`.
+typical annual cycling of the mixed layer
+{cite}`Plueddemann2006, Santiago-Mandujano2007`.
 
 ```{figure} figures/diagram/whots16-diagram.png
 :height: 1000px
@@ -60,23 +61,26 @@ typical annual cycling of the mixed layer {cite}`Plueddemann2006, Santiago-Mandu
 WHOTS-16 mooring design
 ```
 
-````{admonition} OLD TEXT!
-:class: warning 
-
-The fifteenth WHOTS mooring was deployed on September 23rd, 2018, during an
-eight-day cruise (WHOTS-15 cruise) and was recovered on October 8th, 2019,
-during a nine-day cruise (WHOTS-16 cruise). The cruises were aboard the NOAA
-Ship Hi’ialakai and Oscar Sette, respectively. A sixteenth mooring was deployed
-during the WHOTS-16 cruise; to be recovered in 2021.
+The sixteenth WHOTS mooring was deployed on October 6, 2019, during an
+eight-day cruise (WHOTS-16 cruise) and was recovered on August 28, 2021,
+during an eight-day cruise (WHOTS-17 cruise). The cruises were aboard the NOAA
+Oscar Sette. The seventeenth mooring was deployed on August 26, 2021, during 
+the WHOTS-17 cruise and was recovered on July 25, 2022. 
 
 This report documents and describes the oceanographic observations made on the
-15th WHOTS mooring for nearly one year and from shipboard measurements during
-the two cruises when the mooring was deployed and recovered. Sections II and
-III include a detailed description of the cruises and the mooring,
-respectively. Sampling and processing procedures of the hydrographic casts,
-thermosalinograph, and shipboard ADCP data collected during these cruises are
-described in Section IV. Section V includes the processing procedures for the
-data collected by the moored instruments: SeaCATs, MicroCATs, VMCMs, and moored
-ADCPs. Plots of the resulting data and preliminary analysis are presented in
+WHOTS-16 mooring for nearly one year and ten months and from shipboard
+measurements during the two cruises when the mooring was deployed and
+recovered. Sections
+{ref}`II</2_section.md#description-of-the-whots-16-mooring-cruises>` and
+{ref}`III</3_section.md#description-of-whots-16-mooring>` include a detailed
+description of the cruises and the mooring, respectively. Sampling and
+processing procedures of the hydrographic casts, thermosalinograph, and
+shipboard ADCP data collected during these cruises are described in Section 
+{ref}`IV</4_section.md#whots-16-17-cruise-shipboard-observations>`.
+Section {ref}`V</5_section.md#moored-instrument-observations>` includes the 
+processing procedures for the data collected by the moored instruments:
+{ref}`SeaCATs, MicroCATs</5_section.md#microcat-data-processing-procedures>`, 
+{ref}`Moored ADCPs</5_section.md#acoustic-doppler-current-profiler>` and 
+{ref}`VMCM</5_section.md#vector-measuring-current-meter-vmcm>`. 
+Plots of the resulting data and preliminary analysis are presented in 
 Section VI.
-````
