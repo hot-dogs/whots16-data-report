@@ -19,8 +19,8 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'WHOTS-16'
-copyright = f'{datetime.now().year}, Fernando Carvalho Pacheco'
-author = 'Fernando Carvalho Pacheco'
+copyright = f'{datetime.now().year}, Hawaii Ocean Time-series (HOT)'
+author = 'Fernando Carvalho Pacheco, Fernando Santiago-Mandujano '
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
