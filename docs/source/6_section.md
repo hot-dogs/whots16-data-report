@@ -315,7 +315,7 @@ speed (lower panel) during the WHOTS-15 cruise.
 ```
 ````
 
-## MicoCAT Data
+## MicroCAT Data
 
 
 The temperatures measured by MicroCATs during the mooring deployment for

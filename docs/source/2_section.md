@@ -32,7 +32,7 @@ that participated during the cruise are listed in {numref}`table-1`.
 
 The UH group conducted the shipboard oceanographic observations during the
 cruise. A complete description of these operations is available in the
-{cite}`Santiago-Mandujano2020`
+{cite}`Santiago-Mandujano2021`
 
 A Sea-Bird CTD (conductivity, temperature, and depth) system was used measure
 T, S, and O2 profiles during CTD casts. The time, location, and maximum CTD
