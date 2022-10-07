@@ -53,7 +53,7 @@ simple mooring design is a balance between resolving extremes versus the
 typical annual cycling of the mixed layer
 {cite}`Plueddemann2006, Santiago-Mandujano2007`.
 
-```{figure} figures/diagram/whots16-diagram.png
+```{figure} /figures/diagram/whots16-diagram.png
 :height: 1000px
 :align: center
 :name: diagram
