@@ -227,5 +227,3 @@ liters/minute during the cruise. Only the SBE-45 has a debubbler. Salinity
 water samples were taken every 8 hours from the exhaust in the Chemistry lab
 using 0.25-liter glass bottles, to be measured in the UH lab to correct any
 drift in the thermosalinograph conductivities.
-
-````
