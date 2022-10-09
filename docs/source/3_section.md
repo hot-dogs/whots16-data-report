@@ -1,121 +1,194 @@
 # Description of WHOTS-16 Mooring
 
-````{admonition} OLD TEXT!
-:class: warning
-
-The WHOTS-15 mooring, deployed on September 23rd, 2018, from NOAA’s Ship
-Hi’ialakai, was outfitted with two complete sets of ASIMET sensors on the buoy
-and underneath subsurface instruments from 7 to 155 m depth and near the
-bottom. See (Santiago-Mandujano et al., 2019)for a complete description of the
-buoy. The WHOTS-15 recovery on October 8th, 2019, resulted in about 380 days on
-station.
+The WHOTS-16 mooring, deployed on October 6, 2019, from NOAA’s Ship NOAA Oscar
+Sette, was outfitted with two complete sets of Air-Sea Interaction
+Meteorological (ASIMET) sensors on the buoy and underneath subsurface
+instruments from 7 to 155 m depth and near the bottom. See
+{cite}`Santiago-Mandujano2021, Santiago-Mandujano2022` for a complete
+description of the buoy. The WHOTS-16 recovery on August 28, 2021, resulted in
+about 692 days on station.
 
 The buoy tower also contains a radar reflector, two marine lanterns, and
 Iridium satellite transmission systems that provide continuous buoy position
-monitoring. A Xeos Melo Global Positioning System
-(GPS) receiver, an SBE-39 temperature sensor adapted to measure air
-temperature, and a Vaisala WXT-520 multi-variable
-(temperature, humidity, pressure, wind, and precipitation) were also mounted on
-the tower. A fourth positioning system
-(Xeos Sable transmitter) was mounted beneath the hull. Several other
-instruments were mounted on the buoy. A Battelle pCO2 system, a pumped SBE-16
-CTD, and a SAMI-2 pH sensor were mounted to the buoy's underside. A Sea-Bird
-SBE-63 hosted a dissolved oxygen sensor. Three down-looking radiometers were
-mounted on the buoy. One hyperspectral sensor is mounted facing upward near the
-radiometers as a reference for the incoming spectral irradiance. A Wetlabs
-ECOFLNTUS chlorophyll fluorometer was also mounted on the buoy hull.
+monitoring. A Xeos Melo Global Positioning System (GPS) receiver, an SBE-39
+temperature sensor adapted to measure air temperature, and a Vaisala WXT-520
+multi-variable (temperature, humidity, pressure, wind, and precipitation) were
+also mounted on the tower. A fourth positioning system (Xeos Kilo transmitter)
+was mounted beneath the hull. Several other instruments were mounted on the
+buoy. A Battelle pCO2 system, a pumped SBE-16 CTD, and a SAMI-2 pH sensor were
+mounted to the buoy's underside. A Sea-Bird SBE-63 hosted a dissolved oxygen
+sensor. Three down-looking radiometers were mounted on the buoy. One
+hyperspectral sensor is mounted facing upward near the radiometers as a
+reference for the incoming spectral irradiance. A Wetlabs ECOFLNTUS chlorophyll
+fluorometer was also mounted on the buoy hull.
 
-Five internally-logging Sea-Bird SBE-56 temperature sensors were bolted to the
+Four internally logging Sea-Bird SBE-56 temperature sensors were bolted to the
 buoy hull's underside, measuring sea surface temperature (SST) and salinity.
-The SBE-56s measured SST once every 60 sec between 80-110 cm below the surface,
-and two SBE-37 MicroCATs were at 1.52 m (see Table III-2).
+The SBE-56s measured SST once every 60 sec between 80-95 cm below the surface.
+Two SBE-37 MicroCATs were at 1.50m measuring at every 300s (See
+{numref}`table-7`).
 
-Instrumentation provided by UH for the WHOTS-15 mooring included 18 SBE-37
-Microcats,and two TRDI Workhorse ADCPs, transmitting in 300 kHz and 600 kHz,
-respectively. The Microcats all measured temperature and conductivity, with
-eleven of them measuring pressure. All MicroCATs were deployed with antifoulant
-capsules. In addition to the buoy instrumentation, WHOI provided two Vector
-Measuring Current Meters (VMCMs), two deep Microcats (SBE-37) installed near
-the bottom of the mooring, and all required subsurface mooring hardware.
+```{table} WHOTS-16 MicroCAT and SBE-56 Temperature Sensor Information. 
+:name: table-7
+:widths: auto
+:align: center
+| Instrument  |  SN  | Depth (m) | Sample Interval (sec) |
+|:-----------:|:----:|:---------:|:---------------------:|
+|   SBE-56    | 7212 |   0.80    |          60           |
+|   SBE-56    | 7213 |   0.80    |          60           |
+|   SBE-56    | 7214 |   0.95    |          60           |
+|   SBE-56    | 7215 |   0.80    |          60           |
+|  MicroCAT   | 1834 |   1.50    |          300          |
+|  MicroCAT   | 1841 |   1.50    |          300          |
+```
 
-Table III-1 provides a listing of the WHOTS-15 subsurface instrumentation at
-their nominal depths on the mooring, along with serial numbers, sampling rates,
-and other pertinent information. A cold water spike was induced to the UH
-MicroCATs before deployment (Table III-1) and after recovery Table III-4 by
-placing an ice pack in contact with their temperature sensor to check for any
-drift in their internal clock. To produce a spike in the ADCP data, each
-instrument’s transducer was rubbed gently by hand for 20 seconds (Table III-3
-Table III-5).
+Instrumentation provided by UH for the WHOTS-16 mooring included 20 SBE-37
+Microcats, and two upward-looking RDI Workhorse ADCPs, transmitting in 300 kHz
+and 600 kHz,respectively. The Microcats all measured temperature and
+conductivity, with ten of them measuring pressure. All MicroCATs were deployed
+with antifoulant capsules. In addition to the buoy instrumentation, WHOI
+provided two Vector Measuring Current Meters (VMCMs), two deep Microcats (
+SBE-37) installed near the bottom of the mooring, and all required subsurface
+mooring hardware.
 
-The RDI 300 kHz Workhorse Sentinel ADCP, SN 7637, was deployed at 125 m with
+The {numref}`mooring_subsurface` provides a listing of the WHOTS-16 subsurface
+instrumentation at their nominal depths on the mooring, along with serial
+numbers, sampling rates, and other pertinent information. A cold water spike
+was induced to the UH MicroCATs before deployment
+({numref}`mooring_subsurface`) and after recovery {numref}`table-8` by placing
+an ice pack in contact with their temperature sensor to check for any drift in
+their internal clock. To produce a spike in the ADCP data, each instrument’s
+transducer was rubbed gently by hand for 20 seconds ({numref}`table-9` 
+, and {numref}`table-10`).
+
+```{figure} /figures/tables/mooring_subsurface_instrument.png
+:width: 100%
+:align: center
+:name: mooring_subsurface
+
+WHOTS-16 mooring subsurface instrument deployment information. All times 
+are in UTC
+```
+
+
+```{table} WHOTS-16 mooring C-T and ADCP Instruments recovery information. All times are in UTC (mm/dd/yy hh:mm:ss).
+:name: table-8
+:widths: auto
+:align: center
+| **Depth (m)** | **Sea-Bird Serial #** | **Time out of water** | **Time of Spike** | **Time of End Spike** | **Time Logging Stopped** | **Samples Logged** |  **Data Quality**  |
+|:-------------|:---------------------:|:---------------------:|:-----------------:|:---------------------:|:------------------------:|:------------------:|:------------------:|
+|       7       |      SBE 37-3617      |     8/29/21 3:17      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:42       |       233016       |        Good        |
+|      15       |      SBE 37-6893      |     8/29/21 3:18      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      25       |      SBE 37-6894      |     8/29/21 3:22      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      35       |      SBE 37-6895      |     8/29/21 3:31      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      40       |      SBE 37-6896      |     8/29/21 3:31      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      45       |      SBE 37-6887      |     8/29/21 3:32      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:47       |       559239       |        Good        |
+|     47.5      |       ADCP 1825       |     8/29/21 2:12      |        N/A        |      See Table 6      |         1/21/20          |       15823        | Failed on 01/21/20 |
+|      50       |      SBE 37-6897      |     8/29/21 2:12      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      55       |      SBE 37-6898      |     8/29/21 1:55      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      65       |      SBE 37-6899      |     8/29/21 1:53      |   8/29/21 6:48    |     8/29/21 7:48      |       5/8/21 12:58       |       838859       |        Good        |
+|      75       |      SBE 37-3618      |     8/29/21 1:52      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:45       |       233016       |        Good        |
+|      85       |      SBE 37-3634      |     8/29/21 1:51      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:42       |       233016       |        Good        |
+|      95       |      SBE 37-3670      |     8/29/21 1:50      |   8/29/21 6:48    |     8/29/21 7:48      |      3/16/21 13:52       |       190650       |        Good        |
+|      105      |      SBE 37-6889      |     8/29/21 1:49      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:47       |       559239       |        Good        |
+|      120      |      SBE 37-6890      |     8/29/21 1:48      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:47       |       559239       |        Good        |
+|      125      |       ADCP 4891       |     8/29/21 1:44      |        N/A        |      See Table 6      |          7/6/21          |       92393        |        Good        |
+|      135      |      SBE 37-6888      |     8/29/21 1:43      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:47       |       559239       |        Good        |
+|      155      |      SBE 37-6891      |     8/29/21 1:41      |   8/29/21 6:48    |     8/29/21 7:48      |      1/31/21 10:47       |       559239       |        Good        |
+|     1875      |      SBE 37-3639      |     8/29/21 0:52      |   8/29/21 6:48    |     8/29/21 7:48      |       7/21/21 0:19       |       190650       |        Good        |
+|     1875      |     SBE 37-12242      |     8/29/21 0:52      |   8/29/21 6:48    |     8/29/21 7:48      |      8/31/21 19:40       |       202689       |        Good        |
+|    38 mab     |     SBE 37-11391      |     8/28/21 21:45     |   8/29/21 6:48    |     8/29/21 7:48      |      8/31/21 17:00       |       202657       |        Good        |
+|    38 mab     |     SBE 37-12241      |     8/28/21 21:45     |   8/29/21 6:48    |     8/29/21 7:48      |      8/31/21 16:00       |       202645       |        Good        |
+```
+
+```{table} WHOTS-16 mooring ADCP deployment and configuration information. All times are in UTC (mm/dd/yy hh:mm:ss).
+:name: table-9
+:widths: auto
+:align: center
+|            **-**            | **ADCP S/N 1825**  | **ADCP S/N 4891**  |
+|:---------------------------:|:------------------:|:------------------:|
+|     **Frequency (kHz)**     |        600         |        300         |
+|  **Number of Depth Cells**  |         25         |         30         |
+|   **Depth Cell Size (m)**   |        2 m         |        4 m         |
+|   **Pings per Ensemble**    |         80         |         40         |
+| **Time per Ensemble (min)** |       10 min       |       10 min       |
+|   **Time per Ping (sec)**   |       2 sec        |       4 sec        |
+|   **Time of First Ping**    | 10/04/19, 00:00:00 | 10/04/19, 00:00:00 |
+| **Transducer 1 Spike Time** | 10/05/19, 03:30:00 | 10/05/19, 03:31:00 |
+| **Transducer 2 Spike Time** | 10/05/19, 03:30:15 | 10/05/19, 03:31:15 |
+| **Transducer 3 Spike Time** | 10/05/19, 03:30:30 | 10/05/19, 03:31:30 |
+| **Transducer 4 Spike Time** | 10/05/19, 03:30:45 | 10/05/19, 03:31:45 |
+|      **Time in Water**      | 10/05/19, 19:43:00 | 10/05/19, 20:04:00 |
+|        **Depth (m)**        |       47.5 m       |       125 m        |
+
+```
+
+```{table} WHOTS-16 mooring ADCP recovery information. All times are in UTC (mm/dd/yy hh:mm:ss).
+:name: table-10
+:widths: auto
+:align: center
+|                             | **ADCP S/N 1825**  | **ADCP S/N 4891** |
+|:---------------------------:|:------------------:|:-----------------:|
+| **Transducer 1 Spike Time** |        N/A         |        N/A        |
+| **Transducer 2 Spike Time** |        N/A         |        N/A        |
+| **Transducer 3 Spike Time** |        N/A         |        N/A        |
+| **Transducer 4 Spike Time** |        N/A         |        N/A        |
+|    **Time out of Water**    | 08/29/21, 02:12:00 | 08/29/21 01:44:00 |
+```
+
+The RDI 300 kHz Workhorse Sentinel ADCP, SN 4891, was deployed at 125 m with
 transducers facing upwards with an additional external battery pack. This
 instrument was set to ping at 4-second intervals for 160 seconds every 10
 minutes, and the burst sampling was designed to minimize aliasing by occasional
 large ocean swell orbital motions. The bin size was set for 4 m. The total
-number of ensemble records was 55,176. The first ensemble was on 09/22/2018 at
-00:00:00Z, and the last was on 10/10/2019 at 03:49.59Z (see Table III-3, Table
-III-5, and Section VIII.A for more configuration). This instrument also
-measured temperature.
+number of ensemble records was 92,393. The first ensemble was on 10/04/2019 at
+00:00:00Z, and the last was on 07/06/2021 at 14:39.59Z (see {numref}`table-9`
+, and {numref}`table-10` for more configuration). This instrument also measured
+temperature.
 
-The RDI 600 kHz Workhorse Sentinel ADCP, SN 13917, was deployed at 47.5 m with
+The RDI 600 kHz Workhorse Sentinel ADCP, SN 1825, was deployed at 47.5 m with
 transducers facing upwards with an additional external battery pack. The
 instrument was set to ping at 2-second intervals for 160 seconds every 10
 minutes, and the burst sampling was designed to minimize aliasing by occasional
 large ocean swell orbital motions. The bin size was set for 2 m. The total
-number of ensemble records was 5,987. The first ensemble was on 09/22/2018 at
-00:00:00Z, and the last was on 11/02/2018 at 13:39:59Z (see Table III-3, Table
-III-5, and Section 0 for more configuration). This instrument also measured
+number of ensemble records was 15,823. The first ensemble was on 10/04/2019 at
+00:00:00Z, and the last was on 01/21/2020 at 20:49:59Z see {numref}`table-9`
+, and {numref}`table-10` for more configuration). This instrument also measured
 temperature.
 
-The two VMCMs, SN 009 and 010, were deployed at 10 m and 30 m depth. The
-instruments were prepared for deployment by the WHOI/UOP group and set to
-sample at 2-minutes and 1- minute intervals, respectively. These instruments
-also measured temperature.
+The two VMCMs, SN 2042 and 2032, were deployed at 10 m and 30 m depth,
+respectively. The instruments were prepared for deployment by the WHOI/UOP
+group and set to sample at 1-minute interval. These instruments also 
+measured temperature.
 
-```{warning}
-add Table III-1.WHOTS-xx mooring subsurface instrument deployment information. All times are in UTC. WHOTS-xx mooring 
-subsurface instrument deployment information. All times are in UTC.
-```
+All WHOTS-16 instruments were successfully recovered; recovery information for
+the C-T instruments is shown in {numref}`table-8`. Most of the instruments had
+some degree of biofouling, with the most substantial fouling near the surface.
+The fouling extended down to the ADCP at 125 m, although it was minor at that
+level. The 600 kHz ADCP (47.5 m) was recovered with its battery wire cut and
+separated from the rest of the instrument, which stopped logging data on 
+January 21, 2020.
 
-```{warning}
-Table III-2. WHOTS-15 MicroCAT and SBE-56 Temperature Sensor Information. All times stated are in UTC.
-```
+All MicroCATs were in good condition after recovery, although with more
+biofouling than usual given that they were in the water for nearly 2 years.
+MicroCAT SN 6899 (65 m) had a barnacle partially blocking the top of its
+conductivity cell. 
 
-```{warning}
-Table III-3. WHOTS-15 mooring ADCP deployment and configuration information. All times are in UTC.
-```
+After recovery and before stopping recording, a bag of ice was placed in
+contact with each MicroCAT temperature sensor, to produce a spike in the data
+as a reference point to check the instrument’s clock. However, it was later
+found that all the instruments had stopped logging data due to battery
+drainage, except for the deep instruments. The data from all instruments were
+downloaded on board the ship, the instruments returned data records ending as
+early as January 31, 2021. {numref}`table-8` has an initial evaluation of the
+data quality; more details are in
+{ref}`/5_section.md#microcat-data-processing-procedures`, and
+{ref}`/6_section.md#microcat-data`.
 
-All WHOTS-15 instruments were successfully recovered; recovery information for
-the C-T instruments is shown in Table III-4. Most of the instruments had some
-degree of biofouling, with the most substantial fouling near the surface. The
-fouling extended down to the ADCP at 125 m, although it was minor at that
-level.
-
-All MicroCATs were in good condition after recovery. MicroCAT 3382 (15 m) had a
-bent in its sensor guard. Instrument SN 4663 (25m) had barnacles blocking the
-top of its conductivity cell, and instruments SN 3668 (45m) and 3620 (55m) had
-barnacles attached at the bottom and top end of their conductivity cells,
-respectively, partially blocking the flow. The data from all instruments were
-downloaded onboard the ship, and all instruments returned full data records. A
-post-cruise evaluation showed no missing samples in all the MicroCATs and the
-300 kHz ADCP, except for the 600 kHz ADCP that failed before the recovery.
-Table III-4 has an initial evaluation of the data quality; more details are in
-Section V.A, and Section VI.C.
-
-```{warning}
-add Table III-4. WHOTS-15 MicroCAT recovery Information. All times stated are in UTC.
-```
-
-The data from the upward-looking 300 kHz ADCP at 125m were considered good. The
-instrument was pinging upon recovery. There appeared to be no questionable data
-from this ADCP at this time, apart from near-surface side-lobe interference. On
-the other hand, the 600 kHz instrument was recovered with a depleted battery,
-and it was not pinging. No apparent flooding or rust was detected inside the
-instrument’s cage. The data recorder indicated that it stopped functioning on
-November 2nd, 2018.
-
-```{warning}
-add Table III 5.WHOTS-15 mooring ADCP recovery information. All times are in UTC.
-```
-
-````
+The data from the upward-looking 300 kHz ADCP at 125 m were good; the
+instrument was not pinging upon recovery and the data record indicates that it
+stopped recording on July 6, 2021. There appears to be no obviously
+questionable data from this ADCP at this time, apart from near-surface
+side-lobe interference. The 600 kHz instrument was recovered with its battery
+wire cut and separated from the instrument. The data record indicates that it
+stopped recording on January 21, 2020.
