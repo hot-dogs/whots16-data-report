@@ -143,8 +143,8 @@ minutes, and the burst sampling was designed to minimize aliasing by occasional
 large ocean swell orbital motions. The bin size was set for 4 m. The total
 number of ensemble records was 92,393. The first ensemble was on 10/04/2019 at
 00:00:00Z, and the last was on 07/06/2021 at 14:39.59Z (see {numref}`table-9`
-, and {numref}`table-10` for more configuration). This instrument also measured
-temperature.
+{numref}`table-10`, and {ref}`/appendices.md#whots-16-300-khz-serial-4891` for
+more configuration). This instrument also measured temperature.
 
 The RDI 600 kHz Workhorse Sentinel ADCP, SN 1825, was deployed at 47.5 m with
 transducers facing upwards with an additional external battery pack. The
@@ -152,9 +152,9 @@ instrument was set to ping at 2-second intervals for 160 seconds every 10
 minutes, and the burst sampling was designed to minimize aliasing by occasional
 large ocean swell orbital motions. The bin size was set for 2 m. The total
 number of ensemble records was 15,823. The first ensemble was on 10/04/2019 at
-00:00:00Z, and the last was on 01/21/2020 at 20:49:59Z see {numref}`table-9`
-, and {numref}`table-10` for more configuration). This instrument also measured
-temperature.
+00:00:00Z, and the last was on 01/21/2020 at 20:49:59Z (see {numref}`table-9`
+, {numref}`table-10`, and {ref}`/appendices.md#whots-16-600-khz-serial-1825`
+for more configuration). This instrument also measured temperature.
 
 The two VMCMs, SN 2042 and 2032, were deployed at 10 m and 30 m depth,
 respectively. The instruments were prepared for deployment by the WHOI/UOP
