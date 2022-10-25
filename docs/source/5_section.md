@@ -438,21 +438,20 @@ each pre-deployment field calibration are shown in {numref}`table-17` and
 :class: sd-m-auto
 :align: center
 :name: table-17
-
-| **300 kHz (SN 4891)**  | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|------------------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **Before Calibration** | 2.41                       | 0.47                       | 2.88                                        | 0.23                                               | 2.39                  | 1.64 ±0.43                       | 0.1±0.42                        |
-| **After Calibration**  | 0.78                       | 0.07                       | 0.85                                        | 0.37                                               | 0.79                  | -17.08 ±0.44                     | -0.01±0.81                      |
+| **(SN 4891)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
+|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
+| **Before**    | 2.41                       | 0.47                       | 2.88                                        | 0.23                                               | 2.39                  | 1.64 ±0.43                       | 0.1±0.42                        |
+| **After**     | 0.78                       | 0.07                       | 0.85                                        | 0.37                                               | 0.79                  | -17.08 ±0.44                     | -0.01±0.81                      |
 ```
 
 ```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. 
 :class: sd-m-auto
 :align: center
 :name: table-18
-| **600 kHz (SN 1825)**  | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|------------------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **Before Calibration** | 1.44                       | 0.27                       | 1.71                                        | 0.13                                               | 1.52                  | 1.42 ±0.35                       | 0.47 ±0.34                      |
-| **After Calibration**  | 0.15                       | 0.27                       | 0.42                                        | 0.21                                               | 0.37                  | -17.76 ±0.33                     | -0.85±0.69                      |
+| **(SN 1825)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
+|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
+| **Before**    | 1.44                       | 0.27                       | 1.71                                        | 0.13                                               | 1.52                  | 1.42 ±0.35                       | 0.47 ±0.34                      |
+| **After**     | 0.15                       | 0.27                       | 0.42                                        | 0.21                                               | 0.37                  | -17.76 ±0.33                     | -0.85±0.69                      |
 ```
 
 
@@ -469,9 +468,9 @@ compass field calibration procedure are listed in {numref}`table-19` and
 :class: sd-m-auto
 :align: center
 :name: table-19
-| **300 kHz (SN 4891)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|-----------------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **After Calibration** | 2.00                       | 0.05                       | 2.05                                        | 0.15                                               | 2.00                  | - 0.03 ±0.40                     | 0.13±0.49                       |
+| **(SN 4891)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
+|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
+| **After**     | 2.00                       | 0.05                       | 2.05                                        | 0.15                                               | 2.00                  | - 0.03 ±0.40                     | 0.13±0.49                       |
 ```
 
 
@@ -479,9 +478,9 @@ compass field calibration procedure are listed in {numref}`table-19` and
 :class: sd-m-auto
 :align: center
 :name: table-20
-| **600 kHz (SN 1825)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|-----------------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **After Calibration** | 0.99                       | 0.23                       | 1.21                                        | 0.19                                               | 1.07                  | 0.10 ±0.43                       | 0.47±0.41                       |
+| **(SN 1825)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
+|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
+| **After**     | 0.99                       | 0.23                       | 1.21                                        | 0.19                                               | 1.07                  | 0.10 ±0.43                       | 0.47±0.41                       |
 ```
 
 
@@ -627,7 +626,7 @@ mean sound velocity at 47.5 and 125 dbar was {math}`1537.04 ms^{-1}` and
 
 
 ```{figure} figures/adcp_moored/wh16_CTD_sv_profile.png
-:height: 1000px
+:height: 800px
 :align: center
 :name: figure5.20
 
@@ -661,16 +660,15 @@ procedures were applied to the WHOTS-16 deployment of ADCP data.
    Number (NaN)` in the quality-controlled dataset ({numref}`figure5.21`).
 
 
+   ```{figure} figures/adcp_moored/wh16_ringing.png
+   :height: 600px
+   :align: center
+   :name: figure5.21
 
-```{figure} figures/adcp_moored/wh16_ringing.png
-:height: 600px
-:align: center
-:name: figure5.21
-
-Eastward velocity component for the 300 kHz (top panel) and the 600 kHz (bottom
-panel) ADCPs are showing the incoherence between depth bins 1 (red), 2 (green),
-and 3 (blue).
-```
+   Eastward velocity component for the 300 kHz (top panel) and the 600 kHz (bottom
+   panel) ADCPs are showing the incoherence between depth bins 1 (red), 2 (green),
+   and 3 (blue).
+   ```
 
 2. For an upward-looking ADCP with a beam angle of 20° within range of the sea
    surface, the upper 6% of the depth range is contaminated with sidelobe
@@ -730,23 +728,24 @@ and 3 (blue).
    partially cleaned data; depth cells with an absolute value of vertical
    velocity greater than {math}`0.3 ms^{-1}` were flagged.
 
-```{figure} figures/adcp_moored/wh16_300_vv_hist.png
-:height: 600px
-:align: center
-:name: figure5.22
 
-Histogram of the vertical velocity of the 300 kHz ADCP for raw data (top panel)
-and enlarged for clarity (upper middle panel), and partial quality controlled
-data (lower middle panel) and enlarged for clarity (bottom).
-```
+   ```{figure} figures/adcp_moored/wh16_300_vv_hist.png
+   :height: 600px
+   :align: center
+   :name: figure5.22
 
-```{figure} figures/adcp_moored/wh16_600_vv_hist.png
-:height: 600px
-:align: center
-:name: figure5.23
+   Histogram of the vertical velocity of the 300 kHz ADCP for raw data (top panel)
+   and enlarged for clarity (upper middle panel), and partial quality controlled
+   data (lower middle panel) and enlarged for clarity (bottom).
+   ```
 
-Same as {numref}`figure5.22`, but for 600kHz ADCP.
-```
+   ```{figure} figures/adcp_moored/wh16_600_vv_hist.png
+   :height: 600px
+   :align: center
+   :name: figure5.23
+
+   Same as {numref}`figure5.22`, but for 600kHz ADCP.
+   ```
 
 7. A quality control routine known as `‘edgers’` identifies outliers in surface
    bins using a five-point median differencing method. The median velocity from
@@ -809,11 +808,13 @@ minus one standard deviation is shown at the top of the middle panel.
 Velocities are not compared if greater than 80% of the ADCP data within a
 24-hour average was flagged. The absolute value of mean differences for all
 deployments and both velocity components varied between 2 and 3.5
-{math}`cm s^{-1}`, with standard deviations between 1.8 and 2.7 {math}`cm s^{-1}`
+{math}`cm s^{-1}`, with standard deviations between 1.8 and 2.7
+{math}`cm s^{-1}`
 . The VMCM data does not appear to degrade over time for any deployment.
 Propeller fouling would dampen measured VMCM velocity magnitudes, but a
 decrease in VMCM velocity magnitude than ADCP velocity magnitude with time is
 not observed.
+
 
 ```{figure} figures/ngvm_adcp/wh16_NGVM_30_U.png
 :height: 1000px
@@ -836,6 +837,7 @@ data within the moving average not flagged by quality control methods.
 Same as in {numref}`figure5.24` but for the meridional (V) velocity component.
 ```
 
+
 ```{figure} figures/ngvm_adcp/wh16_NGVM_10_U.png
 :height: 1000px
 :align: center
@@ -852,6 +854,7 @@ Same as in {numref}`figure5.24` but for the 10 m VMCM.
 
 Same as {numref}`figure5.26`, but for the meridional (V) velocity component.
 ```
+
 
 ## Global Positioning System Receiver
 
