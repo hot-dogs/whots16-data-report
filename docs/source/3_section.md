@@ -59,7 +59,7 @@ was induced to the UH MicroCATs before deployment
 an ice pack in contact with their temperature sensor to check for any drift in
 their internal clock. To produce a spike in the ADCP data, each instrument’s
 transducer was rubbed gently by hand for 20 seconds ({numref}`table-9` 
-, and {numref}`table-10`).
+, and {numref}`table-10`).   
 
 ```{figure} /figures/tables/mooring_subsurface_instrument.png
 :width: 100%
