@@ -433,7 +433,6 @@ third direction, is rotated once more to check the calibration. Results from
 each pre-deployment field calibration are shown in {numref}`table-17` and
 {numref}`table-18` ({numref}`figure5.16` and {numref}`figure5.17`).
 
-(table_17)=
 ```{table}  Results from the WHOTS-16 pre-deployment 300 kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
 :class: sd-m-auto
 :align: center
@@ -444,7 +443,7 @@ each pre-deployment field calibration are shown in {numref}`table-17` and
 |    **After**    |  0.78   |  0.07   |    0.85    |    0.37    |  0.79  | -17.08 ±0.44 | -0.01±0.81 |
 ```
 
-```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. See acronyms on [Table5.4](table-17)
+```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. See acronyms on [Table 5.4](table-17)
 :class: sd-m-auto
 :align: center
 :name: table-18
@@ -463,7 +462,7 @@ pre-deployment calibration. Results from the WHOTS-16 post-deployment ADCP
 compass field calibration procedure are listed in {numref}`table-19` and 
 {numref}`table-20` ({numref}`figure5.16` and {numref}`figure5.17`).
 
-```{table} Results from the WHOTS-16 post-deployment 300kHz ADCP compass field calibration procedure. See acronyms on [Table5.4](table-17) 
+```{table} Results from the WHOTS-16 post-deployment 300kHz ADCP compass field calibration procedure. See acronyms on [Table 5.4](table-17) 
 :class: sd-m-auto
 :align: center
 :name: table-19
@@ -473,7 +472,7 @@ compass field calibration procedure are listed in {numref}`table-19` and
 ```
 
 
-```{table} Results from the WHOTS-16 post-deployment 600kHz ADCP compass field calibration procedure. See acronyms on [Table5.4](table-17) 
+```{table} Results from the WHOTS-16 post-deployment 600kHz ADCP compass field calibration procedure. See acronyms on [Table 5.4](table-17) 
 :class: sd-m-auto
 :align: center
 :name: table-20
