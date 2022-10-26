@@ -238,7 +238,7 @@ Upper panels] Same as in {numref}`figure6.6`, but for station 52, cast 1.
 
 Underway measurements of near-surface temperature and salinity from the
 thermosalinograph (TSG) system onboard the R/V Oscar Sette cruise are presented
-in {numref}`ac39thsl_final1.png` and navigational data is shown in
+in {numref}`ac39thsl_final.png` and navigational data is shown in
 {numref}`ac39nav_final.png` for the WHOTS-16 cruise. The WHOTS-16 underway 
 seawater system that feeds the TSG failed on October 11, 2019, due to air 
 going into the plumbing, causing the pumps to stop working during 
@@ -249,10 +249,10 @@ data between August 25 and 27, 2021 are particularly bad because it was
 during transit back to Oahu to disembark a crew member with medical 
 problems, and the flow through the system was stopped during that time.
 
-```{figure} figures/thermosal/ac39thsl_final1.png
+```{figure} figures/thermosal/ac39thsl_final.png
 :height: 600px
 :align: center
-:name: ac39thsl_final1.png
+:name: ac39thsl_final.png
 
 Final processed temperature (upper panel), salinity (middle panel), and
 potential density (σθ) (lower panel) data from the continuous underway system
