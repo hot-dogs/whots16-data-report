@@ -406,8 +406,8 @@ WHOTS-17 moorings. The broadband system only recorded good data in the upper
 :class: sd-m-auto
 :align: center
 :name: table-13
-| WHOTS-17            | OS75nb            | OS75bb            |
-|---------------------|-------------------|-------------------|
-| File beginning time | 08/20/21 01:22:22 | 08/20/21 01:22:22 |
-| File ending time    | 09/01/21 19:44:41 | 09/01/21 19:44:41 |
+|     **WHOTS-17**     |     **OS75nb**      |     **OS75bb**      |
+|:--------------------:|:-------------------:|:-------------------:|
+|  File starting time  |  08/20/21 01:22:22  |  08/20/21 01:22:22  |
+|   File ending time   |  09/01/21 19:44:41  |  09/01/21 19:44:41  |
 ```
