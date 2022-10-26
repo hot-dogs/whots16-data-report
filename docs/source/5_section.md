@@ -14,7 +14,7 @@ near the mooring during HOT and WHOTS cruises. The detailed processing
 procedures are described in this section.
 
 
-```{table} WHOTS-16 MicroCAT temperature sensor calibration dates and sensor drift during deployments; SN = Sea-Bird Serial Number; PDC = Pre-Deployment Calibration; PRC = Post-Recovery Calibration; TSA = Temperature Sensor's Annual Drift during WHOTS-16 ; N. depth = Nominal deployment depth 
+```{table} WHOTS-16 MicroCAT temperature sensor calibration dates and sensor drift during deployments; *SN = Sea-Bird Serial Number; PDC = Pre-Deployment Calibration; PRC = Post-Recovery Calibration; TSA = Temperature Sensor's Annual Drift during WHOTS-16 ; N. depth = Nominal deployment depth* 
 :class: sd-m-auto
 :align: center
 :name: table-14
@@ -433,7 +433,7 @@ third direction, is rotated once more to check the calibration. Results from
 each pre-deployment field calibration are shown in {numref}`table-17` and
 {numref}`table-18` ({numref}`figure5.16` and {numref}`figure5.17`).
 
-
+(table_17)=
 ```{table}  Results from the WHOTS-16 pre-deployment 300 kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
 :class: sd-m-auto
 :align: center
@@ -444,7 +444,7 @@ each pre-deployment field calibration are shown in {numref}`table-17` and
 |    **After**    |  0.78   |  0.07   |    0.85    |    0.37    |  0.79  | -17.08 ±0.44 | -0.01±0.81 |
 ```
 
-```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
+```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. See acronyms on [Table5.4](table-17)
 :class: sd-m-auto
 :align: center
 :name: table-18
@@ -453,7 +453,6 @@ each pre-deployment field calibration are shown in {numref}`table-17` and
 |  **Before**   |  1.44   |  0.27   |     1.71     |     0.13     |   1.52   |   1.42 ±0.35   |  0.47 ±0.34  |
 |   **After**   |  0.15   |  0.27   |     0.42     |     0.21     |   0.37   |  -17.76 ±0.33  |  -0.85±0.69  |
 ```
-
 
 #### Post-Deployment
 
@@ -464,7 +463,7 @@ pre-deployment calibration. Results from the WHOTS-16 post-deployment ADCP
 compass field calibration procedure are listed in {numref}`table-19` and 
 {numref}`table-20` ({numref}`figure5.16` and {numref}`figure5.17`).
 
-```{table} Results from the WHOTS-16 post-deployment 300kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
+```{table} Results from the WHOTS-16 post-deployment 300kHz ADCP compass field calibration procedure. See acronyms on [Table5.4](table-17) 
 :class: sd-m-auto
 :align: center
 :name: table-19
@@ -474,7 +473,7 @@ compass field calibration procedure are listed in {numref}`table-19` and
 ```
 
 
-```{table} Results from the WHOTS-16 post-deployment 600kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
+```{table} Results from the WHOTS-16 post-deployment 600kHz ADCP compass field calibration procedure. See acronyms on [Table5.4](table-17) 
 :class: sd-m-auto
 :align: center
 :name: table-20
@@ -745,7 +744,7 @@ procedures were applied to the WHOTS-16 deployment of ADCP data.
    Same as {numref}`figure5.22`, but for 600kHz ADCP.
    ```
 
-7. A quality control routine known as `‘edgers’` identifies outliers in surface
+7. A quality control routine known as ‘edgers’ identifies outliers in surface
    bins using a five-point median differencing method. The median velocity from
    surface bins was calculated for each ensemble, and then a five-point running
    median of the surface bin median was calculated. This last median was then
@@ -799,7 +798,6 @@ in {numref}`table-22`.
 |   **Recovery**   |     8/29/21 3:17     |     8/29/21 3:27     |
 ```
 
-
 Daily (24 hours) moving averages of quality controlled 600 kHz ADCP data are
 compared to VMCM data interpolated to the ADCP ensemble times in the top panels
 of {numref}`figure5.24` through {numref}`figure5.27`, and the difference is
@@ -813,7 +811,6 @@ deployments and both velocity components varied between 2 and 3.5
 deployment. Propeller fouling would dampen measured VMCM velocity magnitudes,
 but a decrease in VMCM velocity magnitude than ADCP velocity magnitude with
 time is not observed.
-
 
 ```{figure} figures/ngvm_adcp/wh16_NGVM_30_U.png
 :height: 1000px
