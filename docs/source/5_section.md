@@ -574,7 +574,6 @@ Same as {numref}`figure5.18`, but for the 600 kHz ADCP.
 :class: sd-m-auto
 :align: center
 :name: table-21
-``
 | **Activities**           | **300 kHz**           | **600 kHz**           |
 |--------------------------|-----------------------|-----------------------|
 | **Raw file start**       | 10/4/2019,  00:00:00  | 10/4/2019,  00:00:00  |
