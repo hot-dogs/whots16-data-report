@@ -42,10 +42,6 @@ bibtex_bibfiles = ['latex_templates/refs.bib']
 bibtex_default_style = 'plain'
 bibtex_reference_style = 'author_year'
 
-intersphinx_mapping = {
-    "cchdo-website": ("https://exchange-format.readthedocs.io/en/latest/", None),
-}
-
 myst_url_schemes = ["http", "https", ]
 
 # Added cross reference for headings
