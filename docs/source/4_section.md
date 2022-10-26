@@ -140,10 +140,10 @@ precision measurements of the secondary sub-standards.
 :class: sd-m-auto
 :align: center
 :name: table-11
-| Cruise   | Mean Salinity +/- SD | # Samples | Substandard Batch # | IAPSO Batch # |
-|----------|----------------------|-----------|---------------------|---------------|
-| WHOTS-16 | 34.4985 ± 0.0005     | 4         | 67                  | P163          |
-| WHOTS-17 | 34.5011 ± 0.0004     | 28        | 71                  | P164          |
+|  **Cruise**  |  **Mean Salinity +/- SD**  |  **# Samples**  |  **Substandard Batch**  |  **IAPSO Batch**  |
+|:------------:|:--------------------------:|:---------------:|:-----------------------:|:-----------------:|
+| **WHOTS-16** |      34.4985 ± 0.0005      |        4        |           67            |       P163        |
+| **WHOTS-17** |      34.5011 ± 0.0004      |       28        |           71            |       P164        |
 ```
 
 ## Thermosalinograph Data Acquisition and Processing
@@ -376,7 +376,7 @@ difference between the CTD and the internal temperature sensor was -0.24693
 Currents were measured for the cruise duration over the depth range of 30-700 m
 with a 75 kHz RDI Ocean Surveyor (OS75) ADCP working in narrowband mode with a
 vertical resolution of 16 m and broadband mode with a vertical resolution of 8
-m. The system yielded good data (see {cite}`Santiago-Mandujano2021`)
+m. The system yielded good data {cite}`Santiago-Mandujano2021`
 during operations near the WHOTS-15 and WHOTS-16 moorings. The broadband system
 only recorded good data in the upper 200 m. The times of the datasets from the
 OS75 kHz are shown in {numref}`table-12`.
@@ -385,10 +385,10 @@ OS75 kHz are shown in {numref}`table-12`.
 :class: sd-m-auto
 :align: center
 :name: table-12
-| WHOTS-16            | OS75nb            | OS75bb            |
-|---------------------|-------------------|-------------------|
-| File beginning time | 10/04/19 19:38:54 | 10/04/19 19:38:54 |
-| File ending time    | 10/12/19 20:14:30 | 10/12/19 20:14:30 |
+|    **WHOTS-16**    |    **OS75nb**     |    **OS75bb**     |
+|:------------------:|:-----------------:|:-----------------:|
+| File starting time | 10/04/19 19:38:54 | 10/04/19 19:38:54 |
+|  File ending time  | 10/12/19 20:14:30 | 10/12/19 20:14:30 |
 ```
 
 ### WHOTS-17 Deployment Cruise

@@ -13,33 +13,33 @@ stability, and conductivity calibration against CTD data from casts conducted
 near the mooring during HOT and WHOTS cruises. The detailed processing
 procedures are described in this section.
 
-```{table} WHOTS-16 MicroCAT temperature sensor calibration dates and sensor drift during deployments.
+
+```{table} WHOTS-16 MicroCAT temperature sensor calibration dates and sensor drift during deployments; SN = Sea-Bird Serial Number; PDC = Pre-Deployment Calibration; PRC = Post-Recovery Calibration; TSA = Temperature Sensor's Annual Drift during WHOTS-16 ; N. depth = Nominal deployment depth 
 :class: sd-m-auto
 :align: center
 :name: table-14
-
-| **Nominal deployment depth (m)** | **Sea-Bird Serial  number** | **Pre-deployment calibration** | **Post-recovery calibration** | **Temperature sensor’s annual drift during WHOTS-16 (mili°C)** |
-|----------------------------------|-----------------------------|--------------------------------|-------------------------------|----------------------------------------------------------------|
-| **7**                            | 3617                        | 21-Nov-18                      | 17-Nov-21                     | -0.31                                                          |
-| **15**                           | 6893                        | 13-Dec-18                      | 4-Nov-21                      | 0.07                                                           |
-| **25**                           | 6894                        | 13-Dec-18                      | 4-Nov-21                      | 0.46                                                           |
-| **35**                           | 6895                        | 13-Dec-18                      | 5-Nov-21                      | -0.33                                                          |
-| **40**                           | 6896                        | 12-Dec-18                      | 5-Nov-21                      | -1.23                                                          |
-| **45**                           | 6887                        | 14-Dec-18                      | 10-Nov-21                     | -0.14                                                          |
-| **50**                           | 6897                        | 12-Dec-18                      | 4-Nov-21                      | 0.6                                                            |
-| **55**                           | 6898                        | 14-Dec-18                      | 4-Nov-21                      | 0.02                                                           |
-| **65**                           | 6899                        | 13-Dec-18                      | 4-Nov-21                      | 0.34                                                           |
-| **75**                           | 3618                        | 18-Dec-18                      | 4-Nov-21                      | 0.46                                                           |
-| **85**                           | 3634                        | 13-Dec-18                      | 4-Nov-21                      | 1.36                                                           |
-| **95**                           | 3670                        | 14-Dec-18                      | 10-Nov-21                     | -0.31                                                          |
-| **105**                          | 6889                        | 12-Dec-18                      | 10-Nov-21                     | -0.05                                                          |
-| **120**                          | 6890                        | 12-Dec-18                      | 10-Nov-21                     | -0.04                                                          |
-| **135**                          | 6888                        | 19-Dec-18                      | 10-Nov-21                     | -0.54                                                          |
-| **155**                          | 6891                        | 19-Dec-18                      | 10-Nov-21                     | -0.1                                                           |
-| **4658**                         | 3639                        | 15-Jun-16                      | 27-Feb-22                     | -0.07                                                          |
-| **4658**                         | 12242                       | 25-May-14                      | 25-Feb-22                     | -0.39                                                          |
-| **4713**                         | 11391                       | 7-Dec-13                       | 10-Mar-22                     | -0.56                                                          |
-| **4713**                         | 12241                       | 23-May-14                      | 25-Feb-22                     | -1.01                                                          |
+| **N. depth (m)** | **SN** |  **PDC**  |  **PRC**  | **TSA(mili°C)** |
+|:----------------:|:------:|:---------:|:---------:|:---------------:|
+|      **7**       |  3617  | 21-Nov-18 | 17-Nov-21 |      -0.31      |
+|      **15**      |  6893  | 13-Dec-18 | 4-Nov-21  |      0.07       |
+|      **25**      |  6894  | 13-Dec-18 | 4-Nov-21  |      0.46       |
+|      **35**      |  6895  | 13-Dec-18 | 5-Nov-21  |      -0.33      |
+|      **40**      |  6896  | 12-Dec-18 | 5-Nov-21  |      -1.23      |
+|      **45**      |  6887  | 14-Dec-18 | 10-Nov-21 |      -0.14      |
+|      **50**      |  6897  | 12-Dec-18 | 4-Nov-21  |       0.6       |
+|      **55**      |  6898  | 14-Dec-18 | 4-Nov-21  |      0.02       |
+|      **65**      |  6899  | 13-Dec-18 | 4-Nov-21  |      0.34       |
+|      **75**      |  3618  | 18-Dec-18 | 4-Nov-21  |      0.46       |
+|      **85**      |  3634  | 13-Dec-18 | 4-Nov-21  |      1.36       |
+|      **95**      |  3670  | 14-Dec-18 | 10-Nov-21 |      -0.31      |
+|     **105**      |  6889  | 12-Dec-18 | 10-Nov-21 |      -0.05      |
+|     **120**      |  6890  | 12-Dec-18 | 10-Nov-21 |      -0.04      |
+|     **135**      |  6888  | 19-Dec-18 | 10-Nov-21 |      -0.54      |
+|     **155**      |  6891  | 19-Dec-18 | 10-Nov-21 |      -0.1       |
+|     **4658**     |  3639  | 15-Jun-16 | 27-Feb-22 |      -0.07      |
+|     **4658**     | 12242  | 25-May-14 | 25-Feb-22 |      -0.39      |
+|     **4713**     | 11391  | 7-Dec-13  | 10-Mar-22 |      -0.56      |
+|     **4713**     | 12241  | 23-May-14 | 25-Feb-22 |      -1.01      |
 ```
 
 ### Internal Clock Check and Missing Samples
@@ -76,23 +76,22 @@ in the water column above the instrument; horizontal dynamic pressure (not only
 due to the currents but also due to the motion of the mooring); mooring
 position {cite}`Santiago-Mandujano2007`.
 
-```{table} Pressure bias of MicroCATs with pressure sensors for WHOTS-16. All the instruments with a NA pressure bias ended recording before recovery.
+```{table} Pressure bias of MicroCATs with pressure sensors for WHOTS-16. All the instruments with a NA pressure bias ended recording before recovery. SN = Sea-bird Serial Number; BBD = Bias Before Deployment (dbar); BAR = Bias After Recovery (dbar)
 :class: sd-m-auto
 :align: center
 :name: table-15
-
-| **Depth (m)** | **Sea-Bird Serial #** | **Bias before deployment (dbar)** | **Bias after recovery (dbar)** |
-|---------------|-----------------------|-----------------------------------|--------------------------------|
-| **45**        | 6887                  | 0.07                              | NA                             |
-| **95**        | 3670                  | -1.2                              | NA                             |
-| **105**       | 6889                  | 0.1                               | NA                             |
-| **120**       | 6890                  | 0.11                              | NA                             |
-| **135**       | 6888                  | 0.12                              | NA                             |
-| **155**       | 6891                  | 0.07                              | NA                             |
-| **4658**      | 3639                  | -0.04                             | NA                             |
-| **4658**      | 12242                 | 0.1                               | 0.9                            |
-| **4713**      | 11391                 | 0.5                               | 2                              |
-| **4713**      | 12241                 | 0.4                               | 1.5                            |
+| **Depth (m)** | **SN** | **BBD(dbar)** | **BAR(dbar)** |
+|:-------------:|:------:|:-------------:|:-------------:|
+|    **45**     |  6887  |     0.07      |      NA       |
+|    **95**     |  3670  |     -1.2      |      NA       |
+|    **105**    |  6889  |      0.1      |      NA       |
+|    **120**    |  6890  |     0.11      |      NA       |
+|    **135**    |  6888  |     0.12      |      NA       |
+|    **155**    |  6891  |     0.07      |      NA       |
+|   **4658**    |  3639  |     -0.04     |      NA       |
+|   **4658**    | 12242  |      0.1      |      0.9      |
+|   **4713**    | 11391  |      0.5      |       2       |
+|   **4713**    | 12241  |      0.4      |      1.5      |
 ```
 
 
@@ -409,10 +408,10 @@ shown in {numref}`table-16`.
 :class: sd-m-auto
 :align: center
 :name: table-16
-| **Frequency (kHz)** | **Instrument**          | **Model**     | **Serial Number** |
-|---------------------|-------------------------|---------------|-------------------|
-| **300**             | TRDI Workhorse Sentinel | WHS300-I-UG86 | 4891              |
-| **600**             | TRDI Workhorse Sentinel | WHS600-I      | 1825              |
+|  **Frequency (kHz)**  |      **Instrument**       |    **Model**    |  **Serial Number**  |
+|:---------------------:|:-------------------------:|:---------------:|:-------------------:|
+|        **300**        |  TRDI Workhorse Sentinel  |  WHS300-I-UG86  |        4891         |
+|        **600**        |  TRDI Workhorse Sentinel  |    WHS600-I     |        1825         |
 ```
 
 ### Compass Calibrations
@@ -434,24 +433,25 @@ third direction, is rotated once more to check the calibration. Results from
 each pre-deployment field calibration are shown in {numref}`table-17` and
 {numref}`table-18` ({numref}`figure5.16` and {numref}`figure5.17`).
 
-```{table}  Results from the WHOTS-16 pre-deployment 300 kHz ADCP compass field calibration procedure.
+
+```{table}  Results from the WHOTS-16 pre-deployment 300 kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
 :class: sd-m-auto
 :align: center
 :name: table-17
-| **(SN 4891)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **Before**    | 2.41                       | 0.47                       | 2.88                                        | 0.23                                               | 2.39                  | 1.64 ±0.43                       | 0.1±0.42                        |
-| **After**     | 0.78                       | 0.07                       | 0.85                                        | 0.37                                               | 0.79                  | -17.08 ±0.44                     | -0.01±0.81                      |
+|  **(SN 4891)**  | **SCE** | **DCE** | **LD_SCE** | **RMS_RE** | **OE** |  **PM_STD**  | **RM_STD** |
+|:---------------:|:-------:|:-------:|:----------:|:----------:|:------:|:------------:|:----------:|
+|   **Before**    |  2.41   |  0.47   |    2.88    |    0.23    |  2.39  |  1.64 ±0.43  |  0.1±0.42  |
+|    **After**    |  0.78   |  0.07   |    0.85    |    0.37    |  0.79  | -17.08 ±0.44 | -0.01±0.81 |
 ```
 
-```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. 
+```{table} Results from the WHOTS-16 pre-deployment 600 kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
 :class: sd-m-auto
 :align: center
 :name: table-18
-| **(SN 1825)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **Before**    | 1.44                       | 0.27                       | 1.71                                        | 0.13                                               | 1.52                  | 1.42 ±0.35                       | 0.47 ±0.34                      |
-| **After**     | 0.15                       | 0.27                       | 0.42                                        | 0.21                                               | 0.37                  | -17.76 ±0.33                     | -0.85±0.69                      |
+| **(SN 1825)** | **SCE** | **DCE** |  **LD_SCE**  |  **RMS_RE**  |  **OE**  |   **PM_STD**   |  **RM_STD**  |
+|:-------------:|:-------:|:-------:|:------------:|:------------:|:--------:|:--------------:|:------------:|
+|  **Before**   |  1.44   |  0.27   |     1.71     |     0.13     |   1.52   |   1.42 ±0.35   |  0.47 ±0.34  |
+|   **After**   |  0.15   |  0.27   |     0.42     |     0.21     |   0.37   |  -17.76 ±0.33  |  -0.85±0.69  |
 ```
 
 
@@ -464,23 +464,23 @@ pre-deployment calibration. Results from the WHOTS-16 post-deployment ADCP
 compass field calibration procedure are listed in {numref}`table-19` and 
 {numref}`table-20` ({numref}`figure5.16` and {numref}`figure5.17`).
 
-```{table} Results from the WHOTS-16 post-deployment 300kHz ADCP compass field calibration procedure.
+```{table} Results from the WHOTS-16 post-deployment 300kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
 :class: sd-m-auto
 :align: center
 :name: table-19
-| **(SN 4891)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **After**     | 2.00                       | 0.05                       | 2.05                                        | 0.15                                               | 2.00                  | - 0.03 ±0.40                     | 0.13±0.49                       |
+|  **(SN 4891)**  |  **SCE**  |  **DCE**  |  **LD_SCE**  |  **RMS_RE**  |  **OE**  |  **PM_STD**   |  **RM_STD**  |
+|:---------------:|:---------:|:---------:|:------------:|:------------:|:--------:|:-------------:|:------------:|
+|    **After**    |   2.00    |   0.05    |     2.05     |     0.15     |   2.00   |  -0.03 ±0.40  |  0.13±0.49   |
 ```
 
 
-```{table} Results from the WHOTS-16 post-deployment 600kHz ADCP compass field calibration procedure.
+```{table} Results from the WHOTS-16 post-deployment 600kHz ADCP compass field calibration procedure. *SCE = Single Cycle Error (°); DCE = Double Cycle Error (°); LD_SCE = Largest Double + Single Cycle Error (°); RMS_RE = RMS of 3rd Order and Higher + Random Error (°); OE = Overall Error (°); PM_STD = Pitch, Mean and St. Deviation (°); RM_STD = Roll, Mean and St. Dev. (°)*
 :class: sd-m-auto
 :align: center
 :name: table-20
-| **(SN 1825)** | **Single Cycle Error (°)** | **Double Cycle Error (°)** | **Largest Double + Single Cycle Error (°)** | **RMS of 3rd Order and Higher + Random Error (°)** | **Overall Error (°)** | **Pitch, Mean and St. Dev. (°)** | **Roll, Mean and St. Dev. (°)** |
-|---------------|----------------------------|----------------------------|---------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------|---------------------------------|
-| **After**     | 0.99                       | 0.23                       | 1.21                                        | 0.19                                               | 1.07                  | 0.10 ±0.43                       | 0.47±0.41                       |
+|  **(SN 1825)**  |  **SCE**  |  **DCE**  |  **LD_SCE**  |  **RMS_RE**  |  **OE**  |  **PM_STD**  |  **RM_STD**  |
+|:---------------:|:---------:|:---------:|:------------:|:------------:|:--------:|:------------:|:------------:|
+|    **After**    |   0.99    |   0.23    |     1.21     |     0.19     |   1.07   |  0.10 ±0.43  |  0.47±0.41   |
 ```
 
 
@@ -574,14 +574,14 @@ Same as {numref}`figure5.18`, but for the 600 kHz ADCP.
 :class: sd-m-auto
 :align: center
 :name: table-21
-| **Activities**           | **300 kHz**           | **600 kHz**           |
-|--------------------------|-----------------------|-----------------------|
-| **Raw file start**       | 10/4/2019,  00:00:00  | 10/4/2019,  00:00:00  |
-| **Raw file end**         | 7/6/2021,  14:39:59   | 1/21/2020,  20:49:59  |
-| **ADCP In water**        | 10/5/2019,  20:04:00  | 10/5/2019,  19:43:00  |
-| **Anchor over**          | 10/06/2019,  02:12:00 | 10/06/2019,  02:12:00 |
-| **Anchor release fired** | 08/28/2021,  17:52:00 | 08/28/2021,  17:52:00 |
-| **ADCP on deck**         | 08/29/2021,  01:44:00 | 8/29/2021,  02:12:00  |
+|       **Activities**       |       **300 kHz**       |       **600 kHz**       |
+|:--------------------------:|:-----------------------:|:-----------------------:|
+|     **Raw file start**     |  10/4/2019,  00:00:00   |  10/4/2019,  00:00:00   |
+|      **Raw file end**      |   7/6/2021,  14:39:59   |  1/21/2020,  20:49:59   |
+|     **ADCP In water**      |  10/5/2019,  20:04:00   |  10/5/2019,  19:43:00   |
+|      **Anchor over**       |  10/06/2019,  02:12:00  |  10/06/2019,  02:12:00  |
+|  **Anchor release fired**  |  08/28/2021,  17:52:00  |  08/28/2021,  17:52:00  |
+|      **ADCP on deck**      |  08/29/2021,  01:44:00  |  8/29/2021,  02:12:00   |
 ```
 
 #### ADCP Clock Drift
@@ -612,17 +612,16 @@ ADCP’s.
 
 Due to the constant proportionality between the Doppler shift and water speed,
 the speed of sound needs only be measured at the transducer head
-{cite}`Firing1991`
-. The sound speed used by the ADCP is calculated using a constant value of
-salinity (35) and the temperature recorded by the transducer temperature sensor
-of the ADCP. Using CTD profiles close to the mooring during HOT cruises,
-HOT-316 to 332, and from the WHOTS deployment/recovery cruises, the mean 
-salinity at 125 dbar was 34.95 while the mean salinity at 47.5 dbar was 34.87. 
-The mean ADCP temperature at 125 dbar was 21.38 °C and 25.86 °C at 47.5dbar 
-({numref}`figure5.18`, {numref}`figure5.19`, and {numref}`figure5.20`).The 
-mean sound velocity at 47.5 and 125 dbar was {math}`1537.04 ms^{-1}` and 
+{cite}`Firing1991`. The sound speed used by the ADCP is calculated using a
+constant value of salinity (35) and the temperature recorded by the transducer
+temperature sensor of the ADCP. Using CTD profiles close to the mooring during
+HOT cruises, HOT-316 to 332, and from the WHOTS deployment/recovery cruises,
+the mean salinity at 125 dbar was 34.95 while the mean salinity at 47.5 dbar
+was 34.87. The mean ADCP temperature at 125 dbar was 21.38 °C and 25.86 °C at
+47.5dbar
+({numref}`figure5.18`, {numref}`figure5.19`, and {numref}`figure5.20`).The mean
+sound velocity at 47.5 and 125 dbar was {math}`1537.04 ms^{-1}` and
 {math}`1527.12 ms^{-1}`, respectively.
-
 
 ```{figure} figures/adcp_moored/wh16_CTD_sv_profile.png
 :height: 800px
@@ -650,7 +649,7 @@ procedures were applied to the WHOTS-16 deployment of ADCP data.
 1. The first bin (closest to the transducer) is sometimes corrupted due to what
    is known as ringing. A period of time is needed for the sound energy
    produced during a transducer's transmit pulse to dissipate before the ADCP
-   can adequately receive the returned echoes. This `“blanking interval”` is used
+   can adequately receive the returned echoes. This “blanking interval” is used
    to prevent useless data from being recorded. If it is too short, signal
    returns can be contaminated by the lingering noise from the transducer. The
    blanking interval is expressed as a distance. The default value of 1.76 m
@@ -690,8 +689,8 @@ procedures were applied to the WHOTS-16 deployment of ADCP data.
    the standard deviation of observed horizontal velocities) were flagged and
    removed.
 
-4. An indication of data quality for each ensemble is given by the `“percent
-   good”` data indicator, which accompanies each beam for each bin. The use of
+4. An indication of data quality for each ensemble is given by the “percent
+   good” data indicator, which accompanies each beam for each bin. The use of
    the percent good indicator is determined by the coordinate transformation
    mode used during the data collection. For profiles transformed into earth
    coordinates, the percent good field shows the percentage of pings that could
@@ -789,15 +788,17 @@ depths of 10 m and 30 m, serial numbers SN 2042 and 2032, respectively. VMCM
 data were processed by the WHOI/UOP group, and the record times are shown 
 in {numref}`table-22`.
 
+
 ```{table} Record times (UTC mm/dd/yy hh:mm) for the VMCMs at 10 m and 30 m during the WHOTS-16 deployment
 :class: sd-m-auto
 :align: center
 :name: table-22
-| **Time Over**  | **VMCM (SN 2042)** | **VMCM (SN 2032)** |
-|----------------|--------------------|--------------------|
-| **Deployment** | 10/5/19 19:11      | 10/5/19 18:51      |
-| **Recovery**   | 8/29/21 3:17       | 8/29/21 3:27       |
+|  **Time Over**   |  **VMCM (SN 2042)**  |  **VMCM (SN 2032)**  |
+|:----------------:|:--------------------:|:--------------------:|
+|  **Deployment**  |    10/5/19 19:11     |    10/5/19 18:51     |
+|   **Recovery**   |     8/29/21 3:17     |     8/29/21 3:27     |
 ```
+
 
 Daily (24 hours) moving averages of quality controlled 600 kHz ADCP data are
 compared to VMCM data interpolated to the ADCP ensemble times in the top panels
@@ -808,11 +809,10 @@ Velocities are not compared if greater than 80% of the ADCP data within a
 24-hour average was flagged. The absolute value of mean differences for all
 deployments and both velocity components varied between 2 and 3.5
 {math}`cm s^{-1}`, with standard deviations between 1.8 and 2.7
-{math}`cm s^{-1}`
-. The VMCM data does not appear to degrade over time for any deployment.
-Propeller fouling would dampen measured VMCM velocity magnitudes, but a
-decrease in VMCM velocity magnitude than ADCP velocity magnitude with time is
-not observed.
+{math}`cm s^{-1}`. The VMCM data does not appear to degrade over time for any
+deployment. Propeller fouling would dampen measured VMCM velocity magnitudes,
+but a decrease in VMCM velocity magnitude than ADCP velocity magnitude with
+time is not observed.
 
 
 ```{figure} figures/ngvm_adcp/wh16_NGVM_30_U.png
@@ -868,8 +868,8 @@ WHOTS-16.
 :class: sd-m-auto
 :align: center
 :name: table-23
-| **Raw file**   | **Xeos GPS (Melo)** | **Xeos GPS (Rover)** |
-|----------------|---------------------|----------------------|
-| **Start Time** | 10/6/19 03:07       | 7/30/19 21:01        |
-| **End Time**   | 3/28/20 04:43       | 8/30/21 12:00        |
+|   **Raw file**   |  **Xeos GPS (Melo)**  |  **Xeos GPS (Rover)**  |
+|:----------------:|:---------------------:|:----------------------:|
+|  **Start Time**  |     10/6/19 03:07     |     7/30/19 21:01      |
+|   **End Time**   |     3/28/20 04:43     |     8/30/21 12:00      |
 ```

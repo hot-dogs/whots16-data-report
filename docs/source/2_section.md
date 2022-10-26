@@ -14,19 +14,19 @@ that participated during the cruise are listed in {numref}`table-1`.
 :class: sd-m-auto
 :align: center
 :name: table-1
-|             Name             |        Title or function         | Affiliation |
-|:----------------------------:|:--------------------------------:|:-----------:|
-|      Plueddeman, Albert      |         Chief Scientist          |    WHOI     |
-|         Pietro, Ben          |   Senior Engineering Assistant   |    WHOI     |
-|       Graham, Raymond        |        Research Associate        |    WHOI     |
-|       Maloney, Kelsey        |        Student Assistant         |     UH      |
-|       Fitzgerald, Dan        |  Marine Electronics Technician   |     UH      |
-|        Rohrer, Tully         |        Research Associate        |     UH      |
-| Santiago-Mandujano, Fernando |        Research Associate        |     UH      |
-|         Tabata, Ryan         | Research Oceanography Specialist |     UH      |
-|         Howins, Noah         |     Undergraduate Volunteer      |     UH      |
-|        Pezoa, Sergio         |            Scientist             |    ESRL     |
-|        Gonzales, Sean        |     Undergraduate Volunteer      |     HPU     |
+|           **Name**           |      **Title or function**       | **Affiliation** |
+|:----------------------------:|:--------------------------------:|:---------------:|
+|      Plueddeman, Albert      |         Chief Scientist          |      WHOI       |
+|         Pietro, Ben          |   Senior Engineering Assistant   |      WHOI       |
+|       Graham, Raymond        |        Research Associate        |      WHOI       |
+|       Maloney, Kelsey        |        Student Assistant         |       UH        |
+|       Fitzgerald, Dan        |  Marine Electronics Technician   |       UH        |
+|        Rohrer, Tully         |        Research Associate        |       UH        |
+| Santiago-Mandujano, Fernando |        Research Associate        |       UH        |
+|         Tabata, Ryan         | Research Oceanography Specialist |       UH        |
+|         Howins, Noah         |     Undergraduate Volunteer      |       UH        |
+|        Pezoa, Sergio         |            Scientist             |      ESRL       |
+|        Gonzales, Sean        |     Undergraduate Volunteer      |       HPU       |
 
 ```
 
@@ -53,24 +53,23 @@ Water samples were taken from all casts; 3 to 4 samples for each of them. These
 samples were to be analyzed for salinity at UH and used to calibrate the CTD
 conductivity sensors.
 
-```{table} CTD stations occupied during the WHOTS-16 cruise (Datetime is in UTC)
+```{table} CTD stations occupied during the WHOTS-16 cruise (Datetime is in mm/dd/yyyy hh:mm)
 :class: sd-m-auto
 :align: center
 :name: table-2
-
-| Station/cast | Date (MM/DD/YYYY) | In-water Time (HH:MM) | Location                  | Maximum pressure (dbar) |
-|:-------------|:------------------|:----------------------|:--------------------------|:------------------------|
-| 20/1         | 10/05/2019        | 01:51                 | 21°28.164´N, 158°21.552´W | 1502                    |
-| 52/1         | 10/10/2019        | 16:38                 | 22°40.391´N, 157°58.744´W | 215                     |
-| 52/2         | 10/10/2019        | 19:55                 | 22°40.551´N, 157°58.679´W | 211                     |
-| 52/3         | 10/10/2019        | 23:58                 | 22°40.790´N, 157°58.635´W | 211                     |
-| 52/4         | 10/11/2019        | 04:05                 | 22°41.023´N, 157°58.256´W | 211                     |
-| 52/5         | 10/11/2019        | 07:55                 | 22°40.551´N, 157°58.323´W | 209                     |
-| 50/1         | 10/06/2019        | 16:10                 | 22°45.101`N, 157°55.049´W | 213                     |
-| 50/2         | 10/06/2019        | 20:03                 | 22°44.962´N, 157°54.839´W | 211                     |
-| 50/3         | 10/07/2019        | 00:04                 | 22°45.136´N, 157°55.144´W | 218                     |
-| 50/4         | 10/07/2019        | 04:08                 | 22°45.209´N, 157°55.006´W | 211                     |
-| 50/5         | 10/07/2019        | 07:56                 | 22°44.787´N, 157°55.066´W | 210                     |
+| **Station/cast** |  **Date**  | **In-water Time** |       **Location**        | **Maximum pressure (dbar)** |
+|:----------------:|:----------:|:-----------------:|:-------------------------:|:---------------------------:|
+|       20/1       | 10/05/2019 |       01:51       | 21°28.164´N, 158°21.552´W |            1502             |
+|       52/1       | 10/10/2019 |       16:38       | 22°40.391´N, 157°58.744´W |             215             |
+|       52/2       | 10/10/2019 |       19:55       | 22°40.551´N, 157°58.679´W |             211             |
+|       52/3       | 10/10/2019 |       23:58       | 22°40.790´N, 157°58.635´W |             211             |
+|       52/4       | 10/11/2019 |       04:05       | 22°41.023´N, 157°58.256´W |             211             |
+|       52/5       | 10/11/2019 |       07:55       | 22°40.551´N, 157°58.323´W |             209             |
+|       50/1       | 10/06/2019 |       16:10       | 22°45.101`N, 157°55.049´W |             213             |
+|       50/2       | 10/06/2019 |       20:03       | 22°44.962´N, 157°54.839´W |             211             |
+|       50/3       | 10/07/2019 |       00:04       | 22°45.136´N, 157°55.144´W |             218             |
+|       50/4       | 10/07/2019 |       04:08       | 22°45.209´N, 157°55.006´W |             211             |
+|       50/5       | 10/07/2019 |       07:56       | 22°44.787´N, 157°55.066´W |             210             |
 ```
 
 Also, continuous ADCP and near-surface thermosalinograph data were obtained
@@ -86,14 +85,13 @@ and attitude.
 :class: sd-m-auto
 :align: center
 :name: table-3
-
-|      Parameters      | OS75BB | OS75NB |
-|:--------------------:|:------:|:------:|
-| Sample interval (s)  |  300   |  300   |
-|    Number of bins    |   80   |   55   |
-|    Bin Length (m)    |   8    |   16   |
-| Transducer depth (m) |   5    |   5    |
-| Blanking length (m)  |   8    |   8    |
+|    **Parameters**    | **OS75BB** | **OS75NB** |
+|:--------------------:|:----------:|:----------:|
+| Sample interval (s)  |    300     |    300     |
+|    Number of bins    |     80     |     55     |
+|    Bin Length (m)    |     8      |     16     |
+| Transducer depth (m) |     5      |     5      |
+| Blanking length (m)  |     8      |     8      |
 ```
 
 Near-surface temperature and salinity data during the WHOTS-16 cruise were
@@ -135,15 +133,15 @@ UTC. The scientific personnel that participated during the cruise are listed in
 :class: sd-m-auto
 :align: center
 :name: table-4
-|             Name             |       Title or function       | Affiliation |
-|:----------------------------:|:-----------------------------:|:-----------:|
-|      Plueddeman, Albert      |        Chief Scientist        |    WHOI     |
-|      Hasbrouck, Emerson      | Senior Engineering Assistant  |    WHOI     |
-|       Fitzgerald, Dan        | Marine Electronics Technician |     UH      |
-| Santiago-Mandujano, Fernando |      Research Associate       |     UH      |
-|      Jackson, Caroline       |       Graduate Student        |     UH      |
-|       Maloney, Kelsey        |       Student Assistant       |     UH      |
-|        Harris, James         |       Student Assistant       |     HPU     |
+|           **Name**           |     **Title or function**     | **Affiliation** |
+|:----------------------------:|:-----------------------------:|:---------------:|
+|      Plueddeman, Albert      |        Chief Scientist        |      WHOI       |
+|      Hasbrouck, Emerson      | Senior Engineering Assistant  |      WHOI       |
+|       Fitzgerald, Dan        | Marine Electronics Technician |       UH        |
+| Santiago-Mandujano, Fernando |      Research Associate       |       UH        |
+|      Jackson, Caroline       |       Graduate Student        |       UH        |
+|       Maloney, Kelsey        |       Student Assistant       |       UH        |
+|        Harris, James         |       Student Assistant       |       HPU       |
 
 ```
 
@@ -171,22 +169,22 @@ Water samples were taken from all casts; 3 to 4 samples for each of them. These
 samples were to be analyzed for salinity at UH and used to calibrate the CTD
 conductivity sensors.
 
-```{table} CTD stations during the WHOTS-17 cruise (WHOTS-16 mooring recovery). Datetime is in UTC.
+```{table} CTD stations during the WHOTS-17 cruise (WHOTS-16 mooring recovery). Datetime is in UTC (mm/dd/yy hh:mm).
 :class: sd-m-auto
 :align: center
 :name: table-5
-| Station/cast | Date (MM/DD/YYYY) | In-water Time (HH:MM) | Location                | Maximum pressure (dbar) |
-|:-------------|:------------------|:----------------------|:------------------------|:------------------------|
-| 2/1          | 8/31/2021         | 18:29                 | 22°45.12´N, 157°59.98´W | 4796                    |
-| 20/1         | 8/24/2021         | 23:03                 | 21°28.03´N, 158°20.83´W | 1508                    |
-| 50/1         | 8/29/2021         | 15:59                 | 22°45.73´N, 157°55.25´W | 202                     |
-| 50/2         | 8/29/2021         | 21:55                 | 22°46.17´N, 157°54.85´W | 202                     |
-| 50/3         | 8/29/2021         | 23:52                 | 22°46.19´N, 157°54.72´W | 204                     |
-| 50/4         | 8/30/2021         | 04:02                 | 22°45.89´N, 157°54.65´W | 202                     |
-| 50/5         | 8/30/2021         | 07:57                 | 22°44.79´N, 157°54.53´W | 202                     |
-| 50/6         | 9/1/2021          | 01:36                 | 22°44.28´N, 157°54.14´W | 4754                    |
-| 52/1         | 8/27/2021         | 19:58                 | 22°40.69´N, 157°58.38´W | 202                     |
-| 52/2         | 8/28/2021         | 04:00                 | 22°40.67´N, 157°58.73´W | 202                     |
+| **Station/cast** | **Date**  | **In-water Time** |      **Location**       | **Maximum pressure (dbar)** |
+|:----------------:|:---------:|:-----------------:|:-----------------------:|:---------------------------:|
+|       2/1        | 8/31/2021 |       18:29       | 22°45.12´N, 157°59.98´W |            4796             |
+|       20/1       | 8/24/2021 |       23:03       | 21°28.03´N, 158°20.83´W |            1508             |
+|       50/1       | 8/29/2021 |       15:59       | 22°45.73´N, 157°55.25´W |             202             |
+|       50/2       | 8/29/2021 |       21:55       | 22°46.17´N, 157°54.85´W |             202             |
+|       50/3       | 8/29/2021 |       23:52       | 22°46.19´N, 157°54.72´W |             204             |
+|       50/4       | 8/30/2021 |       04:02       | 22°45.89´N, 157°54.65´W |             202             |
+|       50/5       | 8/30/2021 |       07:57       | 22°44.79´N, 157°54.53´W |             202             |
+|       50/6       | 9/1/2021  |       01:36       | 22°44.28´N, 157°54.14´W |            4754             |
+|       52/1       | 8/27/2021 |       19:58       | 22°40.69´N, 157°58.38´W |             202             |
+|       52/2       | 8/28/2021 |       04:00       | 22°40.67´N, 157°58.73´W |             202             |
 ```
 
 Also, continuous ADCP and near-surface thermosalinograph data were obtained
@@ -202,14 +200,13 @@ and attitude.
 :class: sd-m-auto
 :align: center
 :name: table-6
-
-|      Parameters      | OS75BB | OS75NB |
-|:--------------------:|:------:|:------:|
-| Sample interval (s)  |  300   |  300   |
-|    Number of bins    |   80   |   55   |
-|    Bin Length (m)    |   8    |   16   |
-| Transducer depth (m) |   5    |   5    |
-| Blanking length (m)  |   8    |   8    |
+|    **Parameters**    | **OS75BB** | **OS75NB** |
+|:--------------------:|:----------:|:----------:|
+| Sample interval (s)  |    300     |    300     |
+|    Number of bins    |     80     |     55     |
+|    Bin Length (m)    |     8      |     16     |
+| Transducer depth (m) |     5      |     5      |
+| Blanking length (m)  |     8      |     8      |
 ```
 
 Near-surface temperature and salinity data during the WHOTS-17 cruise were

@@ -125,7 +125,7 @@ bottle determination of salinity. {numref}`figure6.6` through
 cruise.
 
 ```{figure} figures/ctd/1.whots_16/s20c1_s50c1.png
-:height: 1000px
+:height: 800px
 :align: center
 :name: figure6.1
 
@@ -180,7 +180,7 @@ panels] Same as in {numref}`figure6.1`, but for station 52, cast 4.
 
 
 ```{figure} figures/ctd/2.whots_17/s2c1_s20c1.png
-:height: 1000px
+:height: 800px
 :align: center
 :name: figure6.6
 
