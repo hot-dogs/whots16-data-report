@@ -1,3 +1,4 @@
+[![CITATION.cff](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml)
 #  Woods Hole - Hawaii Ocean Time-series Site 
 
 [*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
