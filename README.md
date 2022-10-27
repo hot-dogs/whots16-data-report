@@ -1,16 +1,17 @@
 #  Woods Hole - Hawaii Ocean Time-series Site 
 
-*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
-Ocean Time-Series Site (WHOTS): 2019-2020, Data Report 16*
+[*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
+Ocean Time-Series Site (WHOTS): 2019-2020, Data Report 16*](http://whots16-data-report.readthedocs.io/)
 
 ## Abstract
 
-In 2003, [Robert Weller](https://www.whoi.edu/profile/rweller/) (Woods Hole
-Oceanographic Institution [WHOI])
-, [Albert Plueddemann](https://www.whoi.edu/profile/aplueddemann/) (WHOI), and
+In 2003, [Robert Weller](https://www.whoi.edu/profile/rweller/) ([Woods Hole
+Oceanographic Institution [WHOI]](https://www.whoi.edu))
+, [Albert Plueddemann](https://www.whoi.edu/profile/aplueddemann/) 
+([WHOI](https://www.whoi.edu)), and
 [Roger Lukas](http://www.soest.hawaii.edu/oceanography/faculty/rlukas/)
-(The University of Hawaii [UH]) proposed to establish a [long-term surface
-mooring at the Hawaii Ocean Time-series (HOT)](http://www.soest.hawaii.edu/whots/)
+([The University of Hawaii [UH]](https://manoa.hawaii.edu)) proposed to establish 
+a [long-term surface mooring at the Hawaii Ocean Time-series (HOT)](http://www.soest.hawaii.edu/whots/)
 [Station ALOHA (22°45’N, 158°W)](https://hahana.soest.hawaii.edu/stationaloha/)
 to provide sustained, high-quality air-sea fluxes and the associated upper
 ocean response as a coordinated part of the HOT program, and as an element of
