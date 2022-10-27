@@ -43,6 +43,8 @@ keywords:
   - WHOTS Mooring
   - WHOTS-16 Data Report
 repository-code: https://github.com/hot-dogs/whots16-data-report
+repository-artifact: https://github.com/hot-dogs/whots16-data-report
+url: http://whots16-data-report.readthedocs.io/
 preferred-citation:
   type: report
   authors:
@@ -82,23 +84,24 @@ preferred-citation:
   end: 128
   pages: 128
   title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16"
+  url: http://whots16-data-report.readthedocs.io/
   year: 2022
   institution:
-    name: "School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa"
+    name: "School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI"
     address: 1000 Pope Road, Marine Sciences Building (MSB)
-    city: Honolulu
+    city: "Honolulu"
     country: US
     post-code: 96822
   department: Department of Oceanography
-  version: 0.0.5
   date-released: 2022-10-30
   number: 11186
   license: CC-BY-4.0
+  doi: 10.5281/zenodo.7259290
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
   identifiers:
     - type: doi
-      value: 10.5281/zenodo.7256282
+      value: 10.5281/zenodo.7259290
     - type: other
       value: "11186"
       description: "The identifier provided by SOEST Publication Services"
