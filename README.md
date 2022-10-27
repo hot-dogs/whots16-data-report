@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/477206562.svg)](https://zenodo.org/badge/latestdoi/477206562)
 [![CITATION.cff](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml)
 #  Woods Hole - Hawaii Ocean Time-series Site 
 
@@ -67,11 +68,23 @@ for their technical assistance with the moored and shipboard instrumentation;
 and the [University of Hawaii (UH) Marine Center](https://www.soest.hawaii.edu/UMC/cms/) 
 staff for their efforts. 
 
-- The WHOTS mooring work is funded in part by the Ocean Observing and
-Monitoring Division, Climate Program Office (FundRef number xxxxxxxx), National
-Oceanic and Atmospheric Administration, U.S. Department of Commerce, under
-grant NA14OAR4320158 to the Woods Hole Oceanographic Institution. This work was
-also supported by the National Science Foundation grant xxxxxxxx.
+- This publication is based upon observations from the WHOI-Hawaii Ocean
+Time-series Site (WHOTS) mooring, which is supported in part by the National
+Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)) Global
+Ocean Monitoring and Observing ([GOMO](https://globalocean.noaa.gov/)) Program
+through the Cooperative Institute for the North Atlantic
+Region ([CINAR](https://website.whoi.edu/cinar/)) under Cooperative Agreement
+NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole
+Oceanographic Institution, and by National Science Foundation grants
+[OCE-0327513](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0327513),
+[OCE-0752606](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0752606&HistoricalAwards=false)
+,
+[OCE-0926766](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0926766&HistoricalAwards=false)
+,
+[OCE-1260164](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1260164&HistoricalAwards=false)
+and
+[OCE-1756517](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1756517&HistoricalAwards=false)
+to the University of Hawaii for the Hawaii Ocean Time-series.
 
 ## How to Cite
 
