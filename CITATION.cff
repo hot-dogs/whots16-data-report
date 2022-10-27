@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020"
+title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16"
 message: "If you use this report, please cite it using the metadata from this file."
 date-released: 2022-10-30
 authors:
@@ -78,16 +78,29 @@ preferred-citation:
     email: ngalbraith@whoi.edu
     family-names: Galbraith
     affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
-  doi: "10.5281/zenodo.7256282"
   start: 1
   end: 128
   pages: 128
-  title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020"
+  title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16"
   year: 2022
   institution:
-    name: "University of Hawai‘i at Mānoa"
-    address: School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, Honolulu, HI, USA
+    name: "School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa"
+    address: 1000 Pope Road, Marine Sciences Building (MSB)
+    city: Honolulu
+    country: US
+    post-code: 96822
+  department: Department of Oceanography
   version: 0.0.1
   date-released: 2022-10-30
-  number: 16
+  number: 11186
   license: CC-BY-4.0
+  publisher:
+    name: "School of Ocean and Earth Science and Technology (SOEST)"
+  identifiers:
+    - type: doi
+      value: 10.5281/zenodo.7256282
+    - type: other
+      value: "11186"
+      description: "The identifier provided by SOEST Publication Services"
+    - type: swh
+      value: "swh:1:rev:0e5bac60f7fe6d10ab8bd8e292fbdb7933860909"
