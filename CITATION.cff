@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020"
 message: "If you use this report, please cite it using the metadata from this file."
+date-released: 2022-10-30
 authors:
   - given-names: Fernando
     family-names: Carvalho Pacheco
@@ -34,9 +35,6 @@ authors:
     email: ngalbraith@whoi.edu
     family-names: Galbraith
     affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
-version: 0.0.1
-date-released: 2022-10-30
-license: CC-BY-4.0
 keywords:
   - WHOTS
   - HOT
@@ -80,11 +78,16 @@ preferred-citation:
     email: ngalbraith@whoi.edu
     family-names: Galbraith
     affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
-
   doi: "10.5281/zenodo.7256282"
   start: 1
   end: 128
+  pages: 128
   title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020"
   year: 2022
   institution:
-    name: "School of Ocean and Earth Science and Technology, University of Hawaiʻi at Mānoa"
+    name: "University of Hawai‘i at Mānoa"
+    address: School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, Honolulu, HI, USA
+  version: 0.0.1
+  date-released: 2022-10-30
+  number: 16
+  license: CC-BY-4.0
