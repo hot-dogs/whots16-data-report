@@ -46,7 +46,8 @@ data and preliminary analysis ar presented in [Section VI](https://whots-annual-
 ## Acknowledgements
 
 - Many people participated in the WHOTS mooring deployment/recovery cruises 
-See [Table 2.1](https://whots-annual-report.readthedocsio/projects/whots16-data-report/en/latest/2_section.html#table-1)
+See [Table 2.1](https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/2_section.html#table-1)
+https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/2_section.html#table-1
 and [Table 2.4](https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/2_section.html#table-4)
 
 - Thanks are due to all the personnel of the 
