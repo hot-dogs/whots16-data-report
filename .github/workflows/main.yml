@@ -1,6 +1,0 @@
-- name: cff-validator
-  # uses: dieghernan/cff-validator@43b030385e20221f84d7f2a3bb6956aece689155
-  uses: dieghernan/cff-validator@v2.1
-  with:
-    # Path to .cff filedd to be validated. By default it selects a CITATION.cff file on the root of the repository.
-    citation-path: https://github.com/hot-dogs/whots16-data-report
