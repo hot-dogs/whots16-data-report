@@ -1,13 +1,17 @@
 # Introduction
 
-In 2003, Robert Weller (Woods Hole Oceanographic Institution [WHOI]), Albert
-Plueddemann (WHOI), and Roger Lukas (the University of Hawaii [UH]) proposed to
-establish a long-term surface mooring at the Hawaii Ocean Time-series (HOT)
-Station ALOHA (22°45'N, 158°W) to provide sustained, high-quality air-sea
-fluxes and the associated upper ocean response as a coordinated part of the HOT
-program, and as an element of the global array of ocean reference stations
-supported by the National Oceanic and Atmospheric Administration’s (NOAA)
-Office of Climate Observation.
+In 2003, [Robert Weller](https://www.whoi.edu/profile/rweller/) ([Woods Hole
+Oceanographic Institution [WHOI]](https://www.whoi.edu))
+, [Albert Plueddemann](https://www.whoi.edu/profile/aplueddemann/) 
+([WHOI](https://www.whoi.edu)), and
+[Roger Lukas](http://www.soest.hawaii.edu/oceanography/faculty/rlukas/)
+([The University of Hawaii [UH]](https://manoa.hawaii.edu)) proposed to establish 
+a [long-term surface mooring at the Hawaii Ocean Time-series (HOT)](http://www.soest.hawaii.edu/whots/)
+[Station ALOHA (22°45’N, 158°W)](https://hahana.soest.hawaii.edu/stationaloha/)
+to provide sustained, high-quality air-sea fluxes and the associated upper
+ocean response as a coordinated part of the HOT program, and as an element of
+the global array of ocean reference stations supported by the National Oceanic
+and Atmospheric Administration’s (NOAA) Office of Climate Observation. 
 
 With support from NOAA and the National Science Foundation (NSF), the WHOI HOT
 Site (WHOTS) surface mooring has been maintained at Station ALOHA since August
@@ -61,11 +65,14 @@ typical annual cycling of the mixed layer
 WHOTS-16 mooring design
 ```
 
-The sixteenth WHOTS mooring was deployed on October 6, 2019, during an
-eight-day cruise (WHOTS-16 cruise) and was recovered on August 28, 2021,
-during an eight-day cruise (WHOTS-17 cruise). The cruises were aboard the NOAA
-Oscar Sette. The seventeenth mooring was deployed on August 26, 2021, during 
-the WHOTS-17 cruise and was recovered on July 25, 2022. 
+The WHOTS-16 mooring was deployed on October 6, 2019, during an eight-day 
+cruise ([WHOTS-16 cruise](http://www.soest.hawaii.edu/whots/wh16_dep.html)) 
+and was recovered on August 28, 2021, during an eight-day cruise 
+([WHOTS-17 cruise](http://www.soest.hawaii.edu/whots/wh17_dep.html)). 
+The cruises were aboard the NOAA Oscar Sette. The seventeenth mooring was 
+deployed on August 26, 2021, during the 
+[WHOTS-17 cruise](http://www.soest.hawaii.edu/whots/wh17_dep.html) and was 
+recovered on July 25, 2022. 
 
 This report documents and describes the oceanographic observations made on the
 WHOTS-16 mooring for nearly one year and ten months and from shipboard
@@ -83,4 +90,4 @@ processing procedures for the data collected by the moored instruments:
 {ref}`Moored ADCPs</5_section.md#acoustic-doppler-current-profiler>` and 
 {ref}`VMCM</5_section.md#vector-measuring-current-meter-vmcm>`. 
 Plots of the resulting data and preliminary analysis are presented in 
-Section VI.
+Section {ref}`VI</6_section.md#results>`.
