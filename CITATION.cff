@@ -90,11 +90,10 @@ preferred-citation:
     country: US
     post-code: 96822
   department: Department of Oceanography
-  version: 0.0.1
+  version: 0.0.4
   date-released: 2022-10-30
   number: 11186
   license: CC-BY-4.0
-  doi: 10.5281/zenodo.7256282
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
   identifiers:

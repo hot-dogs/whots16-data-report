@@ -15,8 +15,8 @@
       "WHOTS Mooring",
       "WHOTS-16 Data Report"
    ],
-   "version":"0.0.3",
-   "doi": "10.5281/zenodo.7256282",
+   "version":"0.0.4",
+   "preserve_doi": "True",
    "communities":[
       {
          "identifier":"hot"
