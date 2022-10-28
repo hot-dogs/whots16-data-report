@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/477206562.svg)](https://zenodo.org/badge/latestdoi/477206562)
 [![CITATION.cff](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)]
+
 #  Woods Hole - Hawaii Ocean Time-series Site 
 
 [*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
@@ -86,7 +88,7 @@ and
 [OCE-1756517](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1756517&HistoricalAwards=false)
 to the University of Hawaii for the Hawaii Ocean Time-series.
 
-## How to Cite
+## Citation
  
 - Bibtex:  
 ```bibtex
@@ -100,8 +102,9 @@ year = {2022}
 }
 ```
 
-## Get in Touch 
-You can contact us by emailing <hotdata@hawaii.edu>
+## Contact 
+- You can contact us by emailing <hotdata@hawaii.edu>
+- Or open a new issue [here](https://github.com/hot-dogs/whots16-data-report/issues)
 
 ## References
 [Check here](https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/references.html)
