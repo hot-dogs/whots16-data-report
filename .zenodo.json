@@ -43,11 +43,6 @@
   ],
   "related_identifiers": [
     {
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.7259289",
-      "relation": "isVersionOf"
-    },
-    {
       "scheme": "url",
       "identifier": "http://whots16-data-report.readthedocs.io/",
       "relation": "isDocumentedBy",
