@@ -1,9 +1,10 @@
 #  Woods Hole - Hawaii Ocean Time-series Site
 
 <p align="center">
+  <img src="https://github.com/hot-dogs/whots16-data-report/blob/main/docs/source/_static/_images/new_logo_HOT.png" height="200" />
+</p> 
 
-  [<img src="https://github.com/hot-dogs/whots16-data-report/blob/main/docs/source/_static/_images/new_logo_HOT.png" height="200" />]((https://hahana.soest.hawaii.edu/hot/))
-</p>
+[](https://hahana.soest.hawaii.edu/hot/)
 
 
 [![Documentation Status](https://readthedocs.org/projects/whots16-data-report/badge/?version=latest)](https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/?badge=latest)
