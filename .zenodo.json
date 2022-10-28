@@ -50,11 +50,6 @@
     {
       "scheme": "doi",
       "identifier": "10.5281/zenodo.7259289",
-      "relation": "isPartOf"
-    },
-    {
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.7259289",
       "relation": "isVersionOf"
     },
     {
