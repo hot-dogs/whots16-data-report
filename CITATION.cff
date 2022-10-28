@@ -55,7 +55,7 @@ keywords:
 repository-code: https://github.com/hot-dogs/whots16-data-report
 repository-artifact: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
-doi: 10.5281/zenodo.7259290
+doi: 10.5281/zenodo.7259289
 preferred-citation:
   type: report
   authors:
@@ -106,7 +106,7 @@ preferred-citation:
   date-released: 2022-10-30
   #number: 11186
   license: CC-BY-4.0
-  doi: 10.5281/zenodo.7259290
+  doi: 10.5281/zenodo.7259289
   url: http://whots16-data-report.readthedocs.io/
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
