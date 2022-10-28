@@ -99,7 +99,7 @@ preferred-citation:
   institution:
     name: "School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI"
     address: 1000 Pope Road, Marine Sciences Building (MSB)
-    city: "Honolulu"
+    city: Honolulu
     country: US
     post-code: 96822
   department: Department of Oceanography
@@ -110,10 +110,6 @@ preferred-citation:
   url: http://whots16-data-report.readthedocs.io/
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
-#  identifiers:
-#    - type: other
-#      value: "11186"
-#      description: "The identifier provided by SOEST Publication Services"
   notes: "This publication is based upon observations from the WHOI-Hawaii Ocean
 Time-series Site (WHOTS) mooring, which is supported in part by the National
 Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)) Global
