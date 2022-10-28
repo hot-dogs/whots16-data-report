@@ -1,154 +1,154 @@
 {
-   "title":"Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16",
-   "description":"In 2003, Robert Weller (Woods Hole Oceanographic Institution [WHOI]), Albert Plueddemann (WHOI),and Roger Lukas (the University of Hawaii [UH]) proposed to establish a long-term surface mooring at the Hawaii Ocean Time-series (HOT) Station ALOHA (22°45’N, 158°W) to provide sustained, high-quality air-sea fluxes and the associated upper ocean response as a coordinated part of the HOT program, and as an element of the global array of ocean reference stations supported by the National Oceanic and Atmospheric Administration’s (NOAA) Office of Climate Observation. The WHOTS-16 mooring was deployed on October 6, 2019, during an eight-day cruise (WHOTS-16 cruise) and was recovered on August 28, 2021, during an eight-day cruise (WHOTS-17 cruise). The cruises were aboard the NOAA Oscar Sette. The seventeenth mooring was deployed on August 26, 2021, during the WHOTS-17 cruise and was recovered on July 25, 2022. This report documents and describes the oceanographic observations made on the WHOTS-16 mooring for nearly one year and ten months and from shipboard measurements during the two cruises when the mooring was deployed and recovered. Sections II and III include a detailed description of the cruises and the mooring, respectively. Sampling and processing procedures of the hydrographic casts, thermosalinograph, and shipboard ADCP data collected during these cruises are described in Section IV . Section V includes the processing procedures for the data collected by the moored instruments: SeaCATs, MicroCATs, Moored ADCPs and VMCM. Plots of the resulting data and preliminary analysis are presented in Section VI.",
-   "upload_type":"publication",
-   "publication_type":"report",
-   "publication_date":"2022-10-30",
-   "access_right":"open",
-   "license":"CC-BY-4.0",
-   "language":"eng",
-   "keywords":[
-      "WHOTS",
-      "HOT",
-      "Hawaii Ocean Time-series",
-      "OceanSITES",
-      "WHOTS Mooring",
-      "WHOTS-16 Data Report",
-      "Oceanography",
-      "timeseries",
-      "physical oceanography"
-   ],
-   "version":"0.0.6",
-   "doi": "10.5281/zenodo.7259290",
-   "communities":[
-      {
-         "identifier":"hot"
-      }
-   ],
-   "grants":[
-      {
-         "id":"10.13039/100000001::0327513"
-      },
-      {
-         "id":"10.13039/100000001::0752606"
-      },
-      {
-         "id":"10.13039/100000001::0926766"
-      },
-      {
-         "id":"10.13039/100000001::1260164"
-      },
-      {
-         "id":"10.13039/100000001::1756517"
-      }
-   ],
+  "title": "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16",
+  "description": "In 2003, Robert Weller (Woods Hole Oceanographic Institution [WHOI]), Albert Plueddemann (WHOI),and Roger Lukas (the University of Hawaii [UH]) proposed to establish a long-term surface mooring at the Hawaii Ocean Time-series (HOT) Station ALOHA (22°45’N, 158°W) to provide sustained, high-quality air-sea fluxes and the associated upper ocean response as a coordinated part of the HOT program, and as an element of the global array of ocean reference stations supported by the National Oceanic and Atmospheric Administration’s (NOAA) Office of Climate Observation. The WHOTS-16 mooring was deployed on October 6, 2019, during an eight-day cruise (WHOTS-16 cruise) and was recovered on August 28, 2021, during an eight-day cruise (WHOTS-17 cruise). The cruises were aboard the NOAA Oscar Sette. The seventeenth mooring was deployed on August 26, 2021, during the WHOTS-17 cruise and was recovered on July 25, 2022. This report documents and describes the oceanographic observations made on the WHOTS-16 mooring for nearly one year and ten months and from shipboard measurements during the two cruises when the mooring was deployed and recovered. Sections II and III include a detailed description of the cruises and the mooring, respectively. Sampling and processing procedures of the hydrographic casts, thermosalinograph, and shipboard ADCP data collected during these cruises are described in Section IV . Section V includes the processing procedures for the data collected by the moored instruments: SeaCATs, MicroCATs, Moored ADCPs and VMCM. Plots of the resulting data and preliminary analysis are presented in Section VI.",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2022-10-30",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "eng",
+  "keywords": [
+    "WHOTS",
+    "HOT",
+    "Hawaii Ocean Time-series",
+    "OceanSITES",
+    "WHOTS Mooring",
+    "WHOTS-16 Data Report",
+    "Oceanography",
+    "timeseries",
+    "physical oceanography"
+  ],
+  "version": "0.0.9",
+  "doi": "10.5281/zenodo.7259290",
+  "communities": [
+    {
+      "identifier": "hot"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/100000001::0327513"
+    },
+    {
+      "id": "10.13039/100000001::0752606"
+    },
+    {
+      "id": "10.13039/100000001::0926766"
+    },
+    {
+      "id": "10.13039/100000001::1260164"
+    },
+    {
+      "id": "10.13039/100000001::1756517"
+    }
+  ],
   "related_identifiers": [
-        {
-           "scheme": "url",
-           "identifier": "http://whots16-data-report.readthedocs.io/",
-           "relation": "isDocumentedBy",
-           "resource_type": "publication-softwaredocumentation"
-        },
-        {
-           "scheme": "url",
-           "identifier": "http://tds0.ifremer.fr/thredds/catalog/CORIOLIS-OCEANSITES-GDAC-OBS/DATA/WHOTS/catalog.html",
-           "relation": "isPartOf",
-           "resource_type": "dataset"
-        }
-    ],
-   "creators":[
-      {
-         "name":"Carvalho Pacheco, Fernando",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa",
-         "orcid":"https://orcid.org/0000-0002-0376-5338"
-      },
-      {
-         "name":"Santiago-Mandujano, Fernando",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa"
-      },
-      {
-         "name":"Plueddemann, Albert J.",
-         "affiliation":" Woods Hole Oceanographic Institution - Woods Hole, MA",
-         "orcid":"https://orcid.org/0000-0003-0228-9795"
-      },
-      {
-         "name":"Weller, Robert A.",
-         "affiliation":" Woods Hole Oceanographic Institution - Woods Hole, MA",
-         "orcid":"https://orcid.org/0000-0001-8001-6886"
-      },
-      {
-         "name":"Potemra, James T.",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa",
-         "orcid":"https://orcid.org/0000-0002-2515-6402"
-      },
-      {
-         "name":"Fitzgerald, Daniel",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa"
-      },
-      {
-         "name":"Galbraith, Nancy R.",
-         "affiliation":" Woods Hole Oceanographic Institution - Woods Hole, MA"
-      }
-   ],
-   "contributors":[
-      {
-         "type":"Other",
-         "name":"Maloney, Kelsey",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa"
-      },
-      {
-         "type":"Researcher",
-         "name":"Rohrer, Tully",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa",
-         "orcid":"https://orcid.org/0000-0003-4720-0678"
-      },
-      {
-         "type":"Researcher",
-         "name":"Tabata, Ryan",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa",
-         "orcid":"https://orcid.org/0000-0001-5735-0309"
-      },
-      {
-         "type":"Researcher",
-         "name":"Tabata, Ryan",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa",
-         "orcid":"https://orcid.org/0000-0001-5735-0309"
-      },
-      {
-         "type":"Other",
-         "name":"Howins, Noah",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa",
-         "orcid":"https://orcid.org/0000-0001-5735-0309"
-      },
-      {
-         "type":"Other",
-         "name":"Harris, James",
-         "affiliation":" University of Hawaiʻi at Mānoa - UH Manoa"
-      },
-      {
-         "type":"ResearchGroup",
-         "name":"Upper Ocean Processes Group (UOP)",
-         "affiliation":" Woods Hole Oceanographic Institution - Woods Hole, MA"
-      },
-      {
-         "type":"HostingInstitution",
-         "name":" Woods Hole Oceanographic Institution"
-      },
-      {
-         "type":"Sponsor",
-         "name":" Ocean Observing and Monitoring Division, Climate Program Office"
-      },
-      {
-         "type":"Sponsor",
-         "name":" National Oceanic and Atmospheric Administration"
-      },
-      {
-         "type":"Sponsor",
-         "name":" U.S. Department of Commerce"
-      },
-      {
-         "type":"Sponsor",
-         "name":" National Science Foundation"
-      }
-   ]
+    {
+      "scheme": "url",
+      "identifier": "http://whots16-data-report.readthedocs.io/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "http://tds0.ifremer.fr/thredds/catalog/CORIOLIS-OCEANSITES-GDAC-OBS/DATA/WHOTS/catalog.html",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Carvalho Pacheco, Fernando",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa",
+      "orcid": "https://orcid.org/0000-0002-0376-5338"
+    },
+    {
+      "name": "Santiago-Mandujano, Fernando",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa"
+    },
+    {
+      "name": "Plueddemann, Albert J.",
+      "affiliation": " Woods Hole Oceanographic Institution - Woods Hole, MA",
+      "orcid": "https://orcid.org/0000-0003-0228-9795"
+    },
+    {
+      "name": "Weller, Robert A.",
+      "affiliation": " Woods Hole Oceanographic Institution - Woods Hole, MA",
+      "orcid": "https://orcid.org/0000-0001-8001-6886"
+    },
+    {
+      "name": "Potemra, James T.",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa",
+      "orcid": "https://orcid.org/0000-0002-2515-6402"
+    },
+    {
+      "name": "Fitzgerald, Daniel",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa"
+    },
+    {
+      "name": "Galbraith, Nancy R.",
+      "affiliation": " Woods Hole Oceanographic Institution - Woods Hole, MA"
+    }
+  ],
+  "contributors": [
+    {
+      "type": "Other",
+      "name": "Maloney, Kelsey",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa"
+    },
+    {
+      "type": "Researcher",
+      "name": "Rohrer, Tully",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa",
+      "orcid": "https://orcid.org/0000-0003-4720-0678"
+    },
+    {
+      "type": "Researcher",
+      "name": "Tabata, Ryan",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa",
+      "orcid": "https://orcid.org/0000-0001-5735-0309"
+    },
+    {
+      "type": "Researcher",
+      "name": "Tabata, Ryan",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa",
+      "orcid": "https://orcid.org/0000-0001-5735-0309"
+    },
+    {
+      "type": "Other",
+      "name": "Howins, Noah",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa",
+      "orcid": "https://orcid.org/0000-0001-5735-0309"
+    },
+    {
+      "type": "Other",
+      "name": "Harris, James",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa"
+    },
+    {
+      "type": "ResearchGroup",
+      "name": "Upper Ocean Processes Group (UOP)",
+      "affiliation": " Woods Hole Oceanographic Institution - Woods Hole, MA"
+    },
+    {
+      "type": "HostingInstitution",
+      "name": " Woods Hole Oceanographic Institution"
+    },
+    {
+      "type": "Sponsor",
+      "name": " Ocean Observing and Monitoring Division, Climate Program Office"
+    },
+    {
+      "type": "Sponsor",
+      "name": " National Oceanic and Atmospheric Administration"
+    },
+    {
+      "type": "Sponsor",
+      "name": " U.S. Department of Commerce"
+    },
+    {
+      "type": "Sponsor",
+      "name": " National Science Foundation"
+    }
+  ]
 }
