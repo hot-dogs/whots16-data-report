@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/477206562.svg)](https://zenodo.org/badge/latestdoi/477206562)
 [![CITATION.cff](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
-
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 #  Woods Hole - Hawaii Ocean Time-series Site 
 
 [*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
