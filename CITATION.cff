@@ -130,7 +130,7 @@ Hawaii for the Hawaii Ocean Time-series."
       description: The concept DOI of the work
     - type: doi
       value: "10.5281/zenodo.10.5281/zenodo.7262282"
-      description: The versioned DOI for version v0.0.13 of the work.
+      description: The versioned DOI of this work.
 
 references:
   - type: grant
