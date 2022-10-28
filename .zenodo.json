@@ -18,8 +18,8 @@
     "timeseries",
     "physical oceanography"
   ],
-  "version": "0.0.10",
-  "prereserve_doi" : true,
+  "version": "0.0.12",
+  "doi": "10.5281/zenodo.7262282",
   "communities": [
     {
       "identifier": "hot"
@@ -47,6 +47,16 @@
         "scheme": "url",
         "identifier": "https://github.com/hot-dogs/whots16-data-report/",
         "relation": "isSupplementTo"
+      },
+      {
+        "scheme": "doi",
+        "identifier": "10.5281/zenodo.7259289",
+        "relation": "isPartOf"
+      },
+      {
+        "scheme": "doi",
+        "identifier": "10.5281/zenodo.7259289",
+        "relation": "isVersionOf"
       },
     {
       "scheme": "url",

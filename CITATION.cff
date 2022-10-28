@@ -21,7 +21,7 @@ authors:
     family-names: Weller
     email: rweller@whoi.edu
     orcid: 'https://orcid.org/0000-0001-8001-6886'
-    affiliation:  Woods Hole Oceanographic Institution - Woods Hole, MA
+    affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
   - given-names: James T.
     family-names: Potemra
     email: jimp@hawaii.edu
@@ -55,41 +55,42 @@ keywords:
 repository-code: https://github.com/hot-dogs/whots16-data-report
 repository-artifact: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
+doi: 10.5281/zenodo.7262282
 preferred-citation:
   type: report
   authors:
-  - given-names: Fernando
-    family-names: Carvalho Pacheco
-    email: fernando.pacheco@hawaii.edu
-    affiliation: University of Hawaiʻi at Mānoa - UH Manoa
-    orcid: 'https://orcid.org/0000-0002-0376-5338'
-  - given-names: Fernando
-    family-names: Santiago-Mandujano
-    email: santiago@hawaii.edu
-    affiliation: University of Hawaiʻi at Mānoa - UH Manoa
-  - given-names: Albert J.
-    family-names: Plueddemann
-    affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
-    email: aplueddemann@whoi.edu
-    orcid: 'https://orcid.org/0000-0003-0228-9795'
-  - given-names: Robert A.
-    family-names: Weller
-    email: rweller@whoi.edu
-    orcid: 'https://orcid.org/0000-0001-8001-6886'
-    affiliation:  Woods Hole Oceanographic Institution - Woods Hole, MA
-  - given-names: James T.
-    family-names: Potemra
-    email: jimp@hawaii.edu
-    affiliation: University of Hawaiʻi at Mānoa - UH Manoa
-    orcid: 'https://orcid.org/0000-0002-2515-6402'
-  - given-names: Daniel
-    family-names: Fitzgerald
-    email: danfitz@hawaii.edu
-    affiliation: University of Hawaiʻi at Mānoa - UH Manoa
-  - given-names: Nancy R.
-    email: ngalbraith@whoi.edu
-    family-names: Galbraith
-    affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
+    - given-names: Fernando
+      family-names: Carvalho Pacheco
+      email: fernando.pacheco@hawaii.edu
+      affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+      orcid: 'https://orcid.org/0000-0002-0376-5338'
+    - given-names: Fernando
+      family-names: Santiago-Mandujano
+      email: santiago@hawaii.edu
+      affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+    - given-names: Albert J.
+      family-names: Plueddemann
+      affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
+      email: aplueddemann@whoi.edu
+      orcid: 'https://orcid.org/0000-0003-0228-9795'
+    - given-names: Robert A.
+      family-names: Weller
+      email: rweller@whoi.edu
+      orcid: 'https://orcid.org/0000-0001-8001-6886'
+      affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
+    - given-names: James T.
+      family-names: Potemra
+      email: jimp@hawaii.edu
+      affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+      orcid: 'https://orcid.org/0000-0002-2515-6402'
+    - given-names: Daniel
+      family-names: Fitzgerald
+      email: danfitz@hawaii.edu
+      affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+    - given-names: Nancy R.
+      email: ngalbraith@whoi.edu
+      family-names: Galbraith
+      affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
   start: 1
   end: 128
   pages: 128
@@ -127,7 +128,9 @@ Hawaii for the Hawaii Ocean Time-series."
     - type: doi
       value: "10.5281/zenodo.7259289"
       description: The concept DOI of the work
-
+    - type: doi
+      value: "10.5281/zenodo.10.5281/zenodo.7262282"
+      description: The versioned DOI for version v0.0.12 of the work.
 
 references:
   - type: grant
