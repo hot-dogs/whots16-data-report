@@ -41,6 +41,35 @@
       "id": "10.13039/100000001::1756517"
     }
   ],
+  "related_identifiers": [
+      {
+        "scheme": "url",
+        "identifier": "https://github.com/hot-dogs/whots16-data-report/",
+        "relation": "isSupplementTo"
+      },
+      {
+        "scheme": "doi",
+        "identifier": "10.5281/zenodo.7259289",
+        "relation": "isPartOf"
+      },
+      {
+        "scheme": "doi",
+        "identifier": "10.5281/zenodo.7259289",
+        "relation": "isVersionOf"
+      },
+    {
+      "scheme": "url",
+      "identifier": "http://whots16-data-report.readthedocs.io/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "http://tds0.ifremer.fr/thredds/catalog/CORIOLIS-OCEANSITES-GDAC-OBS/DATA/WHOTS/catalog.html",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    }
+  ],
   "creators": [
     {
       "name": "Carvalho Pacheco, Fernando",
