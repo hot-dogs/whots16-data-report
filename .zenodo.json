@@ -18,6 +18,7 @@
     "timeseries",
     "physical oceanography"
   ],
+  "doi": "10.5072/zenodo.1124545",
   "version": "0.0.7",
   "communities": [
     {
@@ -203,3 +204,5 @@
     }
   ]
 }
+
+
