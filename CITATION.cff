@@ -55,7 +55,7 @@ keywords:
 repository-code: https://github.com/hot-dogs/whots16-data-report
 repository-artifact: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
-#doi: 10.5281/zenodo.7262282
+doi: 10.5072/zenodo.1124545
 preferred-citation:
   type: report
   authors:
@@ -106,32 +106,20 @@ preferred-citation:
   date-released: 2022-10-30
   #number: 11186
   license: CC-BY-4.0
-  collection-doi: 10.5281/zenodo.7259289
+  #collection-doi: 10.5281/zenodo.7259289
   url: http://whots16-data-report.readthedocs.io/
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
-  notes: "This publication is based upon observations from the WHOI-Hawaii Ocean
-Time-series Site (WHOTS) mooring, which is supported in part by the National
-Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)) Global
-Ocean Monitoring and Observing ([GOMO](https://globalocean.noaa.gov/)) Program
-through the Cooperative Institute for the North Atlantic
-Region ([CINAR](https://website.whoi.edu/cinar/)) under Cooperative Agreement
-NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole
-Oceanographic Institution, and by National Science Foundation grants
-[OCE-0327513](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0327513),
-[OCE-0752606](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0752606&HistoricalAwards=false),
-[OCE-0926766](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0926766&HistoricalAwards=false),
-[OCE-1260164](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1260164&HistoricalAwards=false) and
-[OCE-1756517](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1756517&HistoricalAwards=false) to the University of 
-Hawaii for the Hawaii Ocean Time-series."
+  notes: "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, 
+  which is supported in part by the National Oceanic and Atmospheric Administration (NOAA) Global Ocean Monitoring and 
+  Observing (GOMO) Program through the Cooperative Institute for the North Atlantic Region (CINAR) under Cooperative 
+  Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by 
+  National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University 
+  of Hawaii for the Hawaii Ocean Time-series."
   identifiers:
     - type: doi
       value: "10.5281/zenodo.7259289"
       description: The concept DOI of the work
-    - type: doi
-      value: "10.5281/zenodo.10.5281/zenodo.7262282"
-      description: The versioned DOI of this work.
-
 references:
   - type: grant
     authors:
