@@ -55,7 +55,8 @@ keywords:
 repository-code: https://github.com/hot-dogs/whots16-data-report
 repository-artifact: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
-doi: 10.5072/zenodo.1124560
+version: 0.0.7
+doi: 10.5072/zenodo.1124455
 preferred-citation:
   type: report
   authors:
@@ -116,10 +117,10 @@ preferred-citation:
   Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by 
   National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University 
   of Hawaii for the Hawaii Ocean Time-series."
-  identifiers:
-    - type: doi
-      value: "10.5281/zenodo.7259289"
-      description: The concept DOI of the work
+  #identifiers:
+  #  - type: doi
+  #    value: "10.5281/zenodo.7259289"
+  #    description: The concept DOI of the work
 references:
   - type: grant
     authors:
