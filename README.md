@@ -3,7 +3,7 @@
 
 
 [![Documentation Status](https://readthedocs.org/projects/whots16-data-report/badge/?version=latest)](https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/?badge=latest)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7259289.svg)](https://zenodo.org/badge/doi/10.5281/zenodo.7259289.svg)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7259289.svg)](https://doi.org/10.5281/zenodo.7259289)
 [![CITATION.cff](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
