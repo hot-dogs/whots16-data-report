@@ -108,6 +108,8 @@ preferred-citation:
   license: CC-BY-4.0
   collection-doi: 10.5281/zenodo.7259289
   url: http://whots16-data-report.readthedocs.io/
+  doi: 10.5281/zenodo.7259289
+  version: 0.0.8
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
   notes: "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, 
