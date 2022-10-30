@@ -55,7 +55,7 @@ keywords:
 repository-code: https://github.com/hot-dogs/whots16-data-report
 repository-artifact: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
-doi: 10.5072/zenodo.1124545
+doi: 10.5072/zenodo.1124560
 preferred-citation:
   type: report
   authors:
