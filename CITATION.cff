@@ -55,7 +55,7 @@ keywords:
 repository-code: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
 version: 0.0.8
-doi: 10.5072/zenodo.1124455
+doi: 10.5281/zenodo.7259289
 preferred-citation:
   type: report
   authors:
@@ -106,7 +106,7 @@ preferred-citation:
   date-released: 2022-10-30
   #number: 11186
   license: CC-BY-4.0
-  collection-doi: 10.5072/zenodo.1124455
+  collection-doi: 10.5281/zenodo.7259289
   url: http://whots16-data-report.readthedocs.io/
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
@@ -118,7 +118,7 @@ preferred-citation:
   of Hawaii for the Hawaii Ocean Time-series."
   identifiers:
     - type: doi
-      value: "10.5072/zenodo.1124455"
+      value: "10.5281/zenodo.7259289"
       description: The concept DOI of the work
 references:
   - type: grant
