@@ -18,8 +18,8 @@
     "timeseries",
     "physical oceanography"
   ],
-  "doi": "10.5072/zenodo.1124545",
   "version": "0.0.7",
+  "notes": "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, which is supported in part by the National Oceanic and Atmospheric Administration (NOAA) Global Ocean Monitoring and Observing (GOMO) Program through the Cooperative Institute for the North Atlantic Region (CINAR) under Cooperative Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University of Hawaii for the Hawaii Ocean Time-series.",
   "communities": [
     {
       "identifier": "hot"
@@ -60,25 +60,25 @@
     {
       "scheme": "url",
       "identifier": "http://tds0.ifremer.fr/thredds/catalog/CORIOLIS-OCEANSITES-GDAC-OBS/DATA/WHOTS/catalog.html",
-      "relation": "References",
+      "relation": "references",
       "resource_type": "dataset"
     },
     {
       "scheme": "url",
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/wh16",
-      "relation": "References",
+      "relation": "references",
       "resource_type": "dataset"
     },
     {
       "scheme": "url",
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/whots_cruises/wh16_cruise",
-      "relation": "References",
+      "relation": "references",
       "resource_type": "dataset"
     },
     {
       "scheme": "url",
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/whots_cruises/wh17_cruise",
-      "relation": "References",
+      "relation": "references",
       "resource_type": "dataset"
     }
   ],
@@ -177,6 +177,11 @@
       "type": "ResearchGroup",
       "name": "Upper Ocean Processes Group (UOP)",
       "affiliation": " Woods Hole Oceanographic Institution - Woods Hole, MA"
+    },
+    {
+      "type": "ResearchGroup",
+      "name": "Hawaii Ocean Time-series (HOT)",
+      "affiliation": " University of Hawaiʻi at Mānoa - UH Manoa"
     },
     {
       "type": "HostingInstitution",
