@@ -55,7 +55,7 @@ data and preliminary analysis ar presented in [Section VI](https://whots-annual-
 
 - `APA`
 ```
-Carvalho Pacheco, F., Santiago-Mandujano, F., Plueddemann, A. J., Weller, R. A., Potemra, J. T., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16 (Version 0.0.8). School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7259289
+Carvalho Pacheco, F., Santiago-Mandujano, F., Plueddemann, A. J., Weller, R. A., Potemra, J. T., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7259289
 ```
 
 - `Bibtex`

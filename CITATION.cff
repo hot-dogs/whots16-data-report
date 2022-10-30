@@ -54,7 +54,6 @@ keywords:
   - physical oceanography
 repository-code: https://github.com/hot-dogs/whots16-data-report
 url: http://whots16-data-report.readthedocs.io/
-version: 0.0.8
 doi: 10.5281/zenodo.7259289
 preferred-citation:
   type: report
@@ -109,7 +108,6 @@ preferred-citation:
   collection-doi: 10.5281/zenodo.7259289
   url: http://whots16-data-report.readthedocs.io/
   doi: 10.5281/zenodo.7259289
-  version: 0.0.8
   publisher:
     name: "School of Ocean and Earth Science and Technology (SOEST)"
   notes: "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, 
