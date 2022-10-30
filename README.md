@@ -97,7 +97,7 @@ to the University of Hawaii for the Hawaii Ocean Time-series.
 ```bibtex
 @techreport{Carvalho_Pacheco_Hydrographic_Observations_at_2022,
 author = {Carvalho Pacheco, Fernando and Santiago-Mandujano, Fernando and Plueddemann, Albert J. and Weller, Robert A. and Potemra, James T. and Fitzgerald, Daniel and Galbraith, Nancy R.},
-doi = {10.5281/zenodo.xxxx},
+doi = {10.5072/zenodo.1124560},
 institution = {School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI},
 title = {{Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16}},
 url = {http://whots16-data-report.readthedocs.io/},
