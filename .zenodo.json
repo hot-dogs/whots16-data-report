@@ -60,25 +60,25 @@
     {
       "scheme": "url",
       "identifier": "http://tds0.ifremer.fr/thredds/catalog/CORIOLIS-OCEANSITES-GDAC-OBS/DATA/WHOTS/catalog.html",
-      "relation": "references",
+      "relation": "isSupplementedBy",
       "resource_type": "dataset"
     },
     {
       "scheme": "url",
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/wh16",
-      "relation": "references",
+      "relation": "isSupplementedBy",
       "resource_type": "dataset"
     },
     {
       "scheme": "url",
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/whots_cruises/wh16_cruise",
-      "relation": "references",
+      "relation": "isSupplementedBy",
       "resource_type": "dataset"
     },
     {
       "scheme": "url",
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/whots_cruises/wh17_cruise",
-      "relation": "references",
+      "relation": "isSupplementedBy",
       "resource_type": "dataset"
     }
   ],
