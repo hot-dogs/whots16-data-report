@@ -10,7 +10,7 @@
 
 ## Documentation 
 [*Hydrographic observations at the Woods Hole Oceanographic Institution Hawaii
-Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16*](http://whots16-data-report.readthedocs.io/)
+Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16*](http://whots16-data-report.readthedocs.io/)
 
 ## Abstract
 
