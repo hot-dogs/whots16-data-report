@@ -130,7 +130,7 @@ cruise.
 :name: figure6.1
 
 [Upper left panel] Profiles of CTD temperature, salinity, and potential
-density ($\sigma\theta$) as a function of pressure, including discrete 
+density ({math}`\sigma\theta`) as a function of pressure, including discrete 
 bottle salinity samples (when available) for station 20 cast 1 during the 
 WHOTS-16 cruise. [Upper right panel] Profiles of CTD salinity as a function 
 of potential temperature, including discrete bottle salinity samples (when 
@@ -185,7 +185,7 @@ panels] Same as in {numref}`figure6.1`, but for station 52, cast 4.
 :name: figure6.6
 
 [Upper left panel] Profiles of CTD temperature, salinity, and potential
-density ($\sigma\theta$) as a function of pressure, including discrete 
+density ({math}`\sigma\theta`) as a function of pressure, including discrete 
 bottle salinity samples (when available) for station 2 cast 1 during the 
 WHOTS-17 cruise. [Upper right panel] Profiles of CTD salinity as a function 
 of potential temperature, including discrete bottle salinity samples (when 
@@ -255,7 +255,7 @@ problems, and the flow through the system was stopped during that time.
 :name: ac39thsl_final.png
 
 Final processed temperature (upper panel), salinity (middle panel), and
-potential density ($\sigma\theta$) (lower panel) data from the continuous 
+potential density ({math}`\sigma\theta`) (lower panel) data from the continuous 
 underway system onboard the R/V Hi’ialakai during the WHOTS-16 cruise. 
 Temperature and salinity taken from 6-dbar CTD data (circles) and salinity 
 bottle sample data (crosses) are superimposed. The dashed vertical red line 
@@ -278,7 +278,7 @@ speed (lower panel) during the WHOTS-16 cruise.
 :name: ac40thsl_final.png
 
 Final processed temperature (upper panel), salinity (middle panel), and
-potential density ($\sigma\theta$) (lower panel) data from the continuous underway system
+potential density ({math}`\sigma\theta`) (lower panel) data from the continuous underway system
 onboard the R/V Oscar Sette during the WHOTS-17 cruise. Temperature and
 salinity were taken from 6-dbar CTD data (circles), and salinity bottle sample
 data (crosses) are superimposed. The dashed vertical red line indicates the
@@ -416,7 +416,7 @@ Same as in {numref}`wh16_Sali_1_4.png`, but at 4713 m.
 :height: 1000px
 :align: center
 :name: wh16_Sigma_1_4.png
-Potential densities ($\sigma\theta$) from MicroCATs during WHOTS-16 deployment at 1.5, 7,
+Potential densities ({math}`\sigma\theta`) from MicroCATs during WHOTS-16 deployment at 1.5, 7,
 15, and 25 m.
 ```
 
@@ -475,7 +475,7 @@ the depths of the instrument.
 :height: 1000px
 :align: center
 :name: w1_16_contSt.png
-Contour plots of potential density ($\sigma\theta$), versus depth from SeaCATs/MicroCATs 
+Contour plots of potential density ({math}`\sigma\theta`), versus depth from SeaCATs/MicroCATs 
 during WHOTS-1 through WHOTS-16 deployments. The shaded areas indicate 
 missing data. The diamonds along the right axis in the upper figure 
 indicate the depths of the instrument.
@@ -485,7 +485,7 @@ indicate the depths of the instrument.
 :height: 1000px
 :align: center
 :name: w1_16_cont_S.png
-Contour plots of salinity versus {$\sigma\theta$ from SeaCATs/MicroCATs during WHOTS-1 
+Contour plots of salinity versus {{math}`\sigma\theta` from SeaCATs/MicroCATs during WHOTS-1 
 through WHOTS-16 deployments. 
 ```
 
