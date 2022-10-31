@@ -6,7 +6,7 @@ The Woods Hole Oceanographic Institution Upper Ocean Processes Group (WHOI/UOP)
 , with the UH group's assistance, conducted the sixteenth deployment of the
 WHOTS mooring onboard the NOAA Oscar Sette during the WHOTS-16 cruise between
 October 4 and October 12, 2019. The WHOTS-16 mooring was deployed at Station 52
-on October 6, 2019, 02:12 UTC at 22° 40.096 'N, 157° 56.788 'W, and the
+on October 6, 2019, 02:12 UTC at 22°40.096 'N, 157°56.788 'W, and the
 WHOTS-15 mooring were recovered on October 8, 2019. The scientific personnel
 that participated during the cruise are listed in {numref}`table-1`.
 
@@ -115,7 +115,7 @@ glitches due to air going into the plumbing. The system had to be secured the
 last day of the cruise due to the bad weather because the system kept shutting
 down due to air going into the plumbing causing the pumps to stop working. The
 temperature differences between the internal SBE-45 and SBE-21 were between 0.2
-and 0.4 °C and the conductivity differences 17 were nearly 0.05 S/m resulting
+and 0.4°C and the conductivity differences 17 were nearly 0.05 S/m resulting
 in a salinity difference of about 0.28 g/kg. Sensor SBE-21 seems too large as
 compared to surface salinity from CTD casts conducted during the cruise. A
 diurnal cycle is apparent in the temperature and conductivity.
@@ -124,8 +124,8 @@ diurnal cycle is apparent in the temperature and conductivity.
 
 The WHOI/UOP Group conducted the mooring turnaround operations during the
 WHOTS-17 cruise between August 24, and September 1, 2021. The WHOTS-17 mooring
-was deployed at Station 50 on August 26, 2021, 03:13 UTC at 22° 46.042 'N, 157°
-53.795 'W, and the WHOTS-16 mooring was recovered on August 28, 2021, 17:52
+was deployed at Station 50 on August 26, 2021, 03:13 UTC at 22°46.042 'N, 157°53.795 'W, 
+and the WHOTS-16 mooring was recovered on August 28, 2021, 17:52
 UTC. The scientific personnel that participated during the cruise are listed in
 {numref}`table-4`.
 

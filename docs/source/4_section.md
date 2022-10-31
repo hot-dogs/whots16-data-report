@@ -185,7 +185,7 @@ against bottle data, as explained below.
 
 Daily files containing navigation data recorded every second were concatenated
 with the thermosalinograph data. The thermosalinograph data were then screened
-for gross errors, with upper and lower bounds of 18 °C and 35 °C for
+for gross errors, with upper and lower bounds of 18°C and 35°C for
 temperature and 3 and 6 Siemens m -1 for conductivity. There were 92 points
 outside the valid temperature range and no points outside the valid
 conductivity range.
@@ -193,7 +193,7 @@ conductivity range.
 A 5-point running median filter was used to detect one- or two-point
 temperature and conductivity glitches in the thermosalinograph data. Glitches
 in temperature and conductivity detected by the 5-point median filter were
-immediately replaced by the median. Threshold values of 0.3 °C for temperature
+immediately replaced by the median. Threshold values of 0.3°C for temperature
 and 0.1 Siemens m-1 for conductivity were used for the median filter. After
 running the filter, there were 13 internal temperature, 100 external 
 temperature, and 913 conductivity points replaced with the median.  
@@ -255,7 +255,7 @@ time of the casts. This comparison gives an estimate of the quality of the
 thermosalinograph measurements. Of the 11 casts, five were identified as
 temperature outliers after comparing it against the thermosalinograph data and
 removed from the analysis. The mean difference between the CTD and the internal
-temperature sensor was 0.05813 °C, with a standard deviation of ± 0.05561 °C.
+temperature sensor was 0.05813°C, with a standard deviation of ± 0.05561°C.
 
 ### WHOTS-17 Cruise
 
@@ -294,7 +294,7 @@ explained below.
 
 Daily files containing navigation data recorded every second were concatenated
 with the thermosalinograph data. The thermosalinograph data were then screened
-for gross errors, with upper and lower bounds of 18 °C and 35 °C for
+for gross errors, with upper and lower bounds of 18°C and 35°C for
 temperature and 3 and 6 Siemens m -1 for conductivity. There were 488 points
 outside the valid temperature range and no points outside the valid 
 conductivity range.
@@ -302,7 +302,7 @@ conductivity range.
 A 5-point running median filter was used to detect one- or two-point
 temperature and conductivity glitches in the thermosalinograph data. Glitches
 in temperature and conductivity detected by the 5-point median filter were
-immediately replaced by the median. Threshold values of 0.3 °C for temperature
+immediately replaced by the median. Threshold values of 0.3°C for temperature
 and 0.1 Siemens m-1 for conductivity were used for the median filter. After
 running the filter, there were 283 internal temperature, 1998 external
 temperature, and 341 conductivity points replaced by the median. A 3-point
@@ -366,8 +366,8 @@ thermosalinograph data at the time of the casts. This comparison gives an
 estimate of the quality of the thermosalinograph measurements. Of the ten
 casts, two were identified as temperature outliers after comparing it 
 against the thermosalinograph data and removed from the analysis. The mean 
-difference between the CTD and the internal temperature sensor was -0.24693 
-°C, with a standard deviation of ± 0.06747 °C.
+difference between the CTD and the internal temperature sensor was 
+-0.24693°C, with a standard deviation of ± 0.06747°C.
 
 ## Shipboard ADCP
 
