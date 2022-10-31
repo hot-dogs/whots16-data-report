@@ -55,19 +55,21 @@ data and preliminary analysis ar presented in [Section VI](https://whots-annual-
 
 - `APA`
 ```
-Carvalho Pacheco, F., Santiago-Mandujano, F., Plueddemann, A. J., Weller, R. A., Potemra, J. T., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7259289
+Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7259289
 ```
 
 - `Bibtex`
 
 ```bibtex
 @techreport{Carvalho_Pacheco_Hydrographic_Observations_at_2022,
-author = {Carvalho Pacheco, Fernando and Santiago-Mandujano, Fernando and Plueddemann, Albert J. and Weller, Robert A. and Potemra, James T. and Fitzgerald, Daniel and Galbraith, Nancy R.},
-doi = {10.5281/zenodo.7259289},
-institution = {School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI},
-title = {{Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16}},
-url = {http://whots16-data-report.readthedocs.io/},
-year = {2022}
+  author = {Carvalho Pacheco, Fernando and Santiago-Mandujano, Fernando and Potemra, James T. and Plueddemann, Albert J. and Weller, Robert A. and Fitzgerald, Daniel and Galbraith, Nancy R.},
+  doi = {10.5281/zenodo.7259289},
+  institution = {School of Ocean and Earth Science and Technology (SOEST), 
+  Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI},
+  title = {{Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16}},
+  url = {http://whots16-data-report.readthedocs.io/},
+  year = {2022},
+  note = {This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, which is supported in part by the National Oceanic and Atmospheric Administration (NOAA) Global Ocean Monitoring and Observing (GOMO) Program through the Cooperative Institute for the North Atlantic Region (CINAR) under Cooperative Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University of Hawaii for the Hawaii Ocean Time-series.}
 }
 ```
 
