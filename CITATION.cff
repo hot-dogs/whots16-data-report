@@ -12,6 +12,11 @@ authors:
     family-names: Santiago-Mandujano
     email: santiago@hawaii.edu
     affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+  - given-names: James T.
+    family-names: Potemra
+    email: jimp@hawaii.edu
+    affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+    orcid: 'https://orcid.org/0000-0002-2515-6402'
   - given-names: Albert J.
     family-names: Plueddemann
     affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
@@ -22,11 +27,6 @@ authors:
     email: rweller@whoi.edu
     orcid: 'https://orcid.org/0000-0001-8001-6886'
     affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
-  - given-names: James T.
-    family-names: Potemra
-    email: jimp@hawaii.edu
-    affiliation: University of Hawaiʻi at Mānoa - UH Manoa
-    orcid: 'https://orcid.org/0000-0002-2515-6402'
   - given-names: Daniel
     family-names: Fitzgerald
     email: danfitz@hawaii.edu
@@ -67,6 +67,11 @@ preferred-citation:
       family-names: Santiago-Mandujano
       email: santiago@hawaii.edu
       affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+    - given-names: James T.
+      family-names: Potemra
+      email: jimp@hawaii.edu
+      affiliation: University of Hawaiʻi at Mānoa - UH Manoa
+      orcid: 'https://orcid.org/0000-0002-2515-6402'
     - given-names: Albert J.
       family-names: Plueddemann
       affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
@@ -77,11 +82,6 @@ preferred-citation:
       email: rweller@whoi.edu
       orcid: 'https://orcid.org/0000-0001-8001-6886'
       affiliation: Woods Hole Oceanographic Institution - Woods Hole, MA
-    - given-names: James T.
-      family-names: Potemra
-      email: jimp@hawaii.edu
-      affiliation: University of Hawaiʻi at Mānoa - UH Manoa
-      orcid: 'https://orcid.org/0000-0002-2515-6402'
     - given-names: Daniel
       family-names: Fitzgerald
       email: danfitz@hawaii.edu
