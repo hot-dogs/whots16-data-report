@@ -126,3 +126,19 @@
 %======================================================================
 \usepackage{etoolbox}
 \patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+
+%======================================================================
+% Declare unicodes and symbols
+%======================================================================
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar,graphicx}
+\DeclareRobustCommand{\okina}{%
+  \raisebox{\dimexpr\fontcharht\font`A-\height}{%
+    \scalebox{0.8}{`}%
+  }%
+}
+\newunicodechar{ʻ}{\okina}
+
+% for °C
+\usepackage[T1]{fontenc}
+\usepackage{gensymb}
