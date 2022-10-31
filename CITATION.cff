@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16"
+title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16"
 message: "If you use this report, please cite it using the metadata from this file."
 date-released: 2022-10-30
 authors:
@@ -93,7 +93,7 @@ preferred-citation:
   start: 1
   end: 128
   pages: 128
-  title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2020, Data Report #16"
+  title: "Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16"
   year: 2022
   institution:
     name: "School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI"
