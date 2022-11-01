@@ -28,8 +28,8 @@ The original mooring system is described in the mooring deployment/recovery
 cruise reports {cite}`Plueddemann2006, Whelan2007, Whelan2008, Whelan2010`.
 
 Briefly, a Surlyn foam surface buoy is equipped with meteorological
-instrumentation, including two complete Air-Sea Interaction Meteorological (
-ASIMET) systems, measuring air and sea surface temperatures, relative humidity,
+instrumentation, including two complete Air-Sea Interaction Meteorological 
+(ASIMET) systems, measuring air and sea surface temperatures, relative humidity,
 barometric pressure, wind speed and direction, incoming shortwave and longwave
 radiation, and precipitation {cite}`Hosom1995, Colbo2009`. Complete surface
 meteorological measurements are recorded every minute, as required to compute
