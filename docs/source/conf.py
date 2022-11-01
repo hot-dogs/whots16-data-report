@@ -88,9 +88,12 @@ html_static_path = ['_static']
 
 html_theme_options = {
     "repository_url": "https://github.com/hot-dogs/whots16-data-report",
+    "repository_branch": "main",
+    "path_to_docs": "docs/source/",
     "use_repository_button": True,
     "use_issues_button": True,
     "home_page_in_toc": False,
+    "use_edit_page_button": True,
 }
 
 # -- Options for LaTeX output ---------------------------------------------
