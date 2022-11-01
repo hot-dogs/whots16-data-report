@@ -1,15 +1,5 @@
-```{eval-rst}
-.. raw:: latex
+# References
 
-   \cleardoublepage
-   \begingroup
-   \renewcommand\chapter[1]{\endgroup}
-   \phantomsection
-
-.. _refs:
-
-References
-==========
-
-.. bibliography::
+```{bibliography}
+:style: unsrt
 ```
