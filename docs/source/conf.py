@@ -39,10 +39,10 @@ extensions = [
 ]
 
 bibtex_bibfiles = ['latex_templates/refs.bib']
-bibtex_default_style = 'plain'
+bibtex_default_style = 'unsrt'
 bibtex_reference_style = 'author_year'
 
-myst_url_schemes = ["http", "https", ]
+myst_url_schemes = ["http", "https"]
 
 # Added cross reference for headings
 myst_heading_anchors = 3
