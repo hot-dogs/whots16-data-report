@@ -255,7 +255,7 @@ time of the casts. This comparison gives an estimate of the quality of the
 thermosalinograph measurements. Of the 11 casts, five were identified as
 temperature outliers after comparing it against the thermosalinograph data and
 removed from the analysis. The mean difference between the CTD and the internal
-temperature sensor was 0.05813°C, with a standard deviation of ± 0.05561°C.
+temperature sensor was 0.058°C, with a standard deviation of ± 0.056°C.
 
 ### WHOTS-17 Cruise
 
@@ -353,8 +353,8 @@ Salinity was calculated using these corrected conductivities, the
 thermosalinograph temperatures, and ten dbar pressure. After applying
 corrections, the mean difference between the bottle and thermosalinograph
 salinities was less than 1 mpsu with a standard deviation of 0.000662 psu. The 
-mean CTD - thermosalinograph difference was -0.000178 psu with a standard 
-deviation of 0.001237 psu.
+mean CTD - thermosalinograph difference was -0.00018 psu with a standard 
+deviation of 0.00124 psu.
 
 #### CTD Temperature Comparisons
 
@@ -367,7 +367,7 @@ estimate of the quality of the thermosalinograph measurements. Of the ten
 casts, two were identified as temperature outliers after comparing it 
 against the thermosalinograph data and removed from the analysis. The mean 
 difference between the CTD and the internal temperature sensor was 
--0.24693°C, with a standard deviation of ± 0.06747°C.
+-0.247°C, with a standard deviation of ± 0.067°C.
 
 ## Shipboard ADCP
 
