@@ -3,10 +3,12 @@
 The WHOTS-16 mooring, deployed on October 6, 2019, from NOAA’s Ship NOAA Oscar
 Sette, was outfitted with two complete sets of Air-Sea Interaction
 Meteorological (ASIMET) sensors on the buoy and underneath subsurface
-instruments from 7 to 155 m depth and near the bottom. See
+instruments from 7 to 155 m depth, at 1875 m and near the bottom. See
 {cite}`Santiago-Mandujano2021, Santiago-Mandujano2022` for a complete
-description of the buoy. The WHOTS-16 recovery on August 28, 2021, resulted in
-about 692 days on station.
+description of the buoy. The mooring could not be recovered in 2020 as 
+originally planned due to ship availability and restrictions related to the 
+COVID-19 pandemic. The WHOTS-16 recovery on August 28, 2021, resulted in
+about 692 days on station. 
 
 The buoy tower also contains a radar reflector, two marine lanterns, and
 Iridium satellite transmission systems that provide continuous buoy position
@@ -47,9 +49,9 @@ Microcats, and two upward-looking RDI Workhorse ADCPs, transmitting in 300 kHz
 and 600 kHz,respectively. The Microcats all measured temperature and
 conductivity, with ten of them measuring pressure. All MicroCATs were deployed
 with antifoulant capsules. In addition to the buoy instrumentation, WHOI
-provided two Vector Measuring Current Meters (VMCMs), two deep Microcats (
-SBE-37) installed near the bottom of the mooring, and all required subsurface
-mooring hardware.
+provided two Vector Measuring Current Meters (VMCMs), four deep Microcats (
+SBE-37) installed at 1875 m and near the bottom of the mooring, and all 
+required subsurface mooring hardware.
 
 The {numref}`mooring_subsurface` provides a listing of the WHOTS-16 subsurface
 instrumentation at their nominal depths on the mooring, along with serial
@@ -164,9 +166,7 @@ All WHOTS-16 instruments were successfully recovered; recovery information for
 the C-T instruments is shown in {numref}`table-8`. Most of the instruments had
 some degree of biofouling, with the most substantial fouling near the surface.
 The fouling extended down to the ADCP at 125 m, although it was minor at that
-level. The 600 kHz ADCP (47.5 m) was recovered with its battery wire cut and
-separated from the rest of the instrument, which stopped logging data on 
-January 21, 2020.
+level. 
 
 All MicroCATs were in good condition after recovery, although with more
 biofouling than usual given that they were in the water for nearly 2 years.
@@ -188,6 +188,6 @@ The data from the upward-looking 300 kHz ADCP at 125 m were good; the
 instrument was not pinging upon recovery and the data record indicates that it
 stopped recording on July 6, 2021. There appears to be no obviously
 questionable data from this ADCP at this time, apart from near-surface
-side-lobe interference. The 600 kHz instrument was recovered with its battery
+side-lobe interference. The 600 kHz instrument (47.5 m) was recovered with its battery
 wire cut and separated from the instrument. The data record indicates that it
 stopped recording on January 21, 2020.
