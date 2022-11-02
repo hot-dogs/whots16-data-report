@@ -36,8 +36,8 @@ procedures are described in this section.
 |     **120**      |  6890  | 12-Dec-18 | 10-Nov-21 |      -0.04      |
 |     **135**      |  6888  | 19-Dec-18 | 10-Nov-21 |      -0.54      |
 |     **155**      |  6891  | 19-Dec-18 | 10-Nov-21 |      -0.1       |
-|     **4658**     |  3639  | 15-Jun-16 | 27-Feb-22 |      -0.07      |
-|     **4658**     | 12242  | 25-May-14 | 25-Feb-22 |      -0.39      |
+|     **1875**     |  3639  | 15-Jun-16 | 27-Feb-22 |      -0.07      |
+|     **1875**     | 12242  | 25-May-14 | 25-Feb-22 |      -0.39      |
 |     **4713**     | 11391  | 7-Dec-13  | 10-Mar-22 |      -0.56      |
 |     **4713**     | 12241  | 23-May-14 | 25-Feb-22 |      -1.01      |
 ```
@@ -47,8 +47,10 @@ procedures are described in this section.
 Before the WHOTS-16 mooring deployment and after its recovery (before the data
 logging was stopped), the MicroCATs temperature sensors were placed in contact
 with an ice pack to create a spike in the data, to check for any problems with
-their internal clocks, and for possible missing samples ({numref}`table-8`).
-The cold spike was detected by a sudden decrease in temperature. For all the
+their internal clocks, and for possible missing samples ({numref}`table-8`). 
+However, it was found after recovery that all the instruments had stopped logging data 
+due to battery drainage, except for the deep instruments.
+The cold spike before deployment was detected by a sudden decrease in temperature. For all the
 instruments, the clock time of this event matched the time of the spike (within
 the sampling interval of each instrument) correctly. No missing samples were
 detected for any of the devices.
@@ -58,11 +60,15 @@ detected for any of the devices.
 Some MicroCATs used in the moorings were outfitted with pressure sensors (
 {numref}`mooring_subsurface`). Biases were detected in the pressure sensors by
 comparing the on-deck pressure readings (which should be zero for standard
-atmospheric pressure at sea level of 1029 mbar) before deployment and recovery.
+atmospheric pressure at sea level of 1029 mbar) before deployment and after recovery.
 {numref}`table-15` shows the magnitude of the bias for each of the sensors
 before and after deployment. To correct this offset, a linear fit between the
 initial and final on-deck pressure offset as a function of time was obtained
-and subtracted from each sensor. {numref}`figure5.1` shows the linearly
+and subtracted from each sensor. Only three of the deep instruments registered
+on-deck pressure after recovery, all other instruments stopped recording data
+before recovery due to battery drainage. For these last instruments only a  
+before-deployment pressure bias correction was applied.
+{numref}`figure5.1` shows the linearly
 corrected pressures measured by the MicroCATs located above 200 m during the
 WHOTS-16 deployment. For all these sensors, the mean difference from the
 nominal instrument pressure (based on the deployed depth) was less than 1.2
@@ -88,8 +94,8 @@ position {cite}`Santiago-Mandujano2007`.
 |    **120**    |  6890  |     0.11      |      NA       |
 |    **135**    |  6888  |     0.12      |      NA       |
 |    **155**    |  6891  |     0.07      |      NA       |
-|   **4658**    |  3639  |     -0.04     |      NA       |
-|   **4658**    | 12242  |      0.1      |      0.9      |
+|   **1875**    |  3639  |     -0.04     |      NA       |
+|   **1875**    | 12242  |      0.1      |      0.9      |
 |   **4713**    | 11391  |      0.5      |       2       |
 |   **4713**    | 12241  |      0.4      |      1.5      |
 ```
@@ -237,9 +243,8 @@ and 5 km from the mooring during HOT cruises. The conductivity offsets are not
 apparent, and there may have been multiple causes ( see {cite}`Freitag1999`
 for a similar experience with conductivity cells during COARE). For some
 instruments, the offset was negative, caused perhaps by biofouling of the
-conductivity cell. In contrast, for others, the offset was positive, possibly
-caused by scouring the inside of the conductivity cell (by the instrument's
-continuous up and down motion in an abundant field of diatoms). A visual
+conductivity cell. In contrast, for others, the offset was positive, for 
+reasons still unknown. A visual
 inspection of the instruments after recovery did not show any apparent signs of
 biofouling. There were no cell scourings reported in the post-recovery reviews
 at Sea-Bird.
@@ -282,7 +287,7 @@ negative buoyancy frequency) that were easy to detect and were not real when
 lasting for several days. Based on this, the conductivity correction of the
 corresponding sensors was revised. 
 
-Correction of the near-bottom MicroCATs' conductivities were done following 
+Correction of the deep and the near-bottom MicroCATs' conductivities were done following 
 similar procedures than for the shallow instruments, by comparing them 
 against CTD data from near-bottom profiles conducted during HOT cruises 
 ({numref}`figure5.7`, bottom panel). After correction, the salinity 
