@@ -119,6 +119,7 @@ latex_elements = {
     # ===================== PREAMBLE ======================================
     'preamble': r'''
         \input{mystyle.sty}
+        \usepackage[notocbib]{apacite}
     ''',
     # ============== COVER PAGE + TABLE OF CONTENTS  ======================
     'maketitle': r''' 
