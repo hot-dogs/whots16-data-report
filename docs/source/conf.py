@@ -23,8 +23,8 @@ copyright = f'{datetime.now().year}, Hawaii Ocean Time-series (HOT)'
 author = 'Fernando Carvalho Pacheco, Fernando Santiago-Mandujano '
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.8'
-version = '0.0.8'
+release = '0.0.7'
+version = '0.0.7'
 
 # -- General configuration ---------------------------------------------------
 extensions = [
