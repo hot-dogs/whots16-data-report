@@ -122,7 +122,7 @@
 \usepackage{footmisc}
 
 %======================================================================
-%  Remove bibliography section title from the LaTeX output
+% Removed references from toc
 %======================================================================
 \usepackage{etoolbox}
 \patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
@@ -142,3 +142,9 @@
 % for °C
 \usepackage[T1]{fontenc}
 \usepackage{gensymb}
+
+%======================================================================
+% hardware to remove extra bibliography/reference title on toc
+%======================================================================
+\addto\captionsenglish{\renewcommand{\bibname}{References}}
+\phantomsection
