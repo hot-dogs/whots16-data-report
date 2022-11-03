@@ -116,6 +116,8 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
   [OCE-1756517](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1756517&HistoricalAwards=false)
   to the University of Hawaii for the Hawaii Ocean Time-series.
 
+- This is SOEST contribution number 11592.
+
 ## Contact 
 - You can contact us by emailing <hotdata@hawaii.edu>
 - Or open a new issue [here](https://github.com/hot-dogs/whots16-data-report/issues)

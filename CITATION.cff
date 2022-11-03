@@ -103,7 +103,7 @@ preferred-citation:
     post-code: 96822
   department: Department of Oceanography
   date-released: 2022-10-30
-  #number: 11186
+  number: 11592
   license: CC-BY-4.0
   collection-doi: 10.5281/zenodo.7259289
   url: http://whots16-data-report.readthedocs.io/
@@ -115,7 +115,7 @@ preferred-citation:
   Observing (GOMO) Program through the Cooperative Institute for the North Atlantic Region (CINAR) under Cooperative 
   Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by 
   National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University 
-  of Hawaii for the Hawaii Ocean Time-series."
+  of Hawaii for the Hawaii Ocean Time-series. This is SOEST contribution number 11592"
   identifiers:
     - type: doi
       value: "10.5281/zenodo.7259289"

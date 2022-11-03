@@ -19,7 +19,7 @@
     "physical oceanography"
   ],
   "version": "0.0.7",
-  "notes": "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, which is supported in part by the National Oceanic and Atmospheric Administration (NOAA) Global Ocean Monitoring and Observing (GOMO) Program through the Cooperative Institute for the North Atlantic Region (CINAR) under Cooperative Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University of Hawaii for the Hawaii Ocean Time-series.",
+  "notes": "This publication is based upon observations from the WHOI-Hawaii Ocean Time-series Site (WHOTS) mooring, which is supported in part by the National Oceanic and Atmospheric Administration (NOAA) Global Ocean Monitoring and Observing (GOMO) Program through the Cooperative Institute for the North Atlantic Region (CINAR) under Cooperative Agreement NA14OAR4320158. NOAA CPO FundRef number 100007298 to the Woods Hole Oceanographic Institution, and by National Science Foundation grants OCE-0327513,OCE-0752606, OCE-0926766, OCE-1260164 and OCE-1756517 to the University of Hawaii for the Hawaii Ocean Time-series. This is SOEST contribution number 11592",
   "communities": [
     {
       "identifier": "hot"
