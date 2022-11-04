@@ -186,7 +186,7 @@ against bottle data, as explained below.
 Daily files containing navigation data recorded every second were concatenated
 with the thermosalinograph data. The thermosalinograph data were then screened
 for gross errors, with upper and lower bounds of 18°C and 35°C for
-temperature and 3 and 6 Siemens m -1 for conductivity. There were 92 points
+temperature and 3 and 6 Siemens/m for conductivity. There were 92 points
 outside the valid temperature range and no points outside the valid
 conductivity range.
 
