@@ -36,6 +36,12 @@
 :Citation:
     Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7259289
 
+:Contact:
+
+    You can contact us by `<hotdata@hawaii.edu>`_
+
+    Or open a new issue `here <https://github.com/hot-dogs/whots16-data-report/issues>`_
+
 ---------
 
 **Acknowledgements**
@@ -85,9 +91,3 @@
 - This is SOEST contribution number 11592.
 
 ---------
-
-:Contact:
-
-    You can contact us by `<hotdata@hawaii.edu>`_
-
-    Or open a new issue `here <https://github.com/hot-dogs/whots16-data-report/issues>`_
