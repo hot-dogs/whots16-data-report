@@ -125,7 +125,7 @@ that the rest of the moored instruments' temperature drift was insignificant. .
 The two MicroCATs (SN 11391 and SN 12241) deployed near the bottom were drift
 corrected. {numref}`figure5.7` (upper panel) shows the temperature differences
 between both instruments before and after the correction. After the correction,
-the temperature differences were in the {math}`±1.0 × 10^{-3}°C` range.
+the temperature differences were in the {math}`±0.001°C` range.
 
 Temperature comparisons between one of the WHOTS-16 near-surface MicroCAT
 (SN 1834) and the four SBE-56 surface temperature sensors in the buoy hull
@@ -607,7 +607,7 @@ north, can be included in the setup to obtain output data in true-earth
 coordinates. Magnetic variation was obtained from the 
 [National Geophysical Data Center ‘Geomag’ calculator](https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#declination)
 . A constant value is acceptable for a yearlong deployment because the change
-in declination is small, approximately {math}`-0.02° year^{-1}` at the WHOTS 
+in declination is small, approximately {math}`-0.02°year^{-1}` at the WHOTS 
 location. A heading bias of 9.54° was entered in the setup of the WHOTS-16 
 ADCP’s.
 
