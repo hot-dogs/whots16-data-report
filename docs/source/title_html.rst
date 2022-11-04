@@ -89,5 +89,3 @@
   to the University of Hawaii for the Hawaii Ocean Time-series.
 
 - This is SOEST contribution number 11592.
-
----------
