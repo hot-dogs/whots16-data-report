@@ -194,7 +194,7 @@ A 5-point running median filter was used to detect one- or two-point
 temperature and conductivity glitches in the thermosalinograph data. Glitches
 in temperature and conductivity detected by the 5-point median filter were
 immediately replaced by the median. Threshold values of 0.3°C for temperature
-and 0.1 Siemens m-1 for conductivity were used for the median filter. After
+and 0.1 Siemens/m for conductivity were used for the median filter. After
 running the filter, there were 13 internal temperature, 100 external 
 temperature, and 913 conductivity points replaced with the median.  
 
