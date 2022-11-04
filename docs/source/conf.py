@@ -112,6 +112,7 @@ latex_additional_files = [
 ]
 
 latex_elements = {
+    'extraclassoptions': 'openany,oneside',
     'papersize': 'a4paper',
     # Sonny, Lenny, Glenn, Conny, Rejne, Bjarne and Bjornstrup # 'fncychap': '\\usepackage[Lenny]{fncychap}',
     'fncychap': '\\usepackage[Bjornstrup]{fncychap}',
@@ -139,7 +140,6 @@ latex_elements = {
         OuterLinkColor={rgb}{0,0,1}',
 
     'tableofcontents': ' ',
-    'extraclassoptions': 'openany',
 
 }
 
