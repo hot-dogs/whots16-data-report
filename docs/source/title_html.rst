@@ -19,16 +19,16 @@
 ---------
 
 :Title:
-    Hydrographic Observations At the Woods Hole Oceanographic Institution Hawaii Ocean Time-series Site: 2019 - 2021
+    Hydrographic Observations At the Woods Hole Oceanographic Institution Hawaii Ocean Time-series Site: 2019 - 2021.
 
 :Authors:
-    Fernando Carvalho Pacheco
-    Fernando Santiago-Mandujano
-    James Potemra
-    Albert Plueddemann
-    Robert Weller
-    Daniel Fitzgerald
-    and Nan Galbraith
+    Fernando Carvalho Pacheco,
+    Fernando Santiago-Mandujano,
+    James Potemra,
+    Albert Plueddemann,
+    Robert Weller,
+    Daniel Fitzgerald,
+    and Nan Galbraith.
 
 :Data Report:
    16
@@ -38,9 +38,9 @@
 
 :Contact:
 
-    You can contact us by `<hotdata@hawaii.edu>`_
+    You can contact us by `<hotdata@hawaii.edu>`_ .
 
-    Or open a new issue `here <https://github.com/hot-dogs/whots16-data-report/issues>`_
+    Or open a new issue `here <https://github.com/hot-dogs/whots16-data-report/issues>`_ .
 
 ---------
 
