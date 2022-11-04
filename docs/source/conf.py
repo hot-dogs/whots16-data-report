@@ -139,6 +139,7 @@ latex_elements = {
         OuterLinkColor={rgb}{0,0,1}',
 
     'tableofcontents': ' ',
+    'extraclassoptions': 'openany',
 
 }
 
