@@ -8,7 +8,6 @@
 
 # WHOTS-16
 
-
 ```{toctree} 
 :maxdepth: 3
 :numbered:

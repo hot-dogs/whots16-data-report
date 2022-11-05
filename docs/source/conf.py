@@ -82,7 +82,7 @@ pygments_style = 'sphinx'
 
 html_theme = "sphinx_book_theme"
 html_logo = "_static/_images/new_logo_HOT.png"
-html_title = "WHOTS-16"
+html_title = "Data Report #16"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
