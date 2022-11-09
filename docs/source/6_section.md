@@ -485,7 +485,7 @@ indicate the depths of the instrument.
 :height: 1000px
 :align: center
 :name: w1_16_cont_S.png
-Contour plots of salinity versus {{math}`\sigma\theta` from SeaCATs/MicroCATs during WHOTS-1 
+Contour plots of salinity versus {math}`\sigma\theta` from SeaCATs/MicroCATs during WHOTS-1 
 through WHOTS-16 deployments. 
 ```
 
