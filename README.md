@@ -3,7 +3,7 @@
 
 
 [![Documentation Status](https://readthedocs.org/projects/whots16-data-report/badge/?version=latest)](https://whots-annual-report.readthedocs.io/projects/whots16-data-report/en/latest/?badge=latest)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7259289.svg)](https://doi.org/10.5281/zenodo.7259289)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7312691.svg)](https://doi.org/10.5281/zenodo.7312691)
 [![CITATION.cff](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml/badge.svg?branch=main)](https://github.com/hot-dogs/whots16-data-report/actions/workflows/cff-validator.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -55,7 +55,7 @@ data and preliminary analysis ar presented in [Section VI](https://whots-annual-
 
 - `APA`
 ```
-Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7259289
+Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J., Weller, R. A., Fitzgerald, D., & Galbraith, N. R. (2022). Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16. School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI. https://doi.org/10.5281/zenodo.7312691
 ```
 
 - `Bibtex`
@@ -63,7 +63,7 @@ Carvalho Pacheco, F., Santiago-Mandujano, F., Potemra, J. T., Plueddemann, A. J.
 ```bibtex
 @techreport{Carvalho_Pacheco_Hydrographic_Observations_at_2022,
   author = {Carvalho Pacheco, Fernando and Santiago-Mandujano, Fernando and Potemra, James T. and Plueddemann, Albert J. and Weller, Robert A. and Fitzgerald, Daniel and Galbraith, Nancy R.},
-  doi = {10.5281/zenodo.7259289},
+  doi = {10.5281/zenodo.7312691},
   institution = {School of Ocean and Earth Science and Technology (SOEST), Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI}, title = {{Hydrographic Observations at the Woods Hole Oceanographic Institution Hawaii Ocean Time-Series Site (WHOTS): 2019-2021, Data Report #16}},
   url = {http://whots16-data-report.readthedocs.io/},
   year = {2022},
