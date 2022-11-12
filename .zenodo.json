@@ -80,6 +80,11 @@
       "identifier": "ftp://mananui.soest.hawaii.edu/pub/hot/whots/whots_cruises/wh17_cruise",
       "relation": "isSupplementedBy",
       "resource_type": "dataset"
+    },
+    {
+      "scheme": "url",
+      "identifier": "http://www.soest.hawaii.edu/whots/WHOTS-16_datareport.pdf",
+      "relation": "isIdenticalTo"
     }
   ],
   "creators": [
