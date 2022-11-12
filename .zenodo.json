@@ -84,7 +84,8 @@
     {
       "scheme": "url",
       "identifier": "http://www.soest.hawaii.edu/whots/WHOTS-16_datareport.pdf",
-      "relation": "isIdenticalTo"
+      "relation": "isIdenticalTo",
+      "resource_type": "report"
     }
   ],
   "creators": [
